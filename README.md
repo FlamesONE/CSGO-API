@@ -6,43 +6,49 @@ Data are sourced from files maintained at [this repository](https://github.com/B
 
 ## Usage
 
-This API currently supports **2 languages**. To access information in a specific language, replace `{language}` in the URL with one of the supported language codes listed below.
+This API currently supports **28 languages**. To access information in a specific language, replace `{language}` in the URL with one of the supported language codes listed below.
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/{language}
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/{language}
 ```
 
 ## Currently Supported Languages
 
-| Language Name         | Language Code |
-| --------------------- | ------------- |
-| English               | en            |
-| Chinese (Simplified)  | zh-CN         |
-
-## Adding More Languages
-
-If you need support for additional languages, you can:
-
-1. **Fork this repository**
-2. **Uncomment the desired languages** in `constants.js` (lines 24-173)
-3. **Run the update scripts** to generate the language files:
-   ```bash
-   npm run update-data-force
-   npm run group-data-force
-   ```
-
-The following languages are available but commented out in the codebase:
-- Bulgarian (bg), Czech (cs), Danish (da), German (de), Greek (el)
-- Spanish Mexico (es-MX), Finnish (fi), French (fr), Hungarian (hu)
-- Italian (it), Japanese (ja), Korean (ko), Dutch (nl), Norwegian (no)
-- Polish (pl), Portuguese Portugal (pt-PT), Romanian (ro)
-- Swedish (sv), Thai (th), Turkish (tr), Ukrainian (uk)
-- Chinese Traditional (zh-TW), Vietnamese (vi)
+| Language Name           | Language Code |
+| ----------------------- | ------------- |
+| English                 | en            |
+| Chinese (Simplified)    | zh-CN         |
+| Portuguese (Brazil)     | pt-BR         |
+| Russian                 | ru            |
+| Spanish (Spain)         | es-ES         |
+| Bulgarian               | bg            |
+| Czech                   | cs            |
+| Danish                  | da            |
+| Dutch                   | nl            |
+| Finnish                 | fi            |
+| French                  | fr            |
+| German                  | de            |
+| Greek                   | el            |
+| Hungarian               | hu            |
+| Italian                 | it            |
+| Japanese                | ja            |
+| Korean                  | ko            |
+| Spanish (Latin America) | es-MX         |
+| Norwegian               | no            |
+| Polish                  | pl            |
+| Portuguese (Portugal)    | pt-PT         |
+| Romanian                | ro            |
+| Swedish                 | sv            |
+| Chinese (Traditional)   | zh-TW         |
+| Thai                    | th            |
+| Turkish                 | tr            |
+| Ukrainian               | uk            |
+| Vietnamese              | vi            |
 
 ### All items
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/all.json
 ```
 
 Object with all items accessible by their id.
@@ -50,7 +56,7 @@ Object with all items accessible by their id.
 ### List skins
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/skins.json
 ```
 
 Example response:
@@ -124,7 +130,7 @@ Example response:
 ### List skins not grouped
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins_not_grouped.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/skins_not_grouped.json
 ```
 
 Similar to the previous but in this case is not grouped by wear (Factory New, Field-Tested, etc) and state (normal, stattrak, souvenir).
@@ -187,7 +193,7 @@ Example response:
 ### List stickers
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/stickers.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/stickers.json
 ```
 
 Example response:
@@ -227,7 +233,7 @@ Example response:
 ### List sticker slabs
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/sticker_slabs.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/sticker_slabs.json
 ```
 
 Example response:
@@ -278,7 +284,7 @@ Example response:
 ### List keychains (charms)
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keychains.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/keychains.json
 ```
 
 Example response:
@@ -314,7 +320,7 @@ Example response:
 ### List collections
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collections.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/collections.json
 ```
 
 Example response:
@@ -359,7 +365,7 @@ Example response:
 This list includes cases, capsules, graffiti boxes, music kit boxes and souvenir packages.
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/crates.json
 ```
 
 Example response:
@@ -421,7 +427,7 @@ Example response:
 ### List keys
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keys.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/keys.json
 ```
 
 Example response:
@@ -453,7 +459,7 @@ Example response:
 ### List collectibles
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collectibles.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/collectibles.json
 ```
 
 Example response:
@@ -483,7 +489,7 @@ Example response:
 ### List agents
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/agents.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/agents.json
 ```
 
 Example response:
@@ -523,7 +529,7 @@ Example response:
 ### List patches
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/patches.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/patches.json
 ```
 
 Example response:
@@ -551,7 +557,7 @@ Example response:
 ### List graffiti
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/graffiti.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/graffiti.json
 ```
 
 Example response:
@@ -587,7 +593,7 @@ Example response:
 ### List music kits
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/music_kits.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/music_kits.json
 ```
 
 Example response:
@@ -616,7 +622,7 @@ Example response:
 ### List base weapons
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/base_weapons.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/base_weapons.json
 ```
 
 Example response:
@@ -636,7 +642,7 @@ Example response:
 ### List highlights
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highlights.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/highlights.json
 ```
 
 ```js
