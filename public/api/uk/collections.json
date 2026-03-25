@@ -16055,18 +16055,18 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "Колекція «Мертва рука»",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатаний термінал «Мертва рука»",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
   "contains": [
    {
     "id": "skin-526e890d5739",
-    "name": "М249 | Bock Blocks",
+    "name": "М249 | Ко-ко-блоки",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16077,7 +16077,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "М4А4 | Zubastick",
+    "name": "М4А4 | Зубастик",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16088,7 +16088,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "УМП-45 | Fragment",
+    "name": "УМП-45 | Фрагмент",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16099,7 +16099,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "Обріз | Fusion",
+    "name": "Обріз | Злиття",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16110,7 +16110,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "Five-seveN | Dark Polymer",
+    "name": "Five-seveN | Темний полімер",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16121,7 +16121,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "УСП-С | Silent Shot",
+    "name": "УСП-С | Беззвучний постріл",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "армійського ґатунку",
@@ -16143,7 +16143,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "Пустельний орел | Firebreathing",
+    "name": "Пустельний орел | Полум’яне дихання",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "зброя спецслужб",
@@ -16154,7 +16154,7 @@
    },
    {
     "id": "skin-62ecfa87b86d",
-    "name": "М4А1-С | Electrum",
+    "name": "М4А1-С | Електрум",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "зброя спецслужб",
@@ -16165,7 +16165,7 @@
    },
    {
     "id": "skin-55d44f236355",
-    "name": "МП7 | Amberline",
+    "name": "МП7 | Смугастий бурштин",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "зброя спецслужб",
@@ -16176,7 +16176,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "Ґаліл | Galigator",
+    "name": "Ґаліл | Ґалігатор",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "зброя спецслужб",
@@ -16187,7 +16187,7 @@
    },
    {
     "id": "skin-36e373c7de1c",
-    "name": "МП9 | Urban Sovereign",
+    "name": "МП9 | Урбаністичний суверен",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "зброя спецслужб",
@@ -16198,7 +16198,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "АК-47 | Crane Flight",
+    "name": "АК-47 | Політ журавля",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "секретна зброя",
@@ -16209,7 +16209,7 @@
    },
    {
     "id": "skin-2f5828f37817",
-    "name": "П250 | Kintsugi",
+    "name": "П250 | Кінцуґі",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "секретна зброя",
@@ -16220,7 +16220,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "П90 | Deathgaze",
+    "name": "П90 | Погляд смерті",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "секретна зброя",
@@ -16231,7 +16231,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "АВП | Queen's Gambit",
+    "name": "АВП | Хід королеви",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "надсекретна зброя",
@@ -16242,7 +16242,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Ґлок-18 | Fully Tuned",
+    "name": "Ґлок-18 | Повний фарш",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "надсекретна зброя",
