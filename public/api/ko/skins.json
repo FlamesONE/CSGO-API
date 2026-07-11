@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | 자동 장전",
+  "description": "강력하고 믿을 수 있는 AK-47은 세계에서 가장 유명한 돌격소총 중 하나입니다. 제어된 점사를 할 때 가장 위력적인 소총입니다. 고광택 파란색과 분홍색의 그라데이션과 다양한 그래픽 디자인으로 도색했습니다.\\n\\n콘솔에서 '처치'.",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "자동 장전"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "극비",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | 두루미의 날갯짓",
   "description": "강력하고 믿을 수 있는 AK-47은 세계에서 가장 유명한 돌격소총 중 하나입니다. 제어된 점사를 할 때 가장 위력적인 소총입니다. 검은색 및 흰색 바탕에 학을 손으로 직접 그리고 금색 장식을 더했습니다.\\n\\n개기월식 직전",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Jinn의 여파",
+  "description": "강력하고 믿을 수 있는 AK-47은 세계에서 가장 유명한 돌격소총 중 하나입니다. 제어된 점사를 할 때 가장 위력적인 소총입니다. 강렬한 주황색 바탕 위에 광택이 나는 금빛 화염과, 탄창 주변 및 상단에 진 문양을 도색했습니다.\\n\\n소원을 현명하게 비세요...",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Jinn의 여파"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "극비",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | 신호 스캐너",
+  "description": "강력하고 정확한 AUG 조준경 부착식 돌격소총은 긴 재장전 시간을 높은 집탄율과 연사력으로 보완합니다. 무광 검은색 바탕에 다양한 색상의 디자인으로 도색했습니다.\\n\\n재연결 시도 중 ... ... ...",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "신호 스캐너"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | 청금석",
+  "description": "강력하고 정확한 AUG 조준경 부착식 돌격소총은 긴 재장전 시간을 높은 집탄율과 연사력으로 보완합니다. 청금석을 표현하기 위해 흰색, 파란색, 검은색으로 도색했습니다.\\n\\n강렬하면서도 깨지기 쉬운 절묘한 작품.",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "청금석"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | 럭셔리 트림",
   "description": "강력하고 정확한 AUG 조준경 부착식 돌격소총은 긴 재장전 시간을 높은 집탄율과 연사력으로 보완합니다. 패딩 재킷 스타일 느낌이 나도록 특수 도색하고 구리색으로 장식하여 마감했습니다.\\n\\n프리미엄 패키지",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | 검은 상자",
+  "description": "위험할수록 큰 보상이 따르는 이 악명 높은 AWP는 단방에 적을 제압하는 방식이 특징인 것으로 널리 알려져 있습니다. 무광 검은색 바탕에 주황색 줄무늬로 도색했습니다.\\n\\n'별거 없어, 알겠지?'",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "검은 상자"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | 아이스",
   "description": "위험할수록 큰 보상이 따르는 이 악명 높은 AWP는 단방에 적을 제압하는 방식이 특징인 것으로 널리 알려져 있습니다. 선명한 초록색과 파란색의 그라데이션으로 도색했습니다.\\n\\n<i>만지면 차갑다.</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | 지배자의 불꽃",
+  "description": "위험할수록 큰 보상이 따르는 이 악명 높은 AWP는 단방에 적을 제압하는 방식이 특징인 것으로 널리 알려져 있습니다. 황금색 조준경과 무기 전체를 화염 무늬로 도색했습니다.\\n\\n고귀한 자가 승리했다.",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "지배자의 불꽃"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "극비",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "★ 총검 | 살인마",
-  "description": "제2차 세계대전 이후로도 비교적 변한 게 없는 총검은 현대의 군사 전략에도 여전히 사용되며 착검 돌격이 포함된 전술은 과거부터 2차 걸프전과 아프가니스탄의 전쟁과 같은 최근의 경우에서도 그 효율성을 재차 입증했습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "제2차 세계대전 이후로도 비교적 변한 게 없는 총검은 현대의 군사 전략에도 여전히 사용되며 착검 돌격이 포함된 전술은 과거부터 2차 걸프전과 아프가니스탄의 전쟁과 같은 최근의 경우에서도 그 효율성을 재차 입증했습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP 비존 | 배신자",
+  "description": "비존 기관단총은 피해력이 낮지만 재장전이 빠른, 특수 제작한 고용량 드럼 탄창을 사용합니다. 황동색과 금색으로 도색했습니다.\\n\\n황동과 총알",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP 비존"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "배신자"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75 기관권총 | 하이드로릭스",
+  "description": "자동 사격이 가능하도록 개조된 CZ75 기관권총은 전세를 역전시키고 적의 무기를 탈취하기 위해 잠깐 쓰기 좋은 무기입니다. 허나 제공된 탄약이 매우 적기 때문에 조심스럽게 사격해야 할 것입니다. 탄창은 폴리머 소재처럼 보이도록 도색했으며 방아쇠 위쪽에 'HYDRA'를 도색했습니다.\\n\\n당신이 바로 헤라클래스인가요?",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75 기관권총"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "하이드로릭스"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75 기관권총 | 전술 고양이",
   "description": "자동 사격이 가능하도록 개조된 CZ75 기관권총은 전세를 역전시키고 적의 무기를 탈취하기 위해 잠깐 쓰기 좋은 무기입니다. 허나 제공된 탄약이 매우 적기 때문에 조심스럽게 사격해야 할 것입니다. 분홍색과 보라색으로 도색했으며 작은 고양이가 특징입니다.\\n\\n<i>24발의 총알, 9개의 목숨</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "데저트 이글 | 동방의 수수께끼",
+  "description": "비싼 만큼 큰 위력을 지닌 유명한 권총인 데저트 이글은 익숙해지기 어렵지만 장거리에서도 놀라운 명중률을 지니고 있습니다. 금속성 광택이 나는 은색, 검은색, 파란색이 돋보이는 디자인으로 도색했습니다.\\n\\n집중력을 잃지 마세요.",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "데저트 이글"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "동방의 수수께끼"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "기밀",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "데저트 이글 | 불의 숨결",
   "description": "비싼 만큼 큰 위력을 지닌 유명한 권총인 데저트 이글은 익숙해지기 어렵지만 장거리에서도 놀라운 명중률을 지니고 있습니다. 진줏빛 광택이 나는 페인트로 보라색과 파란색 불꽃 무늬를 특수 도색했습니다.\\n\\n특별한 품질과 특성을 갖추고 있습니다.",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "듀얼 베레타 | 은밀한 연대",
+  "description": "고용량 탄창을 장착한 2정의 베레타 권총을 같이 사격할 경우 명중률이 떨어지고 재장전 시간이 늘어납니다. 그렇지만 2정의 고용량 탄창을 지닌 베레타 권총을 한번에 사격할 수 있다는 것이 장점입니다. 겹쳐지면 사막의 눈이 되는 유려한 선들이 어우러진 금색으로 도색했습니다.\\n\\n공유된 시야.",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "듀얼 베레타"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "은밀한 연대"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "듀얼 베레타 | 왕족의 배우자",
   "description": "고용량 탄창을 장착한 2정의 베레타 권총을 같이 사격할 경우 명중률이 떨어지고 재장전 시간이 늘어납니다. 그렇지만 2정의 고용량 탄창을 지닌 베레타 권총을 한번에 사격할 수 있다는 것이 장점입니다. 손잡이는 초록색 진주 무늬로, 측면은 그리핀 문양으로, 그리고 슬라이드는 레이저 에칭공법으로 장식되어 있습니다. 이보다 더 우아한 권총은 찾기 힘드실 겁니다.\\n\\n<i>얼굴을 바꾸고 비둘기를 날리다.</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "듀얼 베레타 | 빛나는 공작석",
-  "description": "고용량 탄창을 장착한 2정의 베레타 권총을 같이 사격할 경우 명중률이 떨어지고 재장전 시간이 늘어납니다. 그렇지만 2정의 고용량 탄창을 지닌 베레타 권총을 한번에 사격할 수 있다는 것이 장점입니다. 선명한 초록색과 은색으로 도색했습니다. 그립은 도자기 재질의 탑코트로 마감했습니다.\\n\\n이 무기는 아주 인정받을 만하지. 당신은 딱히 그렇지는 않지만... - 부스, 무기 거래상",
+  "description": "고용량 탄창을 장착한 2정의 베레타 권총을 같이 사격할 경우 명중률이 떨어지고 재장전 시간이 늘어납니다. 그렇지만 2정의 고용량 탄창을 지닌 베레타 권총을 한번에 사격할 수 있다는 것이 장점입니다. 선명한 초록색과 은색으로 도색했습니다. 그립은 도자기 재질의 코팅제로 마감했습니다.\\n\\n이 무기는 아주 인정받을 만하지. 당신은 딱히 그렇지는 않지만... - 부스, 무기 거래상",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "파마스 | 철통 방어",
+  "description": "돈이 없는 플레이어들을 위한 파마스 돌격소총은 값비싼 소총과 효율이 떨어지는 기관단총 사이의 무기라 할 수 있습니다. 검은색과 빨간색으로 도색했습니다.\\n\\n수트와 선글라스는 별도 판매.",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "파마스"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "철통 방어"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "파마스 | 뱀의 노래",
+  "description": "돈이 없는 플레이어들을 위한 파마스 돌격소총은 값비싼 소총과 효율이 떨어지는 기관단총 사이의 무기라 할 수 있습니다. 무광 금색 바탕에 빛나는 금색 테두리로 강조된 녹색 뱀을 도색했습니다.\\n\\n한 줄기 희망.",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "파마스"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "뱀의 노래"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37880,6 +38684,73 @@
   }
  },
  {
+  "id": "skin-4390d95df013",
+  "name": "파이브 세븐 | 데저트 씰",
+  "description": "명중률이 뛰어나고 철갑탄을 사용하는 파이브 세븐은 비싸고 재장전 속도가 느리지만 20발의 대용량 탄창과 낮은 반동이 이를 보완해줍니다. 데저트 씰 디자인을 은색과 보라색 페인트로 도색했습니다.\\n\\n운명이 나를 부른다.",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "파이브 세븐"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "데저트 씰"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
   "id": "skin-204c9ef36369",
   "name": "파이브 세븐 | 하이브리드",
   "description": "명중률이 뛰어나고 철갑탄을 사용하는 파이브 세븐은 비싸고 재장전 속도가 느리지만 20발의 대용량 탄창과 낮은 반동이 이를 보완해줍니다. 은색 도료 바탕에 밝은 보라색 줄무늬를 특수 도색했습니다.\\n\\n<i>언제 어디서든 지저분하게</i>",
@@ -40760,7 +41631,7 @@
  {
   "id": "skin-50c760b84a50",
   "name": "G3SG1 | 극지 위장",
-  "description": "약간 비싼 G3SG1은 이동 속도를 상당히 감소시키는 대신 다른 저격소총에 비해 높은 연사력으로 이를 보완합니다. 극지 위장 무늬가 수전사 방식으로 도색되었습니다.\\n\\n<i> 눈은 차갑고, 죽음은 더 차갑다</i>",
+  "description": "약간 비싼 G3SG1은 이동 속도를 상당히 감소시키는 대신 다른 저격소총에 비해 높은 연사력으로 이를 보완합니다. 극지 위장 무늬가 수전사 방식으로 도색했습니다.\\n\\n<i> 눈은 차갑고, 죽음은 더 차갑다</i>",
   "weapon": {
    "id": "weapon_g3sg1",
    "weapon_id": 11,
@@ -40888,7 +41759,7 @@
  {
   "id": "skin-fa0d5aa90fb2",
   "name": "G3SG1 | 극지 위장",
-  "description": "약간 비싼 G3SG1은 이동 속도를 상당히 감소시키는 대신 다른 저격소총에 비해 높은 연사력으로 이를 보완합니다. 극지 위장 무늬가 수전사 방식으로 도색되었습니다.\\n\\n<i> 눈은 차갑고, 죽음은 더 차갑다</i>",
+  "description": "약간 비싼 G3SG1은 이동 속도를 상당히 감소시키는 대신 다른 저격소총에 비해 높은 연사력으로 이를 보완합니다. 극지 위장 무늬가 수전사 방식으로 도색했습니다.\\n\\n<i> 눈은 차갑고, 죽음은 더 차갑다</i>",
   "weapon": {
    "id": "weapon_g3sg1",
    "weapon_id": 11,
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "글록 18 | 고스트 프로토콜",
+  "description": "기본적으로 지급되는 글록 18은 방탄복을 착용하지 않은 적을 상대할 때 가장 좋은 권총으로, 3점사가 가능합니다. 다양한 광택의 빨간색 페인트로 도색했습니다.\\n\\n미행당했대도 상관 없다. 당신이 지금 여기 있으니 - 발레이아 제너, 혁명가",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "글록 18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "고스트 프로토콜"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "극비",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "글록 18 | 이프리트 격자",
+  "description": "기본적으로 지급되는 글록 18은 방탄복을 착용하지 않은 적을 상대할 때 가장 좋은 권총으로, 3점사가 가능합니다. 황갈색과 검은색 디자인으로 도색했습니다.\\n\\n뒤떨어진 정보도 여전히 정보입니다, 알다시피...",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "글록 18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "이프리트 격자"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "글록 18 | 완벽 튜닝",
   "description": "기본적으로 지급되는 글록 18은 방탄복을 착용하지 않은 적을 상대할 때 가장 좋은 권총으로, 3점사가 가능합니다. 네온 색상과 반짝이는 금속성 페인트를 사용하여 특수 도색했습니다.\\n\\n나한테는 좀 과하지만, 고객 취향은 또 다르니까... - 부스, 무기 거래상",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "★ 버터플라이 나이프 | 살인마",
-  "description": "우리에게 버터플라이 나이프라는 이름으로 더 친숙한 주문 제작된 발리송입니다. 이 칼은 부채꼴로 자유롭게 펼칠 수 있어 빠르게 접었다 펼칠 수 있다는 특징이 있습니다. 하지만 때문에 많은 나라에서 이 칼은 불법으로 규정되고 있기도 합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "우리에게 버터플라이 나이프라는 이름으로 더 친숙한 주문 제작된 발리송입니다. 이 칼은 부채꼴로 자유롭게 펼칠 수 있어 빠르게 접었다 펼칠 수 있다는 특징이 있습니다. 하지만 때문에 많은 나라에서 이 칼은 불법으로 규정되고 있기도 합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "★ 서바이벌 칼 | 살인마",
-  "description": "이 다목적 전술 나이프는 뼈나 섬유와 같은 거친 물질을 찢을 수 있는 톱니 모양의 모서리가 특징이며, 추가로 날카로운 갈고리도 달려있습니다. 복합 재료로 만든 손잡이가 육각형 너트로 칼날에 고정되어 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "이 다목적 전술 나이프는 뼈나 섬유와 같은 거친 물질을 찢을 수 있는 톱니 모양의 모서리가 특징이며, 추가로 날카로운 갈고리도 달려있습니다. 복합 재료로 만든 손잡이가 육각형 너트로 칼날에 고정되어 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "★ 파라코드 칼 | 살인마",
-  "description": "이 고정된 칼날의 서바이벌 칼은 덫을 설치하거나 동물을 사냥할 때 또는 수풀을 헤칠 때 사용할 수 있는 도구이자 무기로 활용할 수 있도록 설계되었습니다. 손잡이는 다용도 파라코드로 감겨 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "이 고정된 칼날의 서바이벌 칼은 덫을 설치하거나 동물을 사냥할 때 또는 수풀을 헤칠 때 사용할 수 있는 도구이자 무기로 활용할 수 있도록 설계되었습니다. 손잡이는 다용도 파라코드로 감겨 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "★ 클래식 칼 | 살인마",
-  "description": "Counter-Strike 시리즈의 고전적인 칼로, 칼볼과 칼등에 있는 티타늄이 정밀하게 맞물리기 때문에 이 칼의 가장자리에 압입식 스텔라이트 합금이 완벽하게 제자리에 고정되어 있습니다. 손잡이는 탄소 섬유 주머니에 들어있는 화석화된 마스토돈 상아로 되어있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "Counter-Strike 시리즈의 고전적인 칼로, 칼볼과 칼등에 있는 티타늄이 정밀하게 맞물리기 때문에 이 칼의 가장자리에 압입식 스텔라이트 합금이 완벽하게 제자리에 고정되어 있습니다. 손잡이는 탄소 섬유 주머니에 들어있는 화석화된 마스토돈 상아로 되어있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "★ 파르치온 칼 | 살인마",
-  "description": "파르치온 검을 닮은 칼로 곡선형의 날을 지니고 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "파르치온 검을 닮은 칼로 곡선형의 날을 지니고 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "★ 접이식 칼 | 살인마",
-  "description": "스포츠용의 접이식 칼은 페르시아식으로 뒤로 젖혀진 칼날에 예리한 칼끝을 지녔습니다. 부서질 것만 같은 형태지만, 전반적으로 접이식 칼의 설계는 놀랄만큼 튼튼합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "스포츠용의 접이식 칼은 페르시아식으로 뒤로 젖혀진 칼날에 예리한 칼끝을 지녔습니다. 부서질 것만 같은 형태지만, 전반적으로 접이식 칼의 설계는 놀랄만큼 튼튼합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "★ 갈고리 칼 | 살인마",
-  "description": "갈고리 칼은 칼등에 갈고리 모양의 홈을 지닌 칼로 원래 사냥감의 내장을 제거하는 데 쓰이는 도구이며 갈고리는 밧줄, 가죽 그리고 안전벨트와 같은 섬유를 자르는 데에도 효율적입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "갈고리 칼은 칼등에 갈고리 모양의 홈을 지닌 칼로 원래 사냥감의 내장을 제거하는 데 쓰이는 도구이며 갈고리는 밧줄, 가죽 그리고 안전벨트와 같은 섬유를 자르는 데에도 효율적입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "★ 나바하 칼 | 살인마",
-  "description": "대리석과 에나멜로 마감된 손잡이가 달린 이 접이식 칼은 작지만 위협적인 칼날을 숨기고 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "대리석과 에나멜로 마감된 손잡이가 달린 이 접이식 칼은 작지만 위협적인 칼날을 숨기고 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "★ 카람빗 | 살인마",
-  "description": "카람빗은 호랑이 발톱을 본따 만들어진 곡도로, 동남아시아의 전통무술 중 하나인 실라트의 일부로써 개발되었습니다. 이 칼은 보통 검지를 고리에 끼우고 거꾸로 쥔 상태에서 사용합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "카람빗은 호랑이 발톱을 본따 만들어진 곡도로, 동남아시아의 전통무술 중 하나인 실라트의 일부로써 개발되었습니다. 이 칼은 보통 검지를 고리에 끼우고 거꾸로 쥔 상태에서 사용합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "★ 쿠크리 칼 | 살인마",
-  "description": "결혼식이나 제사와 같은 전통 의식에 사용됩니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "결혼식이나 제사와 같은 전통 의식에 사용됩니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "★ M9 총검 | 살인마",
-  "description": "M-9 총검은 총기에 부착하기 위해 만들어진 칼로 근접 전투에 알맞는 무기입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "M-9 총검은 총기에 부착하기 위해 만들어진 칼로 근접 전투에 알맞는 무기입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "★ 노매드 칼 | 살인마",
-  "description": "이 인체 공학적이며 전술과 사냥에 모두 특화된 락블레이드 형태의 나이프는 복합 재료로 만든 손잡이와 넓고 견고한 칼날을 자랑하며 물체를 자르고 쪼개는데 유용합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "이 인체 공학적이며 전술과 사냥에 모두 특화된 락블레이드 형태의 나이프는 복합 재료로 만든 손잡이와 넓고 견고한 칼날을 자랑하며 물체를 자르고 쪼개는데 유용합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "★ 섀도우 칼 | 살인마",
-  "description": "효과적인 폭력성을 위해 설계되었으며, 칼을 찔러넣는 것은 주먹을 한두 번 내지르는 것처럼 쉽습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "효과적인 폭력성을 위해 설계되었으며, 칼을 찔러넣는 것은 주먹을 한두 번 내지르는 것처럼 쉽습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "★ 스켈레톤 칼 | 살인마",
-  "description": "이 스켈레톤 나이프는 그립감을 개선하기 위해 손잡이 부분을 테이프로 처리했습니다. 안정성과 안전을 위해 칼에 나 있는 구멍에 손가락을 끼울 수 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "이 스켈레톤 나이프는 그립감을 개선하기 위해 손잡이 부분을 테이프로 처리했습니다. 안정성과 안전을 위해 칼에 나 있는 구멍에 손가락을 끼울 수 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "★ 스틸레토 칼 | 살인마",
-  "description": "역사적으로 논쟁의 초점이자 심지어 규제의 중심이었던 이 이탈리아식 양날형 스위치 블레이드 나이프는 버튼을 눌러 스프링의 탄성으로 즉시 칼날이 튀어나오게 만드는 것이 특징입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "역사적으로 논쟁의 초점이자 심지어 규제의 중심이었던 이 이탈리아식 양날형 스위치 블레이드 나이프는 버튼을 눌러 스프링의 탄성으로 즉시 칼날이 튀어나오게 만드는 것이 특징입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "★ 보위 칼 | 살인마",
-  "description": "검체가 손잡이까지 이어지고 검등이 톱날처럼 된 보위 칼은 잔혹한 생존 환경에서 유용하게 쓰일 수 있도록 설계된 칼입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "검체가 손잡이까지 이어지고 검등이 톱날처럼 된 보위 칼은 잔혹한 생존 환경에서 유용하게 쓰일 수 있도록 설계된 칼입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "★ 헌츠맨 칼 | 살인마",
-  "description": "현대적 전술에 맞춤 제작된 칼으로서, 전투 및 실용적인 활용 모두에 걸맞습니다. 이 칼의 극단적인 날카로움은 매우 단단한 표면도 뚫을 수 있는 극대의 관통력을 제공합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "현대적 전술에 맞춤 제작된 칼으로서, 전투 및 실용적인 활용 모두에 걸맞습니다. 이 칼의 극단적인 날카로움은 매우 단단한 표면도 뚫을 수 있는 극대의 관통력을 제공합니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "★ 우르수스 칼 | 살인마",
-  "description": "풀 탱 처리된 이 탄토 형식의 서바이벌 칼은 깎여나간 듯한 형태의 칼날이 특징이며 칼자루 끝이 충격을 흡수하도록 마감되었습니다. 불필요한 부분은 생략하고 언제든지 쓸 수 있게 준비된 칼입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "풀 탱 처리된 이 탄토 형식의 서바이벌 칼은 깎여나간 듯한 형태의 칼날이 특징이며 칼자루 끝이 충격을 흡수하도록 마감되었습니다. 불필요한 부분은 생략하고 언제든지 쓸 수 있게 준비된 칼입니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "★ 탈론 칼 | 살인마",
-  "description": "손잡이가 상아로 제작된 이 카람빗은 톱날이 서있는 칼등과 황동 리벳이 특징으로 찌르면서 베어내고 빼내면서 찢어낼 수 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 도료로 얼룩말 줄무늬를 칠한 다음 토마토 레드색 코팅제를 덧씌워 도색했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!<i>",
+  "description": "손잡이가 상아로 제작된 이 카람빗은 톱날이 서있는 칼등과 황동 리벳이 특징으로 찌르면서 베어내고 빼내면서 찢어낼 수 있습니다. 이 무기는 각기 다른 반사도를 가진 알루미늄과 크롬 페인트 얼룩말 줄무늬를 도색한 후 다음 토마토 레드색 코팅제를 덧씌워 마무리했습니다.\\n\\n<i>발레리아는 하비엘한테 질문이나 하라고 돈을 준 게 아냐... 고문해서 정보를 빼내 오라고 주는 거지!</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | 어둠의 작전",
+  "description": "AK-47보다 명중률이 더 높지만 위력이 떨어지는 M4A4는 대테러부대에게 딱 맞는 완전 자동 돌격소총입니다. 무광의 검은색과 은색으로 특수 도색하고 흰색 그래픽 디자인으로 마감했습니다.\\n\\n스타일보다 기능성 우선.",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "어둠의 작전"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | 팔라크",
+  "description": "AK-47보다 명중률이 더 높지만 위력이 떨어지는 M4A4는 대테러부대에게 딱 맞는 완전 자동 돌격소총입니다. 황갈색 바탕에 붉은 뱀을 도색했습니다.\\n\\n당신이 가진 힘은 절제가 필요합니다.",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "팔라크"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "기밀",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | 터빈",
   "description": "AK-47보다 명중률이 더 높지만 위력이 떨어지는 M4A4는 대테러부대에게 딱 맞는 완전 자동 돌격소총입니다. 와인 색상의 페인트로 특수 도색했습니다.\\n\\n경고: 장시간 사격 시 과열 발생",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | 치명적인 오류",
+  "description": "소음기가 없는 유사 제품보다 탄창이 더 작은, 소음기 장비 M4A1은 낮은 반동과 높은 명중률을 조용한 사격음과 함께 제공합니다. 밝은 진줏빛 녹색으로 도색했습니다. \\n\\n눈에 띄지 않는 것이 불가능할 때.",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "치명적인 오류"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "기밀",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | 아라베스크 모자이크",
+  "description": "총알이 나오는 상자라 할 수 있는 MAC-10 기관단총은 높은 연사력을 자랑하지만, 대신에 영 좋지 못한 집탄율과 높은 반동을 지녔습니다. 중동 지역의 풍경을 연상시키는 흐르는 듯한 무늬로 도색했습니다.\\n\\n끊임없이 변화하는 모래",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "아라베스크 모자이크"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | 라이트 박스",
   "description": "총알이 나오는 상자라 할 수 있는 MAC-10 기관단총은 높은 연사력을 자랑하지만, 대신에 영 좋지 못한 집탄율과 높은 반동을 지녔습니다. 마치 MAC-10 뒷면에서 내부를 들여다볼 수 있는 듯한 디자인을 특수 도색했습니다.\\n\\n<i>맞춤 제작</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | 비디오 카메라",
+  "description": "총알이 나오는 상자라 할 수 있는 MAC-10 기관단총은 높은 연사력을 자랑하지만, 대신에 영 좋지 못한 집탄율과 높은 반동을 지녔습니다. 휴대용 카메라처럼 보이도록 도색했습니다.\\n\\n녹화중...",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "비디오 카메라"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -107606,7 +108946,7 @@
  {
   "id": "skin-7036be1d6dd2",
   "name": "MP7 | 페이드",
-  "description": "활용도가 뛰어나지만 비싼 독일제 MP7 기관단총은 강력하고 빠른 근접 전투에 적합한 총기입니다. 이 무기는 크롬 코팅제를 바른 뒤 서로 어울리는 색깔의 페인트를 에어브러쉬를 이용하여 도색했습니다. \\n\\n<i>이것은 단순한 무기가 아니다. 이것은 소통의 방편이다 - 이모젠, 견습 무기 거래상</i>",
+  "description": "활용도가 뛰어나지만 비싼 독일제 MP7 기관단총은 강력하고 빠른 근접 전투에 적합한 총기입니다. 이 무기는 크롬 코팅제를 바른 뒤 서로 어울리는 색깔의 페인트를 에어브러시를 이용하여 도색했습니다. \\n\\n<i>이것은 단순한 무기가 아니다. 이것은 소통의 방편이다 - 이모젠, 견습 무기 거래상</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | 군사 기지 2",
+  "description": "활용도가 뛰어나지만 비싼 독일제 MP7 기관단총은 강력하고 빠른 근접 전투에 적합한 총기입니다. 녹색과 검은색을 사용하여 1과 0이 반복되는 바이너리 무늬를 도색했습니다.\\n\\n01001101 01010000 00110111",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "군사 기지 2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | 저스트 스마일",
   "description": "활용도가 뛰어나지만 비싼 독일제 MP7 기관단총은 강력하고 빠른 근접 전투에 적합한 총기입니다. 파란색과 보라색 바탕에 스마일 로고와 노란색 'Just Smile' 문구를 도색했습니다.\\n\\n<i>'다같이, 치이이이즈!'</i>",
@@ -110808,7 +112215,7 @@
  {
   "id": "skin-df8f2056f525",
   "name": "MP9 | 판도라의 상자",
-  "description": "스위스제 최첨단 MP9 기관단총은 인체공학적 설계와 가벼운 중합체를 재료로 한 총기로 사설 보안 단체들이 애용합니다. 에어브러쉬를 사용해 만화적인 영혼의 모습을 그려 넣었습니다. \\n\\n<i> 이 세상은 화염에 휩싸였지만 적어도 우리에겐 희망이 있어</i>",
+  "description": "스위스제 최첨단 MP9 기관단총은 인체공학적 설계와 가벼운 중합체를 재료로 한 총기로 사설 보안 단체들이 애용합니다. 에어브러시를 사용해 만화적인 영혼의 모습을 그려 넣었습니다. \\n\\n<i> 이 세상은 화염에 휩싸였지만 적어도 우리에겐 희망이 있어</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | 사막 독사",
+  "description": "스위스제 최첨단 MP9 기관단총은 인체공학적 설계와 가벼운 중합체를 재료로 한 총기로 사설 보안 단체들이 애용합니다. 황동색 바탕에 흰색 뱀을 캘리그래피 스타일로 도색했습니다.\\n\\n황량한 시대에 남겨진 특이한 유물",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "사막 독사"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | 넥서스",
   "description": "스위스제 최첨단 MP9 기관단총은 인체공학적 설계와 가벼운 중합체를 재료로 한 총기로 사설 보안 단체들이 애용합니다. 은색 페인트가 상감된 현대적인 디자인을 은색, 검은색, 파란색 페인트로 특수 도색했습니다.\\n\\n개인적이면서도 절제된 느낌입니다.",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | 스파이 프로토타입",
+  "description": "스위스제 최첨단 MP9 기관단총은 인체공학적 설계와 가벼운 중합체를 재료로 한 총기로 사설 보안 단체들이 애용합니다. 광택이 나는 흰색 바탕에 파란색 디자인으로 도색했습니다.\\n\\n결과는 다를 수 있습니다.",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "기관단총"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "스파이 프로토타입"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "노바 | 꽃탄총",
-  "description": "노바의 땅을 치는 가격은 가난한 팀에서 이 총을 기습용 무기로 선택하는 이유입니다. 벚꽃을 주제로 에어브러쉬를 이용해 손으로 직접 도색한 뒤 고광택 코팅제로 마무리했습니다.",
+  "description": "노바의 땅을 치는 가격은 가난한 팀에서 이 총을 기습용 무기로 선택하는 이유입니다. 에어브러시를 이용해 벚꽃 무늬를 수작업으로 도색한 뒤 고광택 코팅제로 마무리했습니다.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "노바 | 아침 해",
+  "description": "노바의 땅을 치는 가격은 가난한 팀에서 이 총을 기습용 무기로 선택하는 이유입니다. 섬세한 디자인을 모래색으로 도색했습니다.\\n\\n강인함은 밝음에서 비롯된다.",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "노바"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "중화기"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "아침 해"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "노바 | 시선",
   "description": "노바의 땅을 치는 가격은 가난한 팀에서 이 총을 기습용 무기로 선택하는 이유입니다. 추상 초현실주의와 20세기 예술가의 작품에서 영감을 받아 단순한 기하학적 형태와 사실적인 디테일을 살려 특수 도색했습니다.\\n\\n감시자의 시선",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "노바 | 스마트 건",
+  "description": "노바의 땅을 치는 가격은 가난한 팀에서 이 총을 기습용 무기로 선택하는 이유입니다. 후방 시야 근처에 뇌를 그려 무기에 박힌 것처럼 보이게 하고 금속성 은색으로 도색했습니다.\\n\\n기술과 유기체의 결합.",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "노바"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "중화기"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "스마트 건"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | 오염",
-  "description": "높은 연사력과 낮은 반동을 지닌 P250는 방탄복을 착용한 적을 상대할 때 저렴하고 유용한 권총입니다. 적갈색 마감 도색이 이미 갉아 먹혀 부패하고 있는 듯한 이 무기는 수명이 얼마 남지 않았습니다.\\n\\n<i>보이는 것만큼 상태가 나쁘군요.</i>",
+  "description": "높은 연사력과 낮은 반동을 지닌 P250는 방탄복을 착용한 적을 상대할 때 저렴하고 유용한 권총입니다. 적갈색 코팅제가 벗겨진 이 무기는 부식과 마모가 진행되어 수명이 얼마 남지 않았습니다.\\n\\n보기만큼 상태가 나쁘군요.",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | 연꽃 인장",
+  "description": "높은 연사력과 낮은 반동을 지닌 P250는 방탄복을 착용한 적을 상대할 때 저렴하고 유용한 권총입니다. 금색과 파란색 금속 반짝이가 포함된 페인트로 도색했습니다.\\n\\n손에 든 연꽃 한 송이는 처치 피드에선 두 개와 같다.",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "연꽃 인장"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "제한",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 리볼버 | 군주",
+  "description": "R8 리볼버는 방아쇠를 당겨 격발할 때까지의 시간이 긴 대신 적에게 매우 정확하고 강력한 한 방을 먹일 수 있습니다. 근접전을 벌일 경우에는 공이를 손으로 쳐서 연사하여 적을 저지하는 것이 좋습니다. 주황색과 회색으로 특수 도색하고 부품 일부를 황동제로 마감했습니다.\\n\\n사회적 지위와 권위의 상징.",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 리볼버"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "군주"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8 리볼버 | 탱고",
   "description": "R8 리볼버는 방아쇠를 당겨 격발할 때까지의 시간이 긴 대신 적에게 매우 정확하고 강력한 한 방을 먹일 수 있습니다. 근접전을 벌일 경우에는 공이를 손으로 쳐서 연사하여 적을 저지하는 것이 좋습니다. 나무 손잡이의 문양과 장미 패턴을 특수 도색했습니다.\\n\\n<i>받아들이시겠어요?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "소드오프 | 달의 용",
+  "description": "이 고전적인 소드오프 산탄총은 매우 위력적인 근거리 피해를 줄 수 있지만, 연사력, 명중률, 집탄율이 죄다 낮기 때문에 적을 죽이고 싶으면 잘 맞춰야 합니다. 진홍색 바탕에 뱀 한 마리를 도색했습니다.\\n\\n바닷속 깊은 곳에 똬리를 틀다.",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "소드오프"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "중화기"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "달의 용"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "소드오프 | 방사능 경고",
   "description": "이 고전적인 소드오프 산탄총은 매우 위력적인 근거리 피해를 줄 수 있지만, 연사력, 명중률, 집탄율이 죄다 낮기 때문에 적을 죽이고 싶으면 잘 맞춰야 합니다. 방사능 위험 경고 무늬로 도색했습니다.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | 아크틱 위장 패널",
+  "description": "SCAR-20는 반자동 저격소총으로써 높은 연사력과 장거리 피해를 주는 대신 이동속도를 크게 감소시키며 매우 비쌉니다. 녹색과 회색 위장 무늬를 입혔습니다.\\n\\n설원 어벤저스 총출동!",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "아크틱 위장 패널"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | 켸이지",
   "description": "SCAR-20는 반자동 저격소총으로써 높은 연사력과 장거리 피해를 주는 대신 이동속도를 크게 감소시키며 매우 비쌉니다. 파란색과 보라색 그라데이션 디자인을 적용했습니다.\\n\\n\\\"방아쇠는 이렇게 작은데 크기는 엄청나네...\\\"",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | 시로코 스크립트",
+  "description": "SCAR-20는 반자동 저격소총으로써 높은 연사력과 장거리 피해를 주는 대신 이동속도를 크게 감소시키며 매우 비쌉니다. 유사 캘리그래피와 아라베스크 기하학 장식 무늬를 입혔습니다.\\n\\n열기, 먼지, 건조한 바람을 통해 만들어졌습니다.",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "소총"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "시로코 스크립트"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -138974,7 +140984,7 @@
  {
   "id": "skin-c1a20624eb22",
   "name": "SSG 08 | 물 속의 재앙",
-  "description": "SSG08는 수동식 노리쇠 방식으로, 위력이 낮지만 가격 대 성능비가 좋은 무기로써 초반 장거리 저격에 적합한 선택입니다. 이 무기의 표면에는 에어브러쉬를 이용하여 그린 상어를 도색했습니다.",
+  "description": "SSG08는 수동식 노리쇠 방식으로, 위력이 낮지만 가격 대 성능비가 좋은 무기로써 초반 장거리 저격에 적합한 선택입니다. 이 무기의 표면에는 에어브러시를 이용하여 그린 상어를 도색했습니다.",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -140412,7 +142422,7 @@
  {
   "id": "skin-bd1b28355b04",
   "name": "SSG 08 | 마야의 꿈",
-  "description": "SSG08는 수동식 노리쇠 방식으로, 위력이 낮지만 가격 대 성능비가 좋은 무기로써 초반 장거리 저격에 적합한 선택입니다. 폐허에서 찾은 이 기념품은 마야 구름에서 모티브를 얻어 수전사 방식으로 도색되었습니다.\\n\\n<i>때로는 제물이 필요하기도 하다</i>",
+  "description": "SSG08는 수동식 노리쇠 방식으로, 위력이 낮지만 가격 대 성능비가 좋은 무기로써 초반 장거리 저격에 적합한 선택입니다. 폐허에서 찾은 이 기념품은 마야 구름에서 모티브를 얻어 수전사 방식으로 도색했습니다.\\n\\n<i>때로는 제물이 필요하기도 하다</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -146020,6 +148030,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjZe7KuRYrFjK-mSHGOvxOBxue9sSju6mxoYvzSCkpu3eHPFZwMkWZBzR-cDsEbpm9DvY-yx51fajd8WyXn4hntBvX465OkBVL1lpPMDDuBGag",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | 방위선",
+  "description": "이동을 자주 하는 테러리스트 플레이어를 위한 권총인 Tec-9은 근접전에서 치명적이며 장탄수가 많습니다. 다양한 색상의 X, 사각형, 점 디자인을 도색했습니다.\\n\\n전술 전략 분석 완료.",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "방위선"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | 술탄",
+  "description": "이동을 자주 하는 테러리스트 플레이어를 위한 권총인 Tec-9은 근접전에서 치명적이며 장탄수가 많습니다. 아라베스크에서 영감을 받은 모자이크를 도색했습니다.\\n\\n화력 강화를 통한 휴전",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "술탄"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "군용",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "아라베스크 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "테러리스트"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
   "original": {
    "name": "weapon_tec9"
   }
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | 나선 오류",
+  "description": "Counter-Strike: Source의 팬들이 좋아하는 USP 소음 권총에는 반동을 낮춰주면서 적의 주위를 끄는 소리를 줄여주는 탈착식 소음기가 장착되어 있습니다. 파격적인 디자인을 특수 도색하고 진줏빛 광택 코팅제로 마무리했습니다.\\n\\n어떤 무기에 당했는지도 모른 채 쓰러질 겁니다.",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "권총"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "나선 오류"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "기밀",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "대테러부대"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | 고대 전설",
   "description": "XM1014는 강력한 자동 산탄총으로써 공간 전체를 빠르게 총알으로 도배할 수 있는 능력을 통해 높은 가격을 정당화합니다. 옅은 초록색, 베이지색, 빨간색의 고대 타일 무늬로 도색했습니다.\\n\\n<i>“설령 잘못된 길을 향해 여행을 떠났던 사람들이어도, 희망은 남아 있습니다.”</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | 블랙 사이트",
+  "description": "XM1014는 강력한 자동 산탄총으로써 공간 전체를 빠르게 총알으로 도배할 수 있는 능력을 통해 높은 가격을 정당화합니다. 검은색 무광, 회색, 황동색으로 도색했습니다.\\n\\n소란을 피워보세요.",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "중화기"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "블랙 사이트"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "고급",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "막 출고된"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "거의 깨끗한"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "현장에서 쓰인"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "꽤 닳은"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "전투로 닳고 닳은"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "스파이 및 기술 수집품",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "양 팀 모두"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

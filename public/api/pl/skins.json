@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Potężny i niezawodny AK-47 to jeden z najbardziej rozpoznawalnych karabinów szturmowych na świecie. Jest najbardziej zabójczy, gdy strzela się krótkimi, kontrolowanymi seriami. It has been custom painted with a high gloss blue and pink gradient and a number of graphic designs.\\n\\n<i>\\\"Kill\\\" in console</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "klasy „tajne”",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Lot żurawia",
   "description": "Potężny i niezawodny AK-47 to jeden z najbardziej rozpoznawalnych karabinów szturmowych na świecie. Jest najbardziej zabójczy, gdy strzela się krótkimi, kontrolowanymi seriami. Broń została pokryta czarno-białym podkładem, a następnie nałożono na nią ręcznie malowany wzór w postaci żurawia i ozdobiono złotymi akcentami.\\n\\n<i>Poprzedza krwawy księżyc.</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Konsekwencje dżina",
+  "description": "Potężny i niezawodny AK-47 to jeden z najbardziej rozpoznawalnych karabinów szturmowych na świecie. Jest najbardziej zabójczy, gdy strzela się krótkimi, kontrolowanymi seriami. It has been custom painted with a bold orange base, high-sheen gold-colored flames and a Jinn painted on and above the magazine.\\n\\n<i>Wish wisely...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Konsekwencje dżina"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "klasy „tajne”",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Skaner sygnału",
+  "description": "Celny i potężny karabin szturmowy AUG z lunetą rekompensuje długi czas przeładowania niskim rozrzutem i wysoką szybkostrzelnością. This custom paint job features multicolored designs over a matte black base.\\n\\n<i>> Attempting to reconnect ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Skaner sygnału"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "Celny i potężny karabin szturmowy AUG z lunetą rekompensuje długi czas przeładowania niskim rozrzutem i wysoką szybkostrzelnością. It has been custom painted with a white, blue, and gold design to resemble lapis lazuli.\\n\\n<i>An exquisite piece, both powerful and fragile</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Eleganckie wykończenie",
   "description": "Celny i potężny karabin szturmowy AUG z lunetą rekompensuje długi czas przeładowania niskim rozrzutem i wysoką szybkostrzelnością. Broń została ozdobiona na zamówienie wzorem przypominającym kurtkę puchową i wykończona brązowymi akcentami.\\n\\n<i>Pakiet premium.</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Czarna skrzynka",
+  "description": "Broń wysokiego ryzyka i wysokich zysków; okryty niesławą AWP to karabin snajperski rozpoznawalny dzięki swojej charakterystycznej polityce - jeden strzał, jeden trup. It has been custom painted using matte black paint and finished with an orange stripe.\\n\\n<i>\\\"Nothing fancy, you hear me?\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Czarna skrzynka"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Zimny gradient",
   "description": "Broń wysokiego ryzyka i wysokich zysków; okryty niesławą AWP to karabin snajperski rozpoznawalny dzięki swojej charakterystycznej polityce - jeden strzał, jeden trup. Broń została ozdobiona na zamówienie żywym, zielono-niebieskim gradientem.\\n\\n<i>Zimna w dotyku.</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Niepodległy płomień",
+  "description": "Broń wysokiego ryzyka i wysokich zysków; okryty niesławą AWP to karabin snajperski rozpoznawalny dzięki swojej charakterystycznej polityce - jeden strzał, jeden trup. It has been custom painted with a golden scope and flames running the length of the weapon.\\n\\n<i>The exalted won</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Niepodległy płomień"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "klasy „tajne”",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "Bagnet (★) | Rzeź",
-  "description": "Broń, której konstrukcja i wygląd od czasów II wojny światowej się niewiele zmieniła - bagnet wciąż ma swoje miejsce we współczesnych strategiach militarnych. Szarże z bagnetami były efektywnie używane podczas II wojny w Zatoce Perskiej, a także wojny w Afganistanie. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Broń, której konstrukcja i wygląd od czasów II wojny światowej się niewiele zmieniła - bagnet wciąż ma swoje miejsce we współczesnych strategiach militarnych. Szarże z bagnetami były efektywnie używane podczas II wojny w Zatoce Perskiej, a także wojny w Afganistanie. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Zdrajca",
+  "description": "Pistolet maszynowy Bizon zadaje niewielkie obrażenia, ale posiada unikatowy, pojemny magazynek ślimakowy, który szybko się przeładowuje. It has been custom painted with a bronze and gold design.\\n\\n<i>Bronze and bullets</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Zdrajca"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulika",
+  "description": "W pełni automatyczna wersja CZ75, najlepsza na krótkim dystansie, pozwala zmienić losy walki i zdobyć broń przeciwnika. Przy swoim małym magazynku wymaga jednak celnych strzałów i pilnowania liczby nabojów. The magazine has been painted to resemble a polymer material. \\\"HYDRA\\\" has been painted above the trigger.\\n\\n<i>Are you Heracles?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulika"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Taktykot",
   "description": "W pełni automatyczna wersja CZ75, najlepsza na krótkim dystansie, pozwala zmienić losy walki i zdobyć broń przeciwnika. Przy swoim małym magazynku wymaga jednak celnych strzałów i pilnowania liczby nabojów. Broń została pokryta ręcznie malowanym wzorem w kolorze różowym i fioletowym, a następnie nałożono na nią naklejki o kocim motywie.\\n\\n<i>24 naboje, 9 żyć.</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Wschodnia enigma",
+  "description": "Równie drogi co potężny, Desert Eagle to pistolet-ikona, który ciężko opanować, ale jest zaskakująco celny na dalekim zasięgu. It has been custom painted with a metallic silver, black, and blue design.\\n\\n<i>Don't lose the thread</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Wschodnia enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "klasy „poufne”",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Ognisty oddech",
   "description": "Równie drogi co potężny, Desert Eagle to pistolet-ikona, który ciężko opanować, ale jest zaskakująco celny na dalekim zasięgu. Broń została pomalowana na zamówienie we wzór przedstawiający fioletowe i niebieskie płomienie z użyciem farby o perłowym połysku.\\n\\n<i>Ma w sobie niespotykane cechy i możliwości.</i>",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dwie beretty | Mistyczna koniunkcja",
+  "description": "Strzelanie z dwóch pistoletów Beretta o pojemnych magazynkach jednocześnie zmniejszy celność i wydłuży czas przeładowania. Z drugiej strony da ci to szansę na postrzelanie z dwóch berett o pojemnych magazynkach naraz. It has been custom painted with gold, flowing lines which merge into a desert eye when overlaid.\\n\\n<i>A shared vision</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dwie beretty"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mistyczna koniunkcja"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "Dwie beretty | Królewska para",
   "description": "Strzelanie z dwóch pistoletów Beretta o pojemnych magazynkach jednocześnie zmniejszy celność i wydłuży czas przeładowania. Z drugiej strony da ci to szansę na postrzelanie z dwóch berett o pojemnych magazynkach naraz. Gdzieś pomiędzy barwionymi na zielono perłowymi chwytami z płytkami z motywem gryfa oraz grawerowanymi laserowo zamkami, te pistolety nadają ponowne znaczenie słowu „elegancja”.\\n\\n<i>Pozbądź się twarzy i uwolnij gołębie.</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "Dwie beretty | Polerowany malachit",
-  "description": "Strzelanie z dwóch pistoletów Beretta o pojemnych magazynkach jednocześnie zmniejszy celność i wydłuży czas przeładowania. Z drugiej strony da ci to szansę na postrzelanie z dwóch berett o pojemnych magazynkach naraz. Te dwie beretty zostały pomalowane w efektowne kolory zieleni i srebra. Chwyty wykończono warstwą szkliwa.\\n\\n<i>Wzbudzają szacunek, czego nie mogę powiedzieć o tobie… – Booth, handlarz bronią</i>",
+  "description": "Strzelanie z dwóch pistoletów Beretta o pojemnych magazynkach jednocześnie zmniejszy celność i wydłuży czas przeładowania. Z drugiej strony da ci to szansę na postrzelanie z dwóch berett o pojemnych magazynkach naraz. These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic topcoat.\\n\\n<i>They command respect, although I can't say the same for you... - Booth, Arms Dealer</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Obrona korporacyjna",
+  "description": "Tańsza opcja dla graczy bez gotówki. FAMAS efektywnie wypełnia lukę między drogimi karabinami a mniej efektywnymi pistoletami maszynowymi. It has been custom painted in black and red.\\n\\n<i>Suit and sunglasses sold separately</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Obrona korporacyjna"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Pieśń węża",
+  "description": "Tańsza opcja dla graczy bez gotówki. FAMAS efektywnie wypełnia lukę między drogimi karabinami a mniej efektywnymi pistoletami maszynowymi. It has been custom painted with a green snake, highlighted by a bright gold outline over a matte gold base.\\n\\n<i>A flicker of hope</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Pieśń węża"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Pustynna pieczęć",
+  "description": "Celny i dobrze penetrujący pancerz Five-Seven to drogi, wolny w przeładowaniu pistolet, który nadrabia te wady 20-nabojowym magazynkiem i wybaczalnym odrzutem. It has been custom painted with a Desert Seal design in silver and purple.\\n\\n<i>Fate calls</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Pustynna pieczęć"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Protokół „Duch”",
+  "description": "Glock 18 to dogodny pistolet w pierwszej rundzie, który działa najlepiej na nieopancerzonych przeciwnikach i pozwala strzelać serią 3 strzałów. It has been custom painted with red paint in varying sheens.\\n\\n<i>I don't care if you were followed, you're here now - Valeria Jenner, Revolutionary</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Protokół „Duch”"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "klasy „tajne”",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrytowa siatka",
+  "description": "Glock 18 to dogodny pistolet w pierwszej rundzie, który działa najlepiej na nieopancerzonych przeciwnikach i pozwala strzelać serią 3 strzałów. It has been custom painted with a tan and black design.\\n\\n<i>Outdated intel is still intel, ya know...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrytowa siatka"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Pełen tuning",
   "description": "Glock 18 to dogodny pistolet w pierwszej rundzie, który działa najlepiej na nieopancerzonych przeciwnikach i pozwala strzelać serią 3 strzałów. Broń została pomalowana na zamówienie z użyciem farby w neonowych barwach oraz brokatowej.\\n\\n<i>Dla mnie to trochę przesada, ale ja nie jestem klientem docelowym… – Booth, handlarz bronią</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "Nóż motylkowy (★) | Rzeź",
-  "description": "To wyjątkowo zaprojektowany balisong, szerzej znany jako nóż motylkowy. Broń charakteryzuje się swobodnie obracającym się ostrzem, które daje możliwość błyskawicznego rozłożenia i złożenia. Z tego właśnie powodu noże motylkowe są zakazane w wielu krajach. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "To wyjątkowo zaprojektowany balisong, szerzej znany jako nóż motylkowy. Broń charakteryzuje się swobodnie obracającym się ostrzem, które daje możliwość błyskawicznego rozłożenia i złożenia. Z tego właśnie powodu noże motylkowe są zakazane w wielu krajach. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "Nóż survivalowy (★) | Rzeź",
-  "description": "Ten wielozadaniowy nóż taktyczny posiada częściowo ząbkowane ostrze do rozrywania tworzyw pokroju kości i tkanek, a także ostry hak do patroszenia. Rękojeść z kompozytu została przykręcona do ostrza za pomocą śrub z sześciokątnym łbem. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten wielozadaniowy nóż taktyczny posiada częściowo ząbkowane ostrze do rozrywania tworzyw pokroju kości i tkanek, a także ostry hak do patroszenia. Rękojeść z kompozytu została przykręcona do ostrza za pomocą śrub z sześciokątnym łbem. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "Nóż paracord (★) | Rzeź",
-  "description": "Ten nieskładany nóż survivalowy został zaprojektowany, by sprostał zadaniu zarówno jako broń, jak i narzędzie do zastawiania pułapek, polowania na zwierzynę czy wycinania listowia. Rękojeść jest owinięta wielofunkcyjną linką spadochronową typu paracord. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nieskładany nóż survivalowy został zaprojektowany, by sprostał zadaniu zarówno jako broń, jak i narzędzie do zastawiania pułapek, polowania na zwierzynę czy wycinania listowia. Rękojeść jest owinięta wielofunkcyjną linką spadochronową typu paracord. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "Klasyczny nóż (★) | Rzeź",
-  "description": "Krawędź tego klasycznego noża z serii Counter-Strike została wykonana ze stellitu, a precyzyjne połączenie wciskowe z tytanowym płazem oraz grzbietem sprawia, że te elementy są do siebie idealnie dopasowane. Rękojeść składa się ze skamieniałej kości słoniowej mastodonta otulonej włóknem węglowym. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Krawędź tego klasycznego noża z serii Counter-Strike została wykonana ze stellitu, a precyzyjne połączenie wciskowe z tytanowym płazem oraz grzbietem sprawia, że te elementy są do siebie idealnie dopasowane. Rękojeść składa się ze skamieniałej kości słoniowej mastodonta otulonej włóknem węglowym. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "Nóż falcjon (★) | Rzeź",
-  "description": "Współczesny hołd dla miecza falcjonu, to ostrze o mocnej końcówce posiada lekko zakrzywioną krawędź tnącą. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Współczesny hołd dla miecza falcjonu, to ostrze o mocnej końcówce posiada lekko zakrzywioną krawędź tnącą. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "Nóż składany (★) | Rzeź",
-  "description": "Ten nóż składany posiada odgięte do tyłu ostrze w stylu perskim zakończone szpicem. Nawet jeśli ten szpic wygląda na łamliwy, to ogólna budowa noża wydaje się być zaskakująco trwała. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nóż składany posiada odgięte do tyłu ostrze w stylu perskim zakończone szpicem. Nawet jeśli ten szpic wygląda na łamliwy, to ogólna budowa noża wydaje się być zaskakująco trwała. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "Nóż z hakiem (★) | Rzeź",
-  "description": "Najbardziej charakterystycznym atutem tego noża jest wystający hak umieszczony po tępej stronie ostrza. Początkowo używany do obdzierania upolowanej zwierzyny ze skóry, hak ten jest teraz także używany do bezproblemowego przecinania włóknistych materiałów, takich jak liny, sieci czy pasy bezpieczeństwa. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Najbardziej charakterystycznym atutem tego noża jest wystający hak umieszczony po tępej stronie ostrza. Początkowo używany do obdzierania upolowanej zwierzyny ze skóry, hak ten jest teraz także używany do bezproblemowego przecinania włóknistych materiałów, takich jak liny, sieci czy pasy bezpieczeństwa. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "Navaja (★) | Rzeź",
-  "description": "Ten nóż składany z błyszczącą rękojeścią przypominającą marmur skrywa małe, lecz śmiertelne, smukłe ostrze. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nóż składany z błyszczącą rękojeścią przypominającą marmur skrywa małe, lecz śmiertelne, smukłe ostrze. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "Karambit (★) | Rzeź",
-  "description": "Karambit to nóż o ostrzu przypominającym pazur tygrysa. Został on stworzony jako część sztuki walki zwanej silat, popularnej w Azji Południowo-Wschodniej. Nóż ten charakteryzuje się odwróconą rękojeścią, z palcem wskazującym przełożonym przez otwór. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Karambit to nóż o ostrzu przypominającym pazur tygrysa. Został on stworzony jako część sztuki walki zwanej silat, popularnej w Azji Południowo-Wschodniej. Nóż ten charakteryzuje się odwróconą rękojeścią, z palcem wskazującym przełożonym przez otwór. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "Nóż kukri (★) | Rzeź",
-  "description": "Używany podczas tradycyjnych rytuałów takich jak śluby czy zadawanie ran kłutych. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Używany podczas tradycyjnych rytuałów takich jak śluby czy zadawanie ran kłutych. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "Bagnet M9 (★) | Rzeź",
-  "description": "Oto bagnet M-9. Z założenia miał być doczepiany do karabinów, ale spisuje się też w walce w przestrzeniach zamkniętych. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Oto bagnet M-9. Z założenia miał być doczepiany do karabinów, ale spisuje się też w walce w przestrzeniach zamkniętych. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "Nóż nomada (★) | Rzeź",
-  "description": "Ten ergonomiczny, taktyczny nóż myśliwski posiada dodatkowe elementy kompozytowe na rękojeści oraz szerokie ostrze o mocnej budowie, które przydaje się do rozcinania różnego rodzaju tworzyw. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten ergonomiczny, taktyczny nóż myśliwski posiada dodatkowe elementy kompozytowe na rękojeści oraz szerokie ostrze o mocnej budowie, które przydaje się do rozcinania różnego rodzaju tworzyw. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "Sztylety Cienia (★) | Rzeź",
-  "description": "Zaprojektowane w celu efektywnego zadawania ran. Pchnięcie tymi sztyletami jest tak proste, jak uderzenie pięścią. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Zaprojektowane w celu efektywnego zadawania ran. Pchnięcie tymi sztyletami jest tak proste, jak uderzenie pięścią. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "Nóż szkieletowy (★) | Rzeź",
-  "description": "Ten nóż o szkieletowym trzpieniu został owinięty taśmą na rękojeści w celu uzyskania lepszej przyczepności. Otwór pozwala na włożenie palca dla zwiększenia stabilności i bezpieczeństwa. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nóż o szkieletowym trzpieniu został owinięty taśmą na rękojeści w celu uzyskania lepszej przyczepności. Otwór pozwala na włożenie palca dla zwiększenia stabilności i bezpieczeństwa. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "Sztylet (★) | Rzeź",
-  "description": "Na przestrzeni dziejów najważniejszy obiekt wielu zażartych sporów (i regulacji), ten sprężynowy nóż w stylu włoskiego sztyletu posiada ostrze mogące zostać niemal natychmiastowo rozłożone po naciśnięciu przycisku. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Na przestrzeni dziejów najważniejszy obiekt wielu zażartych sporów (i regulacji), ten sprężynowy nóż w stylu włoskiego sztyletu posiada ostrze mogące zostać niemal natychmiastowo rozłożone po naciśnięciu przycisku. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "Nóż Bowie (★) | Rzeź",
-  "description": "Ten nóż Bowie typu full-tang z grzbietem głowni wyposażonym w piłę jest stworzony do ciężkich zastosowań w brutalnych survivalowych sytuacjach. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nóż Bowie typu full-tang z grzbietem głowni wyposażonym w piłę jest stworzony do ciężkich zastosowań w brutalnych survivalowych sytuacjach. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "Nóż myśliwski (★) | Rzeź",
-  "description": "Nóż zaprojektowany dla współczesnych zastosowań taktycznych, którego ostrze dobrze nadaje się dla potrzeb bojowych i utylitarnych. Unikalne zakończenie typu Tanto pozwala na maksymalną penetrację nawet przez najtwardsze rodzaje powierzchni. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Nóż zaprojektowany dla współczesnych zastosowań taktycznych, którego ostrze dobrze nadaje się dla potrzeb bojowych i utylitarnych. Unikalne zakończenie typu Tanto pozwala na maksymalną penetrację nawet przez najtwardsze rodzaje powierzchni. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "Ursus (★) | Rzeź",
-  "description": "Ten nóż w stylu tanto wykorzystywany przez wielu adeptów sztuki przetrwania posiada fasetowane ostrze, pełny trzpień i lekko zakrzywioną głowicę. Zero bzdur i ruchomych części - po prostu niezawodne ostrze, które jest gotowe do pracy. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten nóż w stylu tanto wykorzystywany przez wielu adeptów sztuki przetrwania posiada fasetowane ostrze, pełny trzpień i lekko zakrzywioną głowicę. Zero bzdur i ruchomych części - po prostu niezawodne ostrze, które jest gotowe do pracy. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "Szpon (★) | Rzeź",
-  "description": "Ten karambit z rękojeścią z kości słoniowej posiada mosiężne nity i ostrze o ząbkowanym wykończeniu, które tnie, wchodząc i rozrywa, wychodząc. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.<i>",
+  "description": "Ten karambit z rękojeścią z kości słoniowej posiada mosiężne nity i ostrze o ząbkowanym wykończeniu, które tnie, wchodząc i rozrywa, wychodząc. Broń została pomalowana w zebrę aluminiowymi i chromowymi farbami o różnej przepuszczalności światła, a następnie pokryta warstwą cukierkowej farby w kolorze pomidorowym.\\n\\n<i>Valeria nie płaci Javierowi za zadawanie pytań... płaci mu za uzyskiwanie odpowiedzi.</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Agent w mroku",
+  "description": "Celniejszy, ale zadający mniej obrażeń, co swój odpowiednik - AK-47, M4A4 to najczęściej wybierany przez antyterrorystów automatyczny karabin szturmowy. It has been custom painted in matte black and silver and finished with white graphic designs.\\n\\n<i>Function before style</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Agent w mroku"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "Celniejszy, ale zadający mniej obrażeń, co swój odpowiednik - AK-47, M4A4 to najczęściej wybierany przez antyterrorystów automatyczny karabin szturmowy. It has been custom painted with a red serpent over a tan-colored base.\\n\\n<i>The power you hold requires restraint</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "klasy „poufne”",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbina",
   "description": "Celniejszy, ale zadający mniej obrażeń, co swój odpowiednik - AK-47, M4A4 to najczęściej wybierany przez antyterrorystów automatyczny karabin szturmowy. Broń została pomalowana na zamówienie podkładem w kolorze wina.\\n\\n<i></i>UWAGA: długotrwałe oddawanie strzałów może powodować przegrzanie.</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Usterka krytyczna",
+  "description": "Posiadający mniejszy magazynek niż jego niewytłumiony odpowiednik, karabin M4A1-S zapewnia cichsze strzały, mniejszy odrzut i lepszą celność. It has been custom painted using bright green pearlescent paint.\\n\\n<i>When keeping a low profile isn't an option</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Usterka krytyczna"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "klasy „poufne”",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabeskowa mozaika",
+  "description": "Praktycznie rzecz biorąc pudełko, z którego lecą kule - pistolet maszynowy MAC-10 szczyci się wysoką szybkostrzelnością, lecz jest również niecelny i ma duży rozrzut. It has been custom painted with a moving pattern of Middle Eastern-inspired scenery.\\n\\n<i>Ever-shifting sands</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabeskowa mozaika"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Podświetlona nieskończoność",
   "description": "Praktycznie rzecz biorąc pudełko, z którego lecą kule - pistolet maszynowy MAC-10 szczyci się wysoką szybkostrzelnością, lecz jest również niecelny i ma duży rozrzut. Ten MAC-10 został ozdobiony na zamówienie w taki sposób, by wyglądał, jakbyś zaglądał do jego wnętrza.\\n\\n<i>Robota na zamówienie.</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Kamera wideo",
+  "description": "Praktycznie rzecz biorąc pudełko, z którego lecą kule - pistolet maszynowy MAC-10 szczyci się wysoką szybkostrzelnością, lecz jest również niecelny i ma duży rozrzut. It has been custom painted to resemble a handheld camera.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Kamera wideo"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | System dwójkowy",
+  "description": "Wszechstronny, ale kosztowny niemiecki pistolet maszynowy MP7 to idealny wybór dla walk na krótkim zasięgu. It has been custom painted with 1s and 0s using green and black.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "System dwójkowy"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Uśmiechnij się",
   "description": "Wszechstronny, ale kosztowny niemiecki pistolet maszynowy MP7 to idealny wybór dla walk na krótkim zasięgu. Niebiesko-fioletowy podkład tej broni został ozdobiony wykończeniami w formie uśmiechniętej buźki i słowami „Uśmiechnij się” w żółtym kolorze.\\n\\n<i>„Powiedz seeeeeer”.</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Wydmowa żmija",
+  "description": "Stworzony w Szwajcarii doborowy pistolet maszynowy MP9 to ergonomiczna broń polimerowa, ceniona przez prywatne firmy ochroniarskie. A snake has been custom painted with white calligraphy-style strokes over a tan-colored base.\\n\\n<i>An unusual artifact from a barren world</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Wydmowa żmija"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Ogniwo",
   "description": "Stworzony w Szwajcarii doborowy pistolet maszynowy MP9 to ergonomiczna broń polimerowa, ceniona przez prywatne firmy ochroniarskie. Broń została pomalowana na srebrno, czarno i niebiesko, a na srebrną farbę naniesiono współczesne wzory .\\n\\n<i>Osobisty, lecz powściągliwy akcent.</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Prototyp szpiegowski",
+  "description": "Stworzony w Szwajcarii doborowy pistolet maszynowy MP9 to ergonomiczna broń polimerowa, ceniona przez prywatne firmy ochroniarskie. It has been custom painted using a white satin base and finished with blue designs.\\n\\n<i>Results may vary</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "PM-y"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Prototyp szpiegowski"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Rozkwit",
-  "description": "Niewielka cena Novy czyni ją bronią dobrą do zasadzek dla drużyny bez wielkiej ilości gotówki. Broń została ozdobiona kwiatami wiśni, które naniesiono aerografem, a następnie pomalowano warstwą farby o wysokim połysku.",
+  "description": "Niewielka cena Novy czyni ją bronią dobrą do zasadzek dla drużyny bez wielkiej ilości gotówki. It has been airbrushed by hand with a cherry blossom motif, then given a high-gloss topcoat.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Poranne słońce",
+  "description": "Niewielka cena Novy czyni ją bronią dobrą do zasadzek dla drużyny bez wielkiej ilości gotówki. An intricate design has been applied using sand-colored paint.\\n\\n<i>Strength begins with light</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ciężkie"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Poranne słońce"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Wzrok",
   "description": "Niewielka cena Novy czyni ją bronią dobrą do zasadzek dla drużyny bez wielkiej ilości gotówki. Wykonane na zamówienie malowanie zdobiące tę broń wyróżnia proste geometryczne kształty oraz realistyczne akcenty inspirowane abstrakcyjnym surrealizmem i twórczością XX-wiecznych artystów.\\n\\n<i>Oczy obserwatora.</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Łebska broń",
+  "description": "Niewielka cena Novy czyni ją bronią dobrą do zasadzek dla drużyny bez wielkiej ilości gotówki. It has been custom painted with a brain near the rear sight, designed to appear embedded in the weapon, and finished with metallic silver paint.\\n\\n<i>The marriage of tech and organics</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ciężkie"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Łebska broń"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Zanieczyszczenie",
-  "description": "Broń o niskim odrzucie i wysokiej szybkostrzelności - P250 to dość tani sposób na pozbycie się opancerzonych wrogów. Wierzchnia warstwa w kolorze kasztanowym została przeżarta, ujawniając pod spodem rozpadającą się broń z ograniczoną liczbą użyć.\\n\\n<i>Jest tylko tak zła, na jaką wygląda.</i>",
+  "description": "Broń o niskim odrzucie i wysokiej szybkostrzelności - P250 to dość tani sposób na pozbycie się opancerzonych wrogów. Its maroon topcoat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n<i>It's only as bad as it looks</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Wyryty lotos",
+  "description": "Broń o niskim odrzucie i wysokiej szybkostrzelności - P250 to dość tani sposób na pozbycie się opancerzonych wrogów. It has been custom painted with gold and blue metal flake paint.\\n\\n<i>A lotus in the hand is worth two in the kill feed</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Wyryty lotos"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "spoza obiegu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "Rewolwer R8 | Monarcha",
+  "description": "Rewolwer R8 to bardzo celna broń, która zadaje ogromne obrażenia, ale kosztem długiego czasu pociągnięcia spustu. Szybkie strzelanie poprzez ręczne napinanie kurka może się okazać lepszym wyjściem, gdy wymagane jest dostarczenie pełnej mocy obalającej na krótkim dystansie. It has been custom painted in orange and grey and features brass-finished controls.\\n\\n<i>A symbol of status and authority</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "Rewolwer R8"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarcha"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "Rewolwer R8 | Tango",
   "description": "Rewolwer R8 to bardzo celna broń, która zadaje ogromne obrażenia, ale kosztem długiego czasu pociągnięcia spustu. Szybkie strzelanie poprzez ręczne napinanie kurka może się okazać lepszym wyjściem, gdy wymagane jest dostarczenie pełnej mocy obalającej na krótkim dystansie. Broń została ozdobiona na zamówienie drewnianym chwytem i wzorem w róże.\\n\\n<i>Zaakceptujesz?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Obrzyn | Wyrm księżycowy",
+  "description": "Ten klasyczny obrzyn zadaje ciężkie obrażenia z bliska, jednakże dzięki niskiej celności, wysokiemu rozrzutowi i niskiej szybkostrzelności, lepiej upewnij się, że zabijesz to, w co strzelisz. A serpent has been custom painted over a crimson-colored base.\\n\\n<i>Coiled at the world's depths</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Obrzyn"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ciężkie"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Wyrm księżycowy"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Obrzyn | Alarm przeciwpromienny",
   "description": "Ten klasyczny obrzyn zadaje ciężkie obrażenia z bliska, jednakże dzięki niskiej celności, wysokiemu rozrzutowi i niskiej szybkostrzelności, lepiej upewnij się, że zabijesz to, w co strzelisz. Broń została pomalowana farbą w sprayu we wzór przedstawiający zagrożenie radiologiczne.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Panele kamuflażu zimowego",
+  "description": "SCAR-20 to samopowtarzalny karabin snajperski, który jest bardzo szybkostrzelny i zadaje wysokie obrażenia na dalekim zasięgu, ale za to znacznie spowalnia posiadacza i trzeba się na niego wykosztować. A green and grey camo pattern has been applied.\\n\\n<i>Calling all Arctic Avengers!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Panele kamuflażu zimowego"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | W klatce",
   "description": "SCAR-20 to samopowtarzalny karabin snajperski, który jest bardzo szybkostrzelny i zadaje wysokie obrażenia na dalekim zasięgu, ale za to znacznie spowalnia posiadacza i trzeba się na niego wykosztować. Na broń nałożono niebiesko-fioletowy gradientowy wzór.\\n\\n<i>„Taka duża broń na taką małą klatkę…”</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Skrypt sirocco",
+  "description": "SCAR-20 to samopowtarzalny karabin snajperski, który jest bardzo szybkostrzelny i zadaje wysokie obrażenia na dalekim zasięgu, ale za to znacznie spowalnia posiadacza i trzeba się na niego wykosztować. A decorative pattern of pseudo-calligraphy and arabesque geometry has been applied.\\n\\n<i>Shaped through heat, dust, and dry winds</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Skrypt sirocco"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Obszar",
+  "description": "Idealny pistolet dla terrorysty w ciągłym ruchu - Tec-9 oferuje zabójczą siłę ognia na krótki dystans oraz pojemny magazynek. A multicolored design of Xs, squares, and dots has been applied.\\n\\n<i>Drawing up the X's and O's</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Obszar"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sułtan",
+  "description": "Idealny pistolet dla terrorysty w ciągłym ruchu - Tec-9 oferuje zabójczą siłę ognia na krótki dystans oraz pojemny magazynek. It has been custom painted with arabesque-inspired mosaic designs.\\n\\n<i>Ceasefire through increased fire</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sułtan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "wojskowej jakości",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekcja Arabeski",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanizm",
   "description": "Niezrozumiałe drugie dziecko w rodzinie pistoletów maszynowych - mały magazynek UMP45 to jedyna wada tej wszechstronnej broni do starć na krótkim zasięgu. Broń została pokryta anodyzowanym wzorem przedstawiającym części silnika.\\n\\n<i>„To nie wygląda dobrze...”</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiralna usterka",
+  "description": "Ulubieniec graczy z Counter-Strike: Source – pistolet USP jest wyposażony w zdejmowalny tłumik, który wygłusza strzały i zmniejsza odrzut. Disruptive designs have been custom painted beneath a topcoat of pearlescent paint.\\n\\n<i>They won't know what hit 'em</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolety"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiralna usterka"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "klasy „poufne”",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Starożytna wiedza",
   "description": "XM1014 to potężna strzelba półautomatyczna, która swoją cenę rekompensuje możliwością szybkiego wypełnienia dowolnego pomieszczenia ołowiem. Broń została pokryta bladozielono-beżowo-czerwonym wzorem w postaci starożytnych kafelków.\\n\\n<i>„Nadzieja nie znika nawet dla tych, którzy rozpoczęli swą podróż, schodząc na złą ścieżkę”.</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Tajne więzienie",
+  "description": "XM1014 to potężna strzelba półautomatyczna, która swoją cenę rekompensuje możliwością szybkiego wypełnienia dowolnego pomieszczenia ołowiem. It has been custom painted in matte black, grey, and bronze.\\n\\n<i>Make a scene</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ciężkie"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Tajne więzienie"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "przemysłowej jakości",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekcja Technologii szpiegowskiej",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Obie drużyny"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

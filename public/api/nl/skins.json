@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "De krachtige, betrouwbare AK-47 is een van de populairste aanvalsgeweren ter wereld. Vooral dodelijk met korte, gecontroleerde vuurstoten. Dit wapen is speciaal beschilderd met een glanzende laag blauw en roze en een aantal versieringen\\n\\n<i>Typ 'Kill' in de console</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Clandestien",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "De krachtige, betrouwbare AK-47 is een van de populairste aanvalsgeweren ter wereld. Vooral dodelijk met korte, gecontroleerde vuurstoten. Op een zwart-witte grondlaag zijn een kraanvogel en gouden accenten getekend, met de hand.\\n\\n<i>In de aanloop naar de bloedmaan</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "De krachtige, betrouwbare AK-47 is een van de populairste aanvalsgeweren ter wereld. Vooral dodelijk met korte, gecontroleerde vuurstoten. Op een feloranje ondergrond zijn glimmende, goudkleurige vlammen geschilderd en op en boven het magazijn is een djinn getekend.\\n\\n<i>Denk goed na voor je iets wenst...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Clandestien",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "De AUG is een krachtig en precies aanvalsgeweer met een vizier. Herladen duurt even, maar je krijgt er een kleine spreiding en een hoge vuursnelheid voor terug. Dit wapen is speciaal beschilderd met veelkleurige designs op een matzwarte ondergrond.\\n\\n<i>> Verbinding herstellen ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "De AUG is een krachtig en precies aanvalsgeweer met een vizier. Herladen duurt even, maar je krijgt er een kleine spreiding en een hoge vuursnelheid voor terug. Er is een wit, blauw en goudkleurig design op het wapen geschilderd, zodat het van lapis lazuli lijkt te zijn gemaakt.\\n\\n<i>Een schitterend stuk dat er even krachtig als fragiel uitziet</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "De AUG is een krachtig en precies aanvalsgeweer met een vizier. Herladen duurt even, maar je krijgt er een kleine spreiding en een hoge vuursnelheid voor terug. Het wapen is zo beschilderd dat het net een gewatteerd jack is, afgewerkt met bronzen accenten.\\n\\n<i>De premiumlook</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "Wie niet waagt, die niet wint. De beruchte AWP is makkelijk te herkennen, vooral in de statistieken: één treffer is dodelijk. Het wapen is matzwart gelakt en afgewerkt met een oranje streep.\\n\\n<i>\\\"Hou het simpel, hoor je me?\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "Wie niet waagt, die niet wint. De beruchte AWP is makkelijk te herkennen, vooral in de statistieken: één treffer is dodelijk. Dit wapen heeft een unieke beschildering met een frisgroen en blauw kleurverloop.\\n\\n<i>Voelt koud aan</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "Wie niet waagt, die niet wint. De beruchte AWP is makkelijk te herkennen, vooral in de statistieken: één treffer is dodelijk. Het speciaal beschilderde wapen heeft een goudkleurige loop en overal vlammen.\\n\\n<i>De verhevene heeft gewonnen</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Clandestien",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "★ Bajonet | Slaughter",
-  "description": "Het design van de bajonet is sinds de Tweede Wereldoorlog min of meer ongemoeid gelaten, maar ook nu nog speelt het wapen een rol in het militaire steekspel. Zo bewees het mes zich recent nog tijdens de Tweede Golfoorlog en de oorlog in Afghanistan. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Het design van de bajonet is sinds de Tweede Wereldoorlog min of meer ongemoeid gelaten, maar ook nu nog speelt het wapen een rol in het militaire steekspel. Zo bewees het mes zich recent nog tijdens de Tweede Golfoorlog en de oorlog in Afghanistan. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "De Bizon richt relatief weinig schade aan, maar heeft een uniek vormgegeven groot magazijn en laat zich snel herladen. Op het wapen is een brons en goudkleurig design aangebracht.\\n\\n<i>Bronzen branie</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "De CZ75-Auto, een volautomatische variant van de CZ75, is de ideale keuze als je snel de rollen wilt omdraaien en het wapen van je vijand wilt overnemen. Tel je kogels, want het magazijn is relatief klein. Het magazijn lijkt wel doorzichtig en boven de trekker staat 'HYDRA'.\\n\\n<i>Ben jij Heracles?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "De CZ75-Auto, een volautomatische variant van de CZ75, is de ideale keuze als je snel de rollen wilt omdraaien en het wapen van je vijand wilt overnemen. Tel je kogels, want het magazijn is relatief klein. Het wapen is met de hand roze en paars geschilderd, met katachtige stickers.\\n\\n<i>24 kogels, 9 levens</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "De Desert Eagle is niet goedkoop, maar dan heb je ook wat. Je krijgt dit beroemde pistool niet snel onder de knie, maar als je ermee om kunt gaan, schiet je zelfs op lange afstanden zeer nauwkeurig. Op het wapen is een metallic zilver, zwart en blauw design geschilderd.\\n\\n<i>Raak de draad niet kwijt</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Geheim",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "De Desert Eagle is niet goedkoop, maar dan heb je ook wat. Je krijgt dit beroemde pistool niet snel onder de knie, maar als je ermee om kunt gaan, schiet je zelfs op lange afstanden zeer nauwkeurig. Met parelmoerverf zijn er paarse en blauwe vlammen op het wapen geschilderd.\\n\\n<i>Bevat exceptionele kwaliteiten en vaardigheden</i>",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? Op de wapens is een goudkleurig, vloeiend lijnenspel getekend en als je ze op elkaar legt, kijkt een oog je aan.\\n\\n<i>Een gedeelde visie</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "Dual Berettas | Royal Consorts",
   "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? Deze pistolen stralen elegentie uit, met parelmoergroene handgrepen, griffioenen op de zijkant en de met laser geëtste versieringen op slede.\\n\\n<i>Deins er niet voor terug om de duiven vrij te laten</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "Dual Berettas | Polished Malachite",
-  "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? Deze Dual Berettas zijn opvallend groen en zilver beschilderd. De handgrepen hebben een toplaag van keramiek.\\n\\n<i>Ze dwingen respect af, maar dat kan ik van jou niet zeggen... - Booth, wapenhandelaar</i>",
+  "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? Deze Dual Berettas zijn opvallend groen en zilver beschilderd. De handgrepen zijn versierd met een keramische bovenlaag.\\n\\n<i>Ze dwingen respect af, maar dat kan ik van jou niet zeggen... - Booth, wapenhandelaar</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "De FAMAS, die het gat vult tussen de duurdere geweren en de minder effectieve machinepistolen, is een goedkope optie voor als je cashflow niet op orde is. Het wapen is zwart en rood gelakt.\\n\\n<i>Maatpak en zonnebril apart verkrijgbaar</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "De FAMAS, die het gat vult tussen de duurdere geweren en de minder effectieve machinepistolen, is een goedkope optie voor als je cashflow niet op orde is. Op het wapen is een groene slang geschilderd met een felle, goudkleurige omtrek op een matgoudkleurige basislaag.\\n\\n<i>Goud in handen</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "De Five-SeveN is prijzig en laat zich traag herladen, maar maakt dat goed met zijn grote magazijn met 20 kogels. Ook is hij nauwkeurig en pantserdoorborend, en heeft hij een kleine terugslag. Op het wapen is een Desert Seal-design aangebracht in zilver en paars.\\n\\n<i>Het lot wacht</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "De Glock 18 is een prima pistool voor de eerste ronde die korte metten maakt met ongepantserde tegenstanders. Je kunt er vuurstoten van drie kogels mee lanceren. Het wapen is speciaal beschilderd met allerlei tinten rood.\\n\\n<i>Het maakt niet uit of je bent gevolgd. Je bent er in elk geval - Valeria Jenner, revolutionair</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Clandestien",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "De Glock 18 is een prima pistool voor de eerste ronde die korte metten maakt met ongepantserde tegenstanders. Je kunt er vuurstoten van drie kogels mee lanceren. Het wapen heeft een bruin met zwart design.\\n\\n<i>Inlichtingen zijn inlichtingen, hoe oud ze ook zijn...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "De Glock 18 is een prima pistool voor de eerste ronde die korte metten maakt met ongepantserde tegenstanders. Je kunt er vuurstoten van drie kogels mee lanceren. Het pistool is speciaal beschilderd met neonkleuren en metallic glitterverf.\\n\\n<i>Ik vind het een beetje too much, maar ik behoor ook niet tot de doelgroep... - Booth, wapenhandelaar</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "★ Vlindermes | Slaughter",
-  "description": "Dit is een op maat gemaakt vlindermes, ook wel bekend als een balisong. Kenmerkend aan dit wapen is het vrijdraaiende blad, dat razendsnel uitgeklapt kan worden als een waaier en ingeklapt kan worden verborgen. Geen wonder dat vlindermessen in veel landen verboden zijn. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit is een op maat gemaakt vlindermes, ook wel bekend als een balisong. Kenmerkend aan dit wapen is het vrijdraaiende blad, dat razendsnel uitgeklapt kan worden als een waaier en ingeklapt kan worden verborgen. Geen wonder dat vlindermessen in veel landen verboden zijn. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "★ Overlevingsmes | Slaughter",
-  "description": "Dit veelzijdige tactische mes heeft een gekartelde rand waarmee je door ruw materiaal kunt snijden, zoals beenderen of vezels. Ook heeft het een scherpe haak om ingewanden mee te verwijderen. Het heft van composietmateriaal zit met zeshoekige moeren vast aan het lemmet. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit veelzijdige tactische mes heeft een gekartelde rand waarmee je door ruw materiaal kunt snijden, zoals beenderen of vezels. Ook heeft het een scherpe haak om ingewanden mee te verwijderen. Het heft van composietmateriaal zit met zeshoekige moeren vast aan het lemmet. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "★ Paracordmes | Slaughter",
-  "description": "Dit niet-inklapbare survivalmes doet dienst als zowel een wapen als gereedschap, bijvoorbeeld om vallen te zetten, op dieren te jagen of om door planten heen te snijden. Het heft is gewikkeld in veelzijdig paracord. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit niet-inklapbare survivalmes doet dienst als zowel een wapen als gereedschap, bijvoorbeeld om vallen te zetten, op dieren te jagen of om door planten heen te snijden. Het heft is gewikkeld in veelzijdig paracord. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "★ Klassiek mes | Slaughter",
-  "description": "Een klassieker in de Counter-Strike-serie. Het snijvlak van dit mes is vervaardigd uit stelliet en heeft een perfecte pasvorm met het lemmet en de rug van het mes, die van titanium zijn gemaakt. Het heft is gemaakt van gefossileerd ivoor van een mastodont, omhuld door een holster van koolstofvezel. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Een klassieker in de Counter-Strike-serie. Het snijvlak van dit mes is vervaardigd uit stelliet en heeft een perfecte pasvorm met het lemmet en de rug van het mes, die van titanium zijn gemaakt. Het heft is gemaakt van gefossileerd ivoor van een mastodont, omhuld door een holster van koolstofvezel. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "★ Falchion-mes | Slaughter",
-  "description": "Dit clippoint-mes met een gebogen lemmet is een modern eerbetoon aan het fautsoen, een zwaard uit de middeleeuwen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit clippoint-mes met een gebogen lemmet is een modern eerbetoon aan het fautsoen, een zwaard uit de middeleeuwen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "★ Knipmes | Slaughter",
-  "description": "Knipmessen hebben een kromgetrokken lemmet in Perzische stijl, met een scherpe punt. De punt van het mes is kwetsbaar, maar de rest van het mes gaat verrassend lang mee. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Knipmessen hebben een kromgetrokken lemmet in Perzische stijl, met een scherpe punt. De punt van het mes is kwetsbaar, maar de rest van het mes gaat verrassend lang mee. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "★ Ingewandenmes | Slaughter",
-  "description": "Het meest kenmerkende van het ingewandenmes is de haak voor de ingewanden op de rug van het lemmet. Oorspronkelijk werd deze haak gebruikt voor het villen van wild, maar je kunt er ook makkelijk mee door vezels snijden, zoals touw, riemen en gordels. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Het meest kenmerkende van het ingewandenmes is de haak voor de ingewanden op de rug van het lemmet. Oorspronkelijk werd deze haak gebruikt voor het villen van wild, maar je kunt er ook makkelijk mee door vezels snijden, zoals touw, riemen en gordels. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "★ Navaja | Slaughter",
-  "description": "Dit knipmes met gemarmerd handvat verbergt een klein, maar gruwelijk, taps toelopend mes. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit knipmes met gemarmerd handvat verbergt een klein, maar gruwelijk, taps toelopend mes. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "★ Karambit | Slaughter",
-  "description": "De karambit, met zijn kromgetrokken lemmet dat lijkt op de klauw van een tijger, is ontstaan als element van silat, een verzameling vechtsporten uit Zuidoost-Azië. Dit mes wordt meestal zo vastgehouden dat de wijsvinger door de ring steekt. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "De karambit, met zijn kromgetrokken lemmet dat lijkt op de klauw van een tijger, is ontstaan als element van silat, een verzameling vechtsporten uit Zuidoost-Azië. Dit mes wordt meestal zo vastgehouden dat de wijsvinger door de ring steekt. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "★ Kukri | Slaughter",
-  "description": "Wordt gebruikt bij tradities en rituelen, zoals bruiloften en steekpartijen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Wordt gebruikt bij tradities en rituelen, zoals bruiloften en steekpartijen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "★ M9 Bajonet | Slaughter",
-  "description": "Dit is de M9 Bajonet. Dit mes is ontworpen voor geweren, maar is ook prima geschikt voor lijf-aan-lijfgevechten. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit is de M9 Bajonet. Dit mes is ontworpen voor geweren, maar is ook prima geschikt voor lijf-aan-lijfgevechten. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "★ Nomademes | Slaughter",
-  "description": "Dit ergonomische, tactische, vergrendelbare jachtmes heeft een meerdelig heft van composietmateriaal en een breed, stevig lemmet. Ideaal om materiaal mee open te snijden en uit elkaar te halen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit ergonomische, tactische, vergrendelbare jachtmes heeft een meerdelig heft van composietmateriaal en een breed, stevig lemmet. Ideaal om materiaal mee open te snijden en uit elkaar te halen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "★ Schaduwdolken | Slaughter",
-  "description": "Het vuistmes is ontworpen om even efficiënt als wreed te zijn. Het gebruik is net zo makkelijk als het uitdelen van een klap. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Het vuistmes is ontworpen om even efficiënt als wreed te zijn. Het gebruik is net zo makkelijk als het uitdelen van een klap. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "★ Skeletonmes | Slaughter",
-  "description": "Dit mes uit één stuk heeft een getapet heft, voor extra grip. Als je een vinger door het gat steekt, levert dat extra stabiliteit en veiligheid op. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit mes uit één stuk heeft een getapet heft, voor extra grip. Als je een vinger door het gat steekt, levert dat extra stabiliteit en veiligheid op. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "★ Stiletto | Slaughter",
-  "description": "Dit vouwmes in de Italiaanse stilettostijl heeft een roerige historie en is onderworpen aan vele regels. Het lemmet komt bijna direct tevoorschijn als je het veersysteem activeert met een druk op de knop. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit vouwmes in de Italiaanse stilettostijl heeft een roerige historie en is onderworpen aan vele regels. Het lemmet komt bijna direct tevoorschijn als je het veersysteem activeert met een druk op de knop. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "★ Bowiemes | Slaughter",
-  "description": "Dit bowiemes met een getand lemmet is gemaakt voor gebruik in overlevingssituaties. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit bowiemes met een getand lemmet is gemaakt voor gebruik in overlevingssituaties. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "★ Jagersmes | Slaughter",
-  "description": "Dit mes is ontworpen voor moderne, tactische oorlogsvoering, met een lemmet dat zich leent voor uiteenlopende gevechtsdoelen en als gereedschap. Met de unieke tantōpunt kom je zelfs door het stevigste materiaal heen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit mes is ontworpen voor moderne, tactische oorlogsvoering, met een lemmet dat zich leent voor uiteenlopende gevechtsdoelen en als gereedschap. Met de unieke tantōpunt kom je zelfs door het stevigste materiaal heen. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "★ Ursus-mes | Slaughter",
-  "description": "Dit tantō-survivalmes heeft een geslepen blad waar het handvat op gemonteerd is, inclusief pommel. Geen gedoe, geen bewegende onderdelen - gewoon een betrouwbaar mes dat klaar voor gebruik is. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Dit tantō-survivalmes heeft een geslepen blad waar het handvat op gemonteerd is, inclusief pommel. Geen gedoe, geen bewegende onderdelen - gewoon een betrouwbaar mes dat klaar voor gebruik is. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "★ Talon-mes | Slaughter",
-  "description": "Deze met ivoor bewerkte karambit herken je aan de klinknagels en zaagtandranden van messing, waarmee je naar binnen snijdt en naar buiten scheurt. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen<i>",
+  "description": "Deze met ivoor bewerkte karambit herken je aan de klinknagels en zaagtandranden van messing, waarmee je naar binnen snijdt en naar buiten scheurt. Het wapen is beschilderd met een zebrastrepenpatroon met reflecterende aluminium- en chroomverf, waarop een tomatenrood laagje is aangebracht.\\n\\n<i>Valeria betaalt Javier niet om vragen te stellen... Ze betaalt hem om antwoorden los te krijgen</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "De M4A4 is nauwkeuriger dan de AK-47, maar richt minder schade aan. Het is een volautomatisch geweer dat populair is bij CT-agenten. Het wapen is matzwart en zilver geverfd, met daarop witte tekeningen.\\n\\n<i>Functie boven vorm</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "De M4A4 is nauwkeuriger dan de AK-47, maar richt minder schade aan. Het is een volautomatisch geweer dat populair is bij CT-agenten. Op het wapen is een rode slang geschilderd op een bleekbruine ondergrond.\\n\\n<i>Dit soort macht vereist ingetogenheid</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Geheim",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "De M4A4 is nauwkeuriger dan de AK-47, maar richt minder schade aan. Het is een volautomatisch geweer dat populair is bij CT-agenten. Het wapen is speciaal beschilderd met een wijnkleurige ondergrond.\\n\\n<i>WAARSCHUWING: langdurig schieten leidt tot oververhitting</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "De gedempte M4A1 heeft een kleiner magazijn dan de luidruchtigere variant, maar schiet stiller, nauwkeuriger en met een kleinere terugslag. Op het wapen is een felgroene parelmoerlak aangebracht.\\n\\n<i>Voor als je van de spotlights houdt</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Geheim",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "De MAC-10, die eruitziet als een doos die kogels uitspuwt, heeft een hoge vuursnelheid, maar de spreiding is onnauwkeurig en hij heeft een grote terugslag. Op het wapen is een patroon geschilderd met veel diepte, geïnspireerd door het Midden-Oosten.\\n\\n<i>Het zinderende zand</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "De MAC-10, die eruitziet als een doos die kogels uitspuwt, heeft een hoge vuursnelheid, maar de spreiding is onnauwkeurig en hij heeft een grote terugslag. Deze MAC-10 is zo beschilderd dat het lijkt alsof je via de achterkant naar binnen kunt kijken.\\n\\n<i>Op maat gemaakt</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "De MAC-10, die eruitziet als een doos die kogels uitspuwt, heeft een hoge vuursnelheid, maar de spreiding is onnauwkeurig en hij heeft een grote terugslag. Het wapen is op een speciale manier beschilderd, waardoor het eruitziet als een camcorder.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "De veelzijdige, maar prijzige MP7 uit Duitsland is een machinepistool dat zich bij uitstek leent voor vuurgevechten op korte afstand. Er zijn met groene en zwarte lak enen en nullen op het wapen geschilderd.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "De veelzijdige, maar prijzige MP7 uit Duitsland is een machinepistool dat zich bij uitstek leent voor vuurgevechten op korte afstand. De blauwe en paarse basislaag is afgewerkt met een smiley en de woorden 'Just Smile' in het geel. \\n\\n<i>Say cheeeeese</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "De in Zwitserland gefabriceerde, hypermoderne MP9 is een ergonomisch wapen van kunststof dat populair is onder particuliere beveiligingsbedrijven. Met kalligrafieachtige penseelstreken is er een wit design op een vaalbruine ondergrond aangebracht.\\n\\n<i>Een ongewone vondst uit een gortdroge wereld</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "De in Zwitserland gefabriceerde, hypermoderne MP9 is een ergonomisch wapen van kunststof dat populair is onder particuliere beveiligingsbedrijven. Het wapen is beschilderd met zilver, zwart en blauw in hedendaagse designs, afgerond met zilverkleurige verf.\\n\\n<i>Een persoonlijke, maar ingetogen touch</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "De in Zwitserland gefabriceerde, hypermoderne MP9 is een ergonomisch wapen van kunststof dat populair is onder particuliere beveiligingsbedrijven. Het wapen is beschilderd met een satijnwitte onderlaag met daarop blauwe designs.\\n\\n<i>Het resultaat kan afwijken</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Machinepistolen"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Bloomstick",
-  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Op het wapen is met een airbrush een kersenbloesemmotief gespoten, met een hoogglanslaag eroverheen.",
+  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Er is met een airbrush een motief van kersenbloesems op het wapen aangebracht, met daaroverheen een hoogglanslaag.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Met zandkleurige verf is er een ingewikkeld patroon aangebracht op het wapen.\\n\\n<i>Kracht begint met licht</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Zwaar"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Op dit wapen zijn eenvoudige, geometrische vormen en realistische details aangebracht, geïnspireerd door abstract surrealisme en kunstenaars uit de twintigste eeuw.\\n\\n<i>Oog om oog</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Bij het vizier is een stel hersens getekend dat deel uit lijkt te maken van het wapen. Het geheel is afgewerkt met een metallic zilverkleurige lak.\\n\\n<i>Wanneer brein en branie samenkomen</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Zwaar"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Contaminant",
-  "description": "De P250, met zijn kleine terugslag en hoge vuursnelheid, is een betaalbaar alternatief tegen gepantserde tegenstanders. De roodbruine toplaag is weggevreten en er resteert een halfvergaan wapen dat nog maar weinig nut heeft.\\n\\n<i>Slechter dan het eruitziet, wordt het niet</i>",
+  "description": "De P250, met zijn kleine terugslag en hoge vuursnelheid, is een betaalbaar alternatief tegen gepantserde tegenstanders. De kastanjebruine toplaag is weggesleten. Dit wapen lijkt nog maar een paar schoten in zich te hebben.\\n\\n<i>Dit kan alleen maar meevallen</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "De P250, met zijn kleine terugslag en hoge vuursnelheid, is een betaalbaar alternatief tegen gepantserde tegenstanders. Het wapen is beschilderd met metallic goud en blauw.\\n\\n<i>Met een lotus in de hand, maak je kills aan de lopende band</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Verboden",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8-revolver | Monarch",
+  "description": "De R8-revolver schiet nauwkeurig en krachtig, maar de trekker overhalen duurt lang. Als de nood aan de man is, kun je van dichtbij dus het beste op de hamer rammen. Het wapen is beschilderd met oranje en grijze lak en heeft details van messing.\\n\\n<i>Hiermee straal je status en autoriteit uit</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8-revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8-revolver | Tango",
   "description": "De R8-revolver schiet nauwkeurig en krachtig, maar de trekker overhalen duurt lang. Als de nood aan de man is, kun je van dichtbij dus het beste op de hamer rammen. Op het wapen is een houten handgreep met rozen geschilderd.\\n\\n<i>Ga jij akkoord?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Lunar Wyrm",
+  "description": "De klassieke Sawed-Off richt van dichtbij een ravage aan, maar is niet nauwkeurig, en heeft een hoge spreiding en een lage vuursnelheid. Kortom, haal de trekker alleen over als je zeker bent van je zaak. Op de bloedrode ondergrond is een slang getekend.\\n\\n<i>Opgerold staat netjes</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Zwaar"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-Off | Irradiated Alert",
   "description": "De klassieke Sawed-Off richt van dichtbij een ravage aan, maar is niet nauwkeurig, en heeft een hoge spreiding en een lage vuursnelheid. Kortom, haal de trekker alleen over als je zeker bent van je zaak. Het is gespoten met radiologische waarschuwingspatronen.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "De SCAR-20 is een semiautomatisch snipergeweer met een hoge vuursnelheid dat veel schade kan aanrichten. Maar hij is niet makkelijk mee te nemen en peperduur. Het wapen is bedrukt met een groen en grijs camouflagepatroon.\\n\\n<i>Voor alle Arctic Avengers!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "De SCAR-20 is een semiautomatisch snipergeweer met een hoge vuursnelheid dat veel schade kan aanrichten. Maar hij is niet makkelijk mee te nemen en peperduur. Het wapen heeft een kleurverloopdesign met blauw en paars.\\n\\n<i>\\\"Da's een groot wapen voor zo'n kleine kooi...\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "De SCAR-20 is een semiautomatisch snipergeweer met een hoge vuursnelheid dat veel schade kan aanrichten. Maar hij is niet makkelijk mee te nemen en peperduur. Op het wapen is een decoratief patroon aangebracht van pseudo-kalligrafie en arabeske geometrievormen.\\n\\n<i>Gevormd door hitte, stof en droge wind</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Geweren"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "De Tec-9 is een ideaal pistool als je als terrorist van A naar B moet. Het is dodelijk in kleine ruimtes en heeft een ruim bemeten magazijn. Er is een veelkleurig design met kruizen, vierkanten en stippen op getekend.\\n\\n<i>Boter, kaas en eieren</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "De Tec-9 is een ideaal pistool als je als terrorist van A naar B moet. Het is dodelijk in kleine ruimtes en heeft een ruim bemeten magazijn. Op het wapen zijn arabesk-achtige mozaïekdesigns geschilderd.\\n\\n<i>Staakt-het-vuren met vuur</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Militair",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "De Arabesk-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "De UMP45, het zwarte schaap van de SMG-familie, heeft een klein magazijn, maar verder is het een veelzijdig, automatisch machinepistool voor korte afstanden. Er is een geanodiseerd patroon van van motoronderdelen aangebracht op het wapen.\\n\\n<i>\\\"Dat ziet er niet best uit...\\\"</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "Dit USP-pistool, een populair wapen uit Counter-Strike: Source, heeft een verwijderbare demper die zorgt voor minder terugslag en minder ongewilde aandacht. Onder de toplaag van parelmoer zijn verwarrende designs aangebracht.\\n\\n<i>Om duizelig van te worden</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolen"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Geheim",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterreureenheid"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "De XM1014 is een uiterst krachtige volautomatische shotgun die zijn forse prijskaartje compenseert met zijn vermogen om in no time een kamer te vullen met lood. Op dit wapen is een patroon van vaalgroene, beige en rode oude tegels aangebracht.\\n\\n<i>\\\"Wat rest, is hoop — zelfs voor degenen die hun reis op het verkeerde pad begonnen\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "De XM1014 is een uiterst krachtige volautomatische shotgun die zijn forse prijskaartje compenseert met zijn vermogen om in no time een kamer te vullen met lood. Het wapen is matzwart, grijs en brons geschilderd.\\n\\n<i>Schop een scène</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Zwaar"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrieel",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gloednieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Zo goed als nieuw"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Lichte slijtage"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Versleten"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gevechtssporen"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "De spionage- en tech-collectie",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "beide teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

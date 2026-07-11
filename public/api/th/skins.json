@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "อานุภาพสูงและเชื่อถือได้ AK-47 เป็นปืนไรเฟิลจู่โจมที่ได้รับความนิยมมากที่สุดในโลก บอกสั้น ๆ ก็คือมันมีความร้ายแรงที่สุด สามารถควบคุมการยิงเป็นชุดได้  มันถูกลงสีแบบกำหนดเองด้วยสีฟ้าและสีชมพูเคลือบเงาไล่เฉดและลายกราฟิก\\n\\n<i>\\\"สังหาร\\\" ในคอนโซล</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "ลึกลับ",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "อานุภาพสูงและเชื่อถือได้ AK-47 เป็นปืนไรเฟิลจู่โจมที่ได้รับความนิยมมากที่สุดในโลก บอกสั้น ๆ ก็คือมันมีความร้ายแรงที่สุด สามารถควบคุมการยิงเป็นชุดได้ มันถูกลงสีด้วยมือพร้อมรูปนกกระเรียนและลายประดับสีทองบนสีรองพื้นหลังสีขาวดำ\\n\\n<i>ลางบอกเหตุก่อนจันทร์สีเลือด</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "อานุภาพสูงและเชื่อถือได้ AK-47 เป็นปืนไรเฟิลจู่โจมที่ได้รับความนิยมมากที่สุดในโลก บอกสั้น ๆ ก็คือมันมีความร้ายแรงที่สุด สามารถควบคุมการยิงเป็นชุดได้ มันถูกลงสีแบบกำหนดเองโดยใช้สีส้มสดเป็นสีพื้นหลัก ตกแต่งด้วยลายเปลวไฟสีทองเงางามและภาพของจินน์อยู่เหนือแมกกาซีน\\n\\n<i>จงขอพรอย่างชาญฉลาด...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "ลึกลับ",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "มีอานุภาพสูงและมีความแม่นยำ AUG ปืนไรเฟิลจู่โจมแบบติดลำกล้องได้รับการชดเชยสำหรับระยะเวลาการบรรจุกระสุนที่นานของมัน ด้วยการกระจายของกระสุนที่ต่ำและอัตราการยิงสูง มันถูกลงสีแบบกำหนดเองโดยมีลวดลายหลากสีบนพื้นสีดำด้าน\\n\\n<i>> กำลังพยายามเชื่อมต่อใหม่ ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "มีอานุภาพสูงและมีความแม่นยำ AUG ปืนไรเฟิลจู่โจมแบบติดลำกล้องได้รับการชดเชยสำหรับระยะเวลาการบรรจุกระสุนที่นานของมัน ด้วยการกระจายของกระสุนที่ต่ำและอัตราการยิงสูง มันถูกลงสีแบบกำหนดเองด้วยลายคล้ายลาพิส ลาซูลีสีขาว น้ำเงิน และทอง\\n\\n<i>ผลงานอันประณีตงดงาม ที่ทั้งทรงพลังและเปราะบาง</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "มีอานุภาพสูงและมีความแม่นยำ AUG ปืนไรเฟิลจู่โจมแบบติดลำกล้องได้รับการชดเชยสำหรับระยะเวลาการบรรจุกระสุนที่นานของมัน ด้วยการกระจายของกระสุนที่ต่ำและอัตราการยิงสูง มันถูกลงสีแบบกำหนดเองด้วยลายเลียนแบบคล้ายสัญลักษณ์ของเเจ็กเกตบุนวมและตกแต่งเน้นด้วยสีบรอนซ์\\n\\n<i>แพ็กเกจระดับพรีเมียม</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "ความเสี่ยงที่สูงก็ย่อมได้ผลตอบแทนที่สูงตาม AWP ชื่อดังเป็นที่รู้จักด้วยเสียงปืนที่เป็นลักษณะเฉพาะ และนโยบายหนึ่งนัด หนึ่งศพของมัน มันถูกลงสีแบบกำหนดเองโดยใช้สีดำด้าน ปิดท้ายด้วยการคาดสีส้ม\\n\\n<i>\\\"เรียบ ๆ นี่แหละ เข้าใจไหม?\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "ความเสี่ยงที่สูงก็ย่อมได้ผลตอบแทนที่สูงตาม AWP ชื่อดังเป็นที่รู้จักด้วยเสียงปืนที่เป็นลักษณะเฉพาะ และนโยบายหนึ่งนัด หนึ่งศพของมัน  มันถูกลงสีแบบกำหนดเองด้วยสีเขียวสดใสและสีฟ้าไล่เฉด\\n\\n<i>เยือกเย็นดุจน้ำแข็ง</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "ความเสี่ยงที่สูงก็ย่อมได้ผลตอบแทนที่สูงตาม AWP ชื่อดังเป็นที่รู้จักด้วยเสียงปืนที่เป็นลักษณะเฉพาะ และนโยบายหนึ่งนัด หนึ่งศพของมัน มันถูกลงสีแบบกำหนดเองพร้อมกล้องเล็งสีทองและลายเปลวไฟยาวตามความยาวของอาวุธ\\n\\n<i>ผู้สูงส่งเป็นผู้ได้รับชัยชนะ</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "ลึกลับ",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "มีดเบโยเน็ต (★) | Slaughter",
-  "description": "การออกแบบยังคงเหมือนเดิมไม่เคยเปลี่ยนแปลงตั้งแต่สมัยสงครามโลกครั้งที่ 2 มีดเบโยเน็ตยังคงรักษาตำแหน่งอยู่ในยุทธวิธีการทหารสมัยใหม่ การใช้จ่ายกับมีดเบโยเน็ตยังคงดำเนินต่อไปเพื่อการทำสงครามอ่าวเปอร์เซียครั้งที่สอง และสงครามในอัฟกานิสถานที่ผ่านมาได้อย่างมีประสิทธิภาพ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "การออกแบบยังคงเหมือนเดิมไม่เคยเปลี่ยนแปลงตั้งแต่สมัยสงครามโลกครั้งที่ 2 มีดเบโยเน็ตยังคงรักษาตำแหน่งอยู่ในยุทธวิธีการทหารสมัยใหม่ การใช้จ่ายกับมีดเบโยเน็ตยังคงดำเนินต่อไปเพื่อการทำสงครามอ่าวเปอร์เซียครั้งที่สอง และสงครามในอัฟกานิสถานที่ผ่านมาได้อย่างมีประสิทธิภาพ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "ปืนกลมือ Bizon เป็นอาวุธที่มีความเสียหายต่ำ แต่ว่าได้เสนอแมกกาซีนแบบ Drum ความจุสูงที่บรรจุกระสุนได้อย่างรวดเร็ว มันถูกลงสีแบบกำหนดเองด้วยลายสีทองและทองแดง\\n\\n<i>กระสุนและทองแดง</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "ปืนรูปแบบอัตโนมัติของ CZ75, CZ75-Auto คือตัวเลือกที่เหมาะกับการใช้ในระยะสั้นสำหรับการพลิกเกม และแย่งปืนมาจากศัตรูของคุณ แต่เนื่องจากกระสุนในแมกกาซีนที่มีจำนวนน้อยมาก จึงควรมีการเหนี่ยวไกอย่างรอบคอบ แมกกาซีนถูกลงสีให้คล้ายคลึงกับวัสดุโพลีเมอร์ มี \\\"HYDRA\\\" วาดไว้เหนือไกปืน\\n\\n<i>เป็นเฮอร์คิวลิสเหรอ?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "ปืนรูปแบบอัตโนมัติของ CZ75, CZ75-Auto คือตัวเลือกที่เหมาะกับการใช้ในระยะสั้นสำหรับการพลิกเกม และแย่งปืนมาจากศัตรูของคุณ แต่เนื่องจากกระสุนในแมกกาซีนที่มีจำนวนน้อยมาก จึงควรมีการเหนี่ยวไกอย่างรอบคอบ มันถูกลงสีด้วยมือสีชมพูและม่วงที่โดดเด่นเล็กน้อย และมีสติกเกอร์รอยเท้าของแมว\\n\\n<i>กระสุน 24 นัดกับแมว 9 ชีวิต</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "ราคาสูงพอ ๆ กับอานุภาพที่สูง Desert Eagle เป็นปืนพกโดดเด่นที่ยากในการใช้อย่างชำนาญแต่ว่ามันมีความแม่นยำในระยะไกลอย่างเหลือเชื่อ มันถูกลงสีแบบกำหนดเองด้วยลายสีเงินเมทัลลิก ดำ และน้ำเงิน\\n\\n<i>อย่าว่อกแว่ก</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "ลับเฉพาะ",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "ราคาสูงพอ ๆ กับอานุภาพที่สูง Desert Eagle เป็นปืนพกโดดเด่นที่ยากในการใช้อย่างชำนาญแต่ว่ามันมีความแม่นยำในระยะไกลอย่างเหลือเชื่อ มันถูกลงสีแบบกำหนดเองด้วยลายเปลวเพลิงสีม่วงและน้ำเงินโดยใช้สีเคลือบเงาไข่มุก\\n\\n<i>อัดแน่นไปด้วยคุณสมบัติและความสามารถที่เหนือชั้น</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "การยิง Beretta แบบความจุแมกกาซีนสูงทั้งสองกระบอกนี้พร้อมกันจะทำให้ความแม่นยำลดลง และเพิ่มระยะเวลาในการบรรจุกระสุน มองในแง่ดี คุณจะได้ยิง Beretta แบบความจุแมกกาซีนสูงทั้งสองกระบอกนี้พร้อมกัน มันถูกลงสีแบบกำหนดเองด้วยสีทองและลายเส้นโค้งที่หลอมรวมเข้ากับดวงตาทะเลทรายเมื่อซ้อนทับกัน\\n\\n<i>ดวงตาที่เห็นร่วมกัน</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "เป็นตัวเลือกราคาถูกสำหรับผู้เล่นที่มีเงินไม่เพียงพอ FAMAS ช่วยเติมเต็มช่องว่างระหว่างปืนไรเฟิลราคาแพงกว่า และปืนกลมือที่มีประสิทธิภาพต่ำกว่าได้เป็นอย่างดี มันถูกลงสีแบบกำหนดเองด้วยสีดำและแดง\\n\\n<i>ชุดและแว่นกันแดดจำหน่ายแยกต่างหาก</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "เป็นตัวเลือกราคาถูกสำหรับผู้เล่นที่มีเงินไม่เพียงพอ FAMAS ช่วยเติมเต็มช่องว่างระหว่างปืนไรเฟิลราคาแพงกว่า และปืนกลมือที่มีประสิทธิภาพต่ำกว่าได้เป็นอย่างดี มันถูกลงสีแบบกำหนดเองด้วยลายงู เน้นให้เด่นด้วยขอบสีทองสว่างบนพื้นสีทองด้าน\\n\\n<i>ความหวังที่ยังส่องประกาย</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "มีความแม่นยำสูงและสามารถเจาะเกราะได้ Five-Seven ที่ราคาสูงนี้เป็นปืนบรรจุกระสุนช้าซึ่งชดเชยด้วยแมกกาซีนที่มีกระสุนมากถึง 20 นัดและแรงถีบที่พอรับได้ มันถูกลงสีแบบกำหนดเองด้วยดีไซน์ Desert Seal สีเงินและสีม่วง\\n\\n<i>โชคชะตาเพรียกหา</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "Glock 18 เป็นปืนพกที่ใช้ประโยชน์ได้ในรอบแรกได้ผลดีที่สุดกับศัตรูที่ไม่สวมชุดเกราะ และสามารถยิงแบบเป็นชุดสามนัดได้ มันถูกลงสีแบบกำหนดเองด้วยสีแดงที่มีความเงาแตกต่างกัน\\n\\n<i>ไม่สนหรอกว่าจะมีใครตามมารึเปล่า ยังไงก็มาถึงนี่แล้ว - นักปฏิวัติ วาเลเรีย เจนเนอร์</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "ลึกลับ",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "Glock 18 เป็นปืนพกที่ใช้ประโยชน์ได้ในรอบแรกได้ผลดีที่สุดกับศัตรูที่ไม่สวมชุดเกราะ และสามารถยิงแบบเป็นชุดสามนัดได้ มันถูกลงสีแบบกำหนดเองด้วยสีแทนและดำ\\n\\n<i>ข้อมูลข่าวกรองที่ล้าสมัยก็ยังเป็นข้อมูลข่าวกรองอยู่ดี คุณก็รู้...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "Glock 18 เป็นปืนพกที่ใช้ประโยชน์ได้ในรอบแรกได้ผลดีที่สุดกับศัตรูที่ไม่สวมชุดเกราะ และสามารถยิงแบบเป็นชุดสามนัดได้ มันถูกลงสีแบบกำหนดเองด้วยการใช้สีนีออนและสีเมทัลลิกระยิบระยับ\\n\\n<i>สำหรับฉันแล้วมันดูเยอะเกินไปหน่อย แต่ฉันไม่ใช่กลุ่มเป้าหมายของสินค้านี้อยู่แล้ว... - นักค้าอาวุธ บูธ</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "มีดบัตเตอร์ฟลาย (★) | Slaughter",
-  "description": "นี่คือมีดบาลิซองแบบสั่งทำพิเศษ เป็นที่รู้จักโดยทั่วไปว่ามีดบัตเตอร์ฟลาย นิยามของลักษณะเฉพาะของอาวุธนี้มันก็เหมือนใบพัดที่เปิดให้ใบมีดสามารถหมุนไปมาได้อย่างอิสระ ที่ช่วยให้สามารถนำออกมาใช้หรือทำการเก็บได้อย่างรวดเร็ว ส่งผลให้มีดบัตเตอร์ฟลายเป็นของผิดกฎหมายในหลายประเทศ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "นี่คือมีดบาลิซองแบบสั่งทำพิเศษ เป็นที่รู้จักโดยทั่วไปว่ามีดบัตเตอร์ฟลาย นิยามของลักษณะเฉพาะของอาวุธนี้มันก็เหมือนใบพัดที่เปิดให้ใบมีดสามารถหมุนไปมาได้อย่างอิสระ ที่ช่วยให้สามารถนำออกมาใช้หรือทำการเก็บได้อย่างรวดเร็ว ส่งผลให้มีดบัตเตอร์ฟลายเป็นของผิดกฎหมายในหลายประเทศ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "มีดเซอร์ไวเวอร์ (★) | Slaughter",
-  "description": "มีดยุทธวิธีอเนกประสงค์นี้มีคมหยักสำหรับทำการฉีกกระชากวัสดุเนื้อหยาบอย่างเช่น กระดูกหรือไฟเบอร์ พร้อมร่องตะขอคมกริบ ด้ามจับประกอบด้วยวัสดุแผ่นสลักยึดด้วยน็อตหกเหลี่ยมกับใบมีด มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดยุทธวิธีอเนกประสงค์นี้มีคมหยักสำหรับทำการฉีกกระชากวัสดุเนื้อหยาบอย่างเช่น กระดูกหรือไฟเบอร์ พร้อมร่องตะขอคมกริบ ด้ามจับประกอบด้วยวัสดุแผ่นสลักยึดด้วยน็อตหกเหลี่ยมกับใบมีด มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "มีดพาราคอร์ด (★) | Slaughter",
-  "description": "มีดเอาชีวิตรอดแบบดัดแปลงใบมีดนี้ถูกออกแบบให้ทนทานต่อการใช้งานทั้งในแบบอาวุธและอุปกรณ์เครื่องมือ เช่น ใช้สำหรับวางกับดัก ล่าสัตว์ และตัดใบไม้ ด้ามจับถูกหุ้มด้วยเชือกพาราคอร์ดอเนกประสงค์ยาวทั้งด้าม มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดเอาชีวิตรอดแบบดัดแปลงใบมีดนี้ถูกออกแบบให้ทนทานต่อการใช้งานทั้งในแบบอาวุธและอุปกรณ์เครื่องมือ เช่น ใช้สำหรับวางกับดัก ล่าสัตว์ และตัดใบไม้ ด้ามจับถูกหุ้มด้วยเชือกพาราคอร์ดอเนกประสงค์ยาวทั้งด้าม มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "มีดคลาสสิก (★) | Slaughter",
-  "description": "อาวุธคลาสสิกจากซีรีส์ Counter-Strike ใบมีดคมกริบเล่มนี้เป็นโลหะผสมชนิดสเตลไลต์ที่ขึ้นรูปให้อยู่ในตำแหน่งที่เหมาะเจาะรับกับไทเทเนียมตรงด้านข้างและสันของใบมีดอย่างลงตัว ด้ามจับทำด้วยฟอสซิลงาช้างมาสโตดอนที่หุ้มด้วยปลอกเส้นใยคาร์บอน มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "อาวุธคลาสสิกจากซีรีส์ Counter-Strike ใบมีดคมกริบเล่มนี้เป็นโลหะผสมชนิดสเตลไลต์ที่ขึ้นรูปให้อยู่ในตำแหน่งที่เหมาะเจาะรับกับไทเทเนียมตรงด้านข้างและสันของใบมีดอย่างลงตัว ด้ามจับทำด้วยฟอสซิลงาช้างมาสโตดอนที่หุ้มด้วยปลอกเส้นใยคาร์บอน มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "มีดฟัลชิออน (★) | Slaughter",
-  "description": "การแสดงความเคารพในยุคใหม่แด่ดาบฟัลชิออน ใบมีดแบบคลิปพอยต์นี้มีคมมีดที่โค้งมน มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "การแสดงความเคารพในยุคใหม่แด่ดาบฟัลชิออน ใบมีดแบบคลิปพอยต์นี้มีคมมีดที่โค้งมน มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "มีดพับ (★) | Slaughter",
-  "description": "มีดพับในรูปแบบเปอร์เซีย ใบมีดแบบกวาดมาด้านหลังด้วยปลายมีดที่แหลมคม ในขณะที่ปลายมีดของมันนั้นอาจมีความเปราะบาง การออกแบบโดยรวมของมีดพับนั้นมีความทนทานอย่างเหลือเชื่อ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดพับในรูปแบบเปอร์เซีย ใบมีดแบบกวาดมาด้านหลังด้วยปลายมีดที่แหลมคม ในขณะที่ปลายมีดของมันนั้นอาจมีความเปราะบาง การออกแบบโดยรวมของมีดพับนั้นมีความทนทานอย่างเหลือเชื่อ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "มีดแล่หนัง (★) | Slaughter",
-  "description": "ลักษณะที่โดดเด่นที่สุดของมีดแล่หนังคือตะขอเกี่ยวบนสันของใบมีด แต่เดิมทีแล้วมันเป็นที่นิยมในการช่วยผ่าท้องของสัตว์เพื่อนำเครื่องในออกมา นอกจากนี้ตะขอเกี่ยวยังมีประสิทธิภาพในการตัดพวกเส้นใยต่าง ๆ เช่นเชือก ตาข่าย หรือเข็มขัดนิรภัยได้อย่างง่ายดาย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "ลักษณะที่โดดเด่นที่สุดของมีดแล่หนังคือตะขอเกี่ยวบนสันของใบมีด แต่เดิมทีแล้วมันเป็นที่นิยมในการช่วยผ่าท้องของสัตว์เพื่อนำเครื่องในออกมา นอกจากนี้ตะขอเกี่ยวยังมีประสิทธิภาพในการตัดพวกเส้นใยต่าง ๆ เช่นเชือก ตาข่าย หรือเข็มขัดนิรภัยได้อย่างง่ายดาย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "มีดนาวาฮา (★) | Slaughter",
-  "description": "มีดพับเคลือบหินอ่อนที่ด้ามจับนี้สามารถซ่อนได้เพราะมีขนาดเล็ก แต่ใบมีดมีความเรียวแหลมได้ใจ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดพับเคลือบหินอ่อนที่ด้ามจับนี้สามารถซ่อนได้เพราะมีขนาดเล็ก แต่ใบมีดมีความเรียวแหลมได้ใจ มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "มีดคารัมบิต (★) | Slaughter",
-  "description": "ด้วยใบมีดอันโค้งมนของมันที่ทำเลียนแบบกรงเล็บของเสือ มีดคารัมบิตได้ถูกพัฒนาขึ้นมาเป็นส่วนหนึ่งของศิลปะการต่อสู้สีลัตในเอเชียตะวันออกเฉียงใต้ การใช้มีดตามปกติแล้วจะจับแบบกลับด้าน ด้วยการสอดนิ้วชี้เข้าไปในวงแหวนด้ามจับของมีด มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "ด้วยใบมีดอันโค้งมนของมันที่ทำเลียนแบบกรงเล็บของเสือ มีดคารัมบิตได้ถูกพัฒนาขึ้นมาเป็นส่วนหนึ่งของศิลปะการต่อสู้สีลัตในเอเชียตะวันออกเฉียงใต้ การใช้มีดตามปกติแล้วจะจับแบบกลับด้าน ด้วยการสอดนิ้วชี้เข้าไปในวงแหวนด้ามจับของมีด มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "มีดคูครี (★) | Slaughter",
-  "description": "มีดถูกใช้ในพิธีกรรมดั้งเดิม เช่น งานแต่ง หรือการใช้แทง มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดถูกใช้ในพิธีกรรมดั้งเดิม เช่น งานแต่ง หรือการใช้แทง มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "มีดเบโยเน็ตเอ็ม9 (★) | Slaughter",
-  "description": "นี่คือมีดเบโยเน็ตเอ็ม9 แต่เดิมทีแล้วมันต้องนำไปติดตั้งกับปืนไรเฟิล นอกจากนี้แล้วมันก็ยังเหมาะกับการใช้งานในการต่อสู้ระยะประชิดอีกด้วย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "นี่คือมีดเบโยเน็ตเอ็ม9 แต่เดิมทีแล้วมันต้องนำไปติดตั้งกับปืนไรเฟิล นอกจากนี้แล้วมันก็ยังเหมาะกับการใช้งานในการต่อสู้ระยะประชิดอีกด้วย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "มีดโนแมด (★) | Slaughter",
-  "description": "มีดแบบใบมีดล็อคเหมาะสำหรับการล่าสัตว์ตามยุทธวิธี ด้ามจับมีความกว้าง ใบมีดทนทานแข็งแรง มีประโยชน์สำหรับการตัดและงัดแยกวัสดุได้ดี มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดแบบใบมีดล็อคเหมาะสำหรับการล่าสัตว์ตามยุทธวิธี ด้ามจับมีความกว้าง ใบมีดทนทานแข็งแรง มีประโยชน์สำหรับการตัดและงัดแยกวัสดุได้ดี มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "มีดชาโดว์ดักเกอร์ (★) | Slaughter",
-  "description": "ออกแบบมาเพื่อความโหดที่มีประสิทธิภาพ การใช้งานมีดชาโดว์ดักเกอร์ก็ง่าย ๆ แค่ปล่อยหมัดด้วยมือข้างเดียวหรือทั้งสองข้าง มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "ออกแบบมาเพื่อความโหดที่มีประสิทธิภาพ การใช้งานมีดชาโดว์ดักเกอร์ก็ง่าย ๆ แค่ปล่อยหมัดด้วยมือข้างเดียวหรือทั้งสองข้าง มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "มีดสเกเลตัน (★) | Slaughter",
-  "description": "มีดรูปแบบโครงกระดูกนี้ถูกพันเทปไว้ที่ด้ามจับเพื่อให้หยิบจับได้ดีขึ้น มีรูที่สามารถเอานิ้วสอดเข้าไปได้อย่างมั่นคงและปลอดภัย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดรูปแบบโครงกระดูกนี้ถูกพันเทปไว้ที่ด้ามจับเพื่อให้หยิบจับได้ดีขึ้น มีรูที่สามารถเอานิ้วสอดเข้าไปได้อย่างมั่นคงและปลอดภัย มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "มีดสติลเล็ตโต (★) | Slaughter",
-  "description": "ในประวัติศาสตร์ มักจะมีจุดโฟกัสในเรื่องของความขัดแย้งและกฎระเบียบ มีดสปริงสติลเล็ตโตสไตล์อิตาลีนี้ มีคุณสมบัติเด่นคือ ใบมีดแบบสปริงที่สามารถใช้งานได้แทบจะในทันทีด้วยการกดปุ่มปลดใบมีดออกมา มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "ในประวัติศาสตร์ มักจะมีจุดโฟกัสในเรื่องของความขัดแย้งและกฎระเบียบ มีดสปริงสติลเล็ตโตสไตล์อิตาลีนี้ มีคุณสมบัติเด่นคือ ใบมีดแบบสปริงที่สามารถใช้งานได้แทบจะในทันทีด้วยการกดปุ่มปลดใบมีดออกมา มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "มีดโบวี (★) | Slaughter",
-  "description": "มีดโบวี่ใบเลื่อยหลังแบบเต็มด้ามนี้ได้ถูกออกแบบสำหรับใช้งานหนักในสถานการณ์เอาชีวิตรอดที่โหดเหี้ยม มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดโบวี่ใบเลื่อยหลังแบบเต็มด้ามนี้ได้ถูกออกแบบสำหรับใช้งานหนักในสถานการณ์เอาชีวิตรอดที่โหดเหี้ยม มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "มีดนายพราน (★) | Slaughter",
-  "description": "ตัวมีดได้รับการออกแบบมาสำหรับการใช้แบบยุทธวิธีสมัยใหม่ ใบมีดนั้นเหมาะกับการใช้งานทั้งในการต่อสู้และประโยชน์ใช้สอยทั่วไปได้เป็นอย่างดี ปลายมีดแบบมีมุมตัดที่มีลักษณะเฉพาะช่วยส่งเสริมการแทงทะลุทลวงได้สูงที่สุดถึงแม้ว่าพื้นผิวจะมีความหนาอย่างมาก มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "ตัวมีดได้รับการออกแบบมาสำหรับการใช้แบบยุทธวิธีสมัยใหม่ ใบมีดนั้นเหมาะกับการใช้งานทั้งในการต่อสู้และประโยชน์ใช้สอยทั่วไปได้เป็นอย่างดี ปลายมีดแบบมีมุมตัดที่มีลักษณะเฉพาะช่วยส่งเสริมการแทงทะลุทลวงได้สูงที่สุดถึงแม้ว่าพื้นผิวจะมีความหนาอย่างมาก มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "มีดเออซุส (★) | Slaughter",
-  "description": "มีดเอาชีวิตรอดรูปแบบทานโตนี้ มีลักษณะโดดเด่นคือใบมีดเป็นมุมด้านและใบมีดเต็มด้าม พร้อมด้ามจับกันกระแทกแบบตุ่มกลม ไม่จู้จี้จุกจิก ไม่มีส่วนที่ต้องพับมีด - ก็แค่ใบมีดที่เชื่อถือได้ที่พร้อมใช้งานแล้ว มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดเอาชีวิตรอดรูปแบบทานโตนี้ มีลักษณะโดดเด่นคือใบมีดเป็นมุมด้านและใบมีดเต็มด้าม พร้อมด้ามจับกันกระแทกแบบตุ่มกลม ไม่จู้จี้จุกจิก ไม่มีส่วนที่ต้องพับมีด - ก็แค่ใบมีดที่เชื่อถือได้ที่พร้อมใช้งานแล้ว มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "มีดทาลอน (★) | Slaughter",
-  "description": "มีดคารัมบิตด้ามจับแบบงาช้าง มีลักษณะโดดเด่นคือหมุดยึดด้ามจับทองเหลืองและสันมีดแบบฟันเลื่อย มันตัดทุกสิ่งที่เข้ามา และสิ่งที่เข้ามาต้องฉีกขาดออกไป มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นมันถูกเคลือบด้วยสีแคนดี้มะเขือเทศแดง\\n\\n<i>วาเลเรียไม่ได้จ้างเพื่อให้ฮาเวียร์ถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ<i>",
+  "description": "มีดคารัมบิตด้ามจับแบบงาช้าง มีลักษณะโดดเด่นคือหมุดยึดด้ามจับทองเหลืองและสันมีดแบบฟันเลื่อย มันตัดทุกสิ่งที่เข้ามา และสิ่งที่เข้ามาต้องฉีกขาดออกไป มันถูกลงสีด้วยลายของม้าลายด้วยสีอะลูมิเนียมและโครเมียมด้วยค่าความสะท้อนที่ต่างกันหลายจุด และจากนั้นก็ถูกเคลือบด้วยสีแดงมะเขือเทศแบบเงา\\n\\n<i>วาเลเรียไม่ได้จ้างฮาเวียร์มาเพื่อถามคำถาม... เธอจ้างเขาเพื่อให้ไปค้นหาคำตอบ</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "แม่นยำมากกว่าแต่ทำความเสียหายได้น้อยกว่าเมื่อเทียบคู่กับ AK-47, M4A4 คือปืนไรเฟิลจู่โจมอัตโนมัติที่ดีที่สุดสำหรับ CT มันถูกลงสีแบบกำหนดเองด้วยสีดำด้านและสีเงิน พร้อมด้วยลวดลายกราฟิกสีขาว\\n\\n<i>เน้นการทำงานมากกว่าความสวย</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "แม่นยำมากกว่าแต่ทำความเสียหายได้น้อยกว่าเมื่อเทียบคู่กับ AK-47, M4A4 คือปืนไรเฟิลจู่โจมอัตโนมัติที่ดีที่สุดสำหรับ CT มันถูกลงสีแบบกำหนดเองด้วยลายงูสีแดงบนพื้นสีแทน\\n\\n<i>คุณต้องควบคุมอำนาจที่คุณมีอยู่ให้ได้</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "ลับเฉพาะ",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "แม่นยำมากกว่าแต่ทำความเสียหายได้น้อยกว่าเมื่อเทียบคู่กับ AK-47, M4A4 คือปืนไรเฟิลจู่โจมอัตโนมัติที่ดีที่สุดสำหรับ CT มันถูกลงสีแบบกำหนดเองด้วยสีรองพื้นสีไวน์\\n\\n<i>คำเตือน: การเผาไฟเป็นเวลานานอาจทำให้เกิดความร้อนมากเกินไป</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "ด้วยแมกกาซีนที่มีขนาดเล็กกว่ารุ่นเทียบเคียงที่ไม่มีท่อเก็บเสียงอีกแบบของมัน M4A1 แบบเก็บเสียงมอบเสียงยิงที่เบากว่าเดิมพร้อมด้วยแรงถีบที่ลดลง และความแม่นยำที่ดียิ่งกว่าเดิม มันถูกลงสีแบบกำหนดเองด้วยสีเขียวสว่างเคลือบเงาไข่มุก\\n\\n<i>ถ้าทำตัวกลมกลืนไม่ได้</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "ลับเฉพาะ",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "โดยพื้นฐานแล้วมันคือกล่องที่มีลูกกระสุนออกมา ปืนกลมือ MAC-10 ภูมิใจนำเสนออัตราการยิงที่สูง พร้อมด้วยการกระจายของกระสุนที่ค่อนข้างแย่และแรงถีบที่สูงเป็นข้อแลกเปลี่ยน มันถูกลงสีแบบกำหนดเองด้วยทิวทัศน์เคลื่อนไหวที่ได้รับแรงบันดาลใจจากตะวันออกกลาง\\n\\n<i>ทะเลทรายที่เปลี่ยนแปลงอยู่ตลอดเวลา</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "โดยพื้นฐานแล้วมันคือกล่องที่มีลูกกระสุนออกมา ปืนกลมือ MAC-10 ภูมิใจนำเสนออัตราการยิงที่สูง พร้อมด้วยการกระจายของกระสุนที่ค่อนข้างแย่และแรงถีบที่สูงเป็นข้อแลกเปลี่ยน มันถูกลงสีแบบกำหนดเองด้วยลายที่เหมือนกับว่าคุณกำลังมองเข้าไปด้านหลังของปืน MAC-10\\n\\n<i>งานสร้างแบบกำหนดเอง</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "โดยพื้นฐานแล้วมันคือกล่องที่มีลูกกระสุนออกมา ปืนกลมือ MAC-10 ภูมิใจนำเสนออัตราการยิงที่สูง พร้อมด้วยการกระจายของกระสุนที่ค่อนข้างแย่และแรงถีบที่สูงเป็นข้อแลกเปลี่ยน มันถูกลงสีแบบกำหนดเองให้คล้ายคลึงกับกล้องถ่ายวิดีโอ\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "อเนกประสงค์แต่ราคาแพง ปืนกลมือผลิตโดยประเทศเยอรมัน MP7 เป็นตัวเลือกที่ยอดเยี่ยมสำหรับการต่อสู้ในระยะประชิดที่มีผลกระทบสูง มันถูกลงสีแบบกำหนดเองด้วยลายตัวเลข 1 และ 0 โดยใช้สีเขียวและดำ\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "อเนกประสงค์แต่ราคาแพง ปืนกลมือผลิตโดยประเทศเยอรมัน MP7 เป็นตัวเลือกที่ยอดเยี่ยมสำหรับการต่อสู้ในระยะประชิดที่มีผลกระทบสูง มันถูกลงสีด้วยลายเคลือบสีน้ำเงินและสีรองพื้นสีม่วงพร้อมหน้ายิ้มและคำว่า \\\"Just Smile\\\" สีเหลือง\\n\\n<i>\\\"เอ้า ยิ้มมมมม\\\"</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "ได้รับการผลิตขึ้นในประเทศสวิสเซอร์แลนด์ ปืนกลมือที่ล้ำสมัย MP9 เป็นอาวุธพอลิเมอร์ตามหลักสรีรศาสตร์ได้รับการสนับสนุนโดยบริษัทรักษาความปลอดภัยเอกชน งูถูกลงสีแบบกำหนดเองด้วยฝีแปรงแบบพู่กันบนสีพื้นสีแทน\\n\\n<i>วัตถุแปลกประหลาดจากโลกที่รกร้าง</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "ได้รับการผลิตขึ้นในประเทศสวิสเซอร์แลนด์ ปืนกลมือที่ล้ำสมัย MP9 เป็นอาวุธพอลิเมอร์ตามหลักสรีรศาสตร์ได้รับการสนับสนุนโดยบริษัทรักษาความปลอดภัยเอกชน มันถูกลงสีแบบกำหนดเองด้วยสีเงิน สีดำ และสีน้ำเงินโดยมีลายออกแบบร่วมสมัยฝังไว้ในสีเงิน\\n\\n<i>สัมผัสส่วนตัวที่ดูเรียบง่าย แต่โดดเด่น</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "ได้รับการผลิตขึ้นในประเทศสวิสเซอร์แลนด์ ปืนกลมือที่ล้ำสมัย MP9 เป็นอาวุธพอลิเมอร์ตามหลักสรีรศาสตร์ได้รับการสนับสนุนโดยบริษัทรักษาความปลอดภัยเอกชน มันถูกลงสีแบบกำหนดเองด้วยสีขาวเคลือบเงาแบบด้าน และปิดท้ายด้วยลายสีฟ้า\\n\\n<i>ผลลัพธ์อาจแตกต่างกันออกไป</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "\tปืนกลมือ"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "ด้วยราคาที่ต่ำสุด ๆ ของ Nova ทำให้มันเป็นอาวุธที่ยอดเยี่ยมสำหรับการซุ่มโจมตีสำหรับทีมที่มีเงินไม่เพียงพอ มันถูกลงสีด้วยลายสุดซับซ้อนโดยใช้สีทราย\\n\\n<i>ความแข็งแกร่งกำเนิดจากแสงสว่าง</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "ปืนกลหนัก"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "ด้วยราคาที่ต่ำสุด ๆ ของ Nova ทำให้มันเป็นอาวุธที่ยอดเยี่ยมสำหรับการซุ่มโจมตีสำหรับทีมที่มีเงินไม่เพียงพอ มันถูกลงสีแบบกำหนดเองด้วยลายรูปทรงเรขาคณิตที่เรียบง่ายและมีรายละเอียดที่สมจริง ซึ่งได้รับแรงบันดาลใจจากเซอร์เรียลลิซึมเชิงนามธรรม และผลงานของศิลปินในศตวรรษที่ 20\\n\\n<i>ดวงตาของผู้เฝ้ามอง</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "ด้วยราคาที่ต่ำสุด ๆ ของ Nova ทำให้มันเป็นอาวุธที่ยอดเยี่ยมสำหรับการซุ่มโจมตีสำหรับทีมที่มีเงินไม่เพียงพอ มันถูกลงสีแบบกำหนดเองด้วยลายสมองใกล้ศูนย์เล็ง ซึ่งออกแบบมาเพื่อให้ดูเหมือนถูกฝังอยู่ในอาวุธ ปิดท้ายด้วยสีเงินเมทัลลิก\\n\\n<i>การผสมผสานระหว่างเทคโนโลยีและธรรมชาติ</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "ปืนกลหนัก"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "อาวุธปืนแรงถีบต่ำพร้อมด้วยอัตราการยิงที่สูง P250 เป็นตัวเลือกที่ราคาค่อนข้างถูกสำหรับการใช้กับศัตรูสวมชุดเกราะ มันถูกลงสีแบบกำหนดเองด้วยสีเกล็ดโลหะทองและน้ำเงิน\\n\\n<i>ดอกบัวในมือมีค่ากว่าแต้มฆ่าสองคน</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "หวงห้าม",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "ปืนลูกโม่ R8 | Monarch",
+  "description": "ปืนลูกโม่ R8 มาพร้อมกับความแม่นยำสูงและกระสุนที่มีประสิทธิภาพ ซึ่งแลกกับปุ่มไกปืนแบบยาว การยิงอย่างรวดเร็วด้วยการสับนกปืนอย่างว่องไวอาจเป็นตัวเลือกที่ดีที่สุดเมื่อจำเป็นต้องใช้อำนาจหยุดยั้งในระยะเผาขน มันถูกลงสีแบบกำหนดเองด้วยสีส้มและสีเทา และมีตัวควบคุมสีทองเหลือง\\n\\n<i>สัญลักษณ์แห่งสถานะและอำนาจ</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "ปืนลูกโม่ R8"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "ปืนลูกโม่ R8 | Tango",
   "description": "ปืนลูกโม่ R8 มาพร้อมกับความแม่นยำสูงและกระสุนที่มีประสิทธิภาพ ซึ่งแลกกับปุ่มไกปืนแบบยาว การยิงอย่างรวดเร็วด้วยการสับนกปืนอย่างว่องไวอาจเป็นตัวเลือกที่ดีที่สุดเมื่อจำเป็นต้องใช้อำนาจหยุดยั้งในระยะเผาขน มันถูกลงสีแบบกำหนดเองด้วยด้ามจับไม้และดอกกุหลาบ\\n\\n<i>คุณจะยอมรับหรือไม่?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Lunar Wyrm",
+  "description": "ปืนลำกล้องสั้นคลาสสิกที่สามารถทำความเสียหายอย่างรุนแรงได้ในระยะใกล้ แต่เนื่องจากด้วยความแม่นยำที่ต่ำ การกระจายของกระสุนที่สูง และอัตราการยิงที่ต่ำของมัน คุณควรจะสังหารสิ่งใดก็ตามที่คุณยิงโดน งูถูกลงสีแบบกำหนดเองบนสีพื้นสีแดงเข้ม\\n\\n<i>ขดตัวอยู่ในความลึกล้ำของโลก</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "ปืนกลหนัก"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-Off | Irradiated Alert",
   "description": "ปืนลำกล้องสั้นคลาสสิกที่สามารถทำความเสียหายอย่างรุนแรงได้ในระยะใกล้ แต่เนื่องจากด้วยความแม่นยำที่ต่ำ การกระจายของกระสุนที่สูง และอัตราการยิงที่ต่ำของมัน คุณควรจะสังหารสิ่งใดก็ตามที่คุณยิงโดน มันถูกลงสีด้วยสเปรย์พ่นด้วยลายสัญลักษณ์เตือนภัยกัมมันตรังสี",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "SCAR-20 คือปืนไรเฟิลซุ่มยิงกึ่งอัตโนมัติที่มีอัตราการยิงที่สูงและความเสียหายที่รุนแรงในระยะไกล โดยแลกกับความเร็วในการเคลื่อนไหวที่ช้าและราคาที่แพง มันถูกลงสีด้วยลายพรางสีเขียวและสีเทา\\n\\n<i>เรียกกองกำลังอาร์กติกมารวมพล!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "SCAR-20 คือปืนไรเฟิลซุ่มยิงกึ่งอัตโนมัติที่มีอัตราการยิงที่สูงและความเสียหายที่รุนแรงในระยะไกล โดยแลกกับความเร็วในการเคลื่อนไหวที่ช้าและราคาที่แพง มันถูกลงสีด้วยด้วยลายสีฟ้าและสีม่วงไล่เฉด\\n\\n<i>\\\"กรงเล็กแต่อาวุธใหญ่จัง..\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "SCAR-20 คือปืนไรเฟิลซุ่มยิงกึ่งอัตโนมัติที่มีอัตราการยิงที่สูงและความเสียหายที่รุนแรงในระยะไกล โดยแลกกับความเร็วในการเคลื่อนไหวที่ช้าและราคาที่แพง มันถูกลงลวดลายประดับประดาคล้ายลายพู่กันและทรงเรขาคณิตลายอาหรับ\\n\\n<i>หล่อหลอมขึ้นจากความร้อน ฝุ่นผง และสายลมที่แห้งผาก</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ปืนไรเฟิล"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "ปืนพกที่เหมาะสำหรับการบุกของผู้ก่อการร้าย Tec-9 นั้นรุนแรงมากในระยะเผาขน และมาพร้อมกับความจุแม็กกาซีนที่สูง มันถูกลงสีด้วยลายตัว X ลายสี่เหลี่ยมจัตุรัส และลายจุดหลากสี\\n\\n<i>เตรียมวางแผนการ</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "ปืนพกที่เหมาะสำหรับการบุกของผู้ก่อการร้าย Tec-9 นั้นรุนแรงมากในระยะเผาขน และมาพร้อมกับความจุแม็กกาซีนที่สูง มันถูกลงสีแบบกำหนดเองด้วยลายกระเบื้องโมเสกแบบอาหรับ\\n\\n<i>หยุดหยิงด้วยการยิงเพิ่ม</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "เกรดมาตรฐานทางทหาร",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "ชุดสะสม Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "ผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "ลูกคนกลางที่ถูกเข้าใจผิดของปืนตระกูลปืนกลมือ แมกกาซีนที่มีขนาดเล็กของ UMP45 นี้เป็นข้อเสียเปรียบเพียงอย่างเดียวของมันสำหรับปืนอัตโนมัติระยะประชิดอเนกประสงค์นี้ มันถูกลงสีด้วยลายส่วนประกอบของเครื่องยนต์แบบอโนไดซ์\\n\\n<i>\\\"มันดูไม่ค่อยดีเลยนะ...\\\"</i>",
@@ -148464,7 +150608,7 @@
  {
   "id": "skin-37ac474a54e4",
   "name": "UMP-45 | Warm Blooded",
-  "description": "ลูกคนกลางที่ถูกเข้าใจผิดของปืนตระกูลปืนกลมือ แมกกาซีนที่มีขนาดเล็กของ UMP45 นี้เป็นข้อเสียเปรียบเพียงอย่างเดียวของมันสำหรับปืนอัตโนมัติระยะประชิดอเนกประสงค์นี้ มันถูกลงสีด้วยลายสัตว์สีน้ำตาลอ่อนและแดง\\n\\n<i>คุณบอกว่าขอ \\\"ไม่กี่ตัว\\\" ไม่ใช่ \\\"ยกมาทั้งอาณาจักรสัตว์\\\" นะ</i>",
+  "description": "ลูกคนกลางที่ถูกเข้าใจผิดของปืนตระกูลปืนกลมือ แมกกาซีนที่มีขนาดเล็กของ UMP45 นี้เป็นข้อเสียเปรียบเพียงอย่างเดียวของมันสำหรับปืนอัตโนมัติระยะประชิดอเนกประสงค์นี้ A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "ปืนพก Silenced USP ซึ่งเป็นที่ชื่นชอบของแฟน ๆ จากเกม Counter-Strike: Source มีปลอกเก็บเสียงที่ถอดออกได้ที่ทำให้การยิงในแต่ละครั้งมีแรงถีบลดลงในขณะที่ช่วยลดเสียงของปืนลงทำให้ได้ยินยากขึ้นมีแรงถีบลดลงในขณะที่ช่วยลดเสียงของปืนลงทำให้ได้ยินยากขึ้น มันถูกลงสีแบบกำหนดเองด้วยลวดลายที่ไม่มีรูปแบบแน่นอนใต้สีชั้นบนสุดเคลือบเงาไข่มุก\\n\\n<i>พวกนั้นไม่รู้หรอกว่าโดนอะไรเข้าไป</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ปินพก"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "ลับเฉพาะ",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "หน่วยต่อต้านผู้ก่อการร้าย"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "XM1014 คือปืนลูกซองแบบอัตโนมัติอานุภาพสูงที่มีราคาค่อนข้างสูงที่พอยอมรับได้พร้อมด้วยความสามารถในการฉาบตัวห้องไปด้วยกระสุนลูกปรายอย่างรวดเร็ว มันถูกลงสีด้วยลายกระเบื้องโบราณสีเขียวอ่อน สีเบจ และสีแดง\\n\\n<i>\\\"ความหวังยังคงอยู่ แม้แต่กับเหล่าผู้ที่เริ่มเดินในเส้นทางที่ผิด\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "XM1014 คือปืนลูกซองแบบอัตโนมัติอานุภาพสูงที่มีราคาค่อนข้างสูงที่พอยอมรับได้พร้อมด้วยความสามารถในการฉาบตัวห้องไปด้วยกระสุนลูกปรายอย่างรวดเร็ว มันถูกลงสีแบบกำหนดเองด้วยสีดำด้าน เทา และทองแดง\\n\\n<i>โดดเด่น</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "ปืนกลหนัก"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "เกรดอุตสาหกรรม",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "ใหม่จากโรงงาน"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "มีรอยถลอกเล็กน้อย"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "ผ่านการทดสอบภาคสนาม"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "มีรอยถลอกอย่างมาก"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "ถลอกปอกเปิกจากการรบ"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "ชุดสะสม Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "ทั้งสองทีม"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

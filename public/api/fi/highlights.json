@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Hyppytappo à la ultimate",
+  "description": "Ultimate tekee sivuttaisliikkeessä mielettömän pääosumatapon Desert Eaglellä Nukessa, uhrina BIG.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v2-tilanne tabseNille",
+  "description": "Nopea 1v2-tilanne Miragessa päättyy tabseNin voittoon. Etumatkaksi kaventuu 8–12, ja BIGin nousu takaa ja ohi kulminoituu lopulta jatkoaikavoittoon.",
+  "tournament_event": "Köln 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Täyskaato koalalta",
+  "description": "Infernon avaustahdit onnistuvat koalalta täydellisesti, kun hän pyyhkii TYLOOn kaikilla viidellä pelaajalla lattiaa käyttämällä Tupla-Berettoja pistoolierässä.",
+  "tournament_event": "Köln 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Starryn neloistappo",
+  "description": "Starry nostaa Lynn Visionin takaisin mukaan peliin Ancientissä ja tekee neloistapon pommin virittämisen jälkeen.",
+  "tournament_event": "Köln 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Täyskaato asapilta",
+  "description": "Täyskaadolla asap pitää huolen siitä, ettei MIBRin ostopakosta ole hyötyä Infernossa. Samalla hän nostaa THUNDERdOWNUNDERin yllättävään voittoon kartassa.",
+  "tournament_event": "Köln 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Savutappo hypexin tapaan",
+  "description": "Avausliike Infernossa yllättää, kun hypex onnistuu tappamaan NRG-pelaajan savukranaatista aiheutuneella vahingolla.",
+  "tournament_event": "Köln 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v3-tilanne suspille",
+  "description": "Inferno-ottelu päättyy, kun susp selviää 1v3-tilanteesta Gaimin Gladiatorsia vastaan ja varmistaa HEROICille puhtaan 2–0-voiton ottelusarjassa.",
+  "tournament_event": "Köln 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neloistappo, asialla beastik",
+  "description": "FlyQuestiä vastaan beastik tekee neljä tappoa Ancientin 19. erässä ja pitää joukkueensa mukana taistelussa.",
+  "tournament_event": "Köln 2026",
+  "team0": "FlyQuest",
+  "team1": "SINNERS",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukan 1v3-tilanteen selvittäjänä s1zzi",
+  "description": "Pommia virittämättä s1zzi selviytyy 1v3-tilanteesta Infernossa ja tasoittaa tilanteen lukemiin 14–14 pitääkseen B8:n mukana ottelussa.",
+  "tournament_event": "Köln 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Magnojez selvittää tiukan 1v3-tilanteen",
+  "description": "Magnojez voittaa tiukan 1v3-uudelleenvaltaustilanteen Dust II:ssa ja hoitelee kaikki kolme vihollista ennen pommin purkamista.",
+  "tournament_event": "Köln 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "Vaihe I",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | NertZin ässäsuoritus",
+  "description": "NertZ valtaa Infernon banaanialueen ja tekee ässäsuorituksen BIGiä vastaan G2:n dominoidessa karttaa.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Gizmyn veitsitappo",
+  "description": "Gizmy varmistaa erävoiton Miragessa tappamalla Heavygodin veitsellä. Näin Monte kuittaa ratkaisevat pisteet toisella jatkoajalla.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | MATYSin ässäsuoritus",
+  "description": "MATYS pistää M80:n halki, poikki ja pinoon Miragessa tekemällä ässäsuorituksen MP9:llä ja ottamalla kartan varhaisessa vaiheessa G2:n hallintaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Triplatappovastaavana saffee",
+  "description": "Nuke päättyy Astralista vastaan kolmella AWP-tapolla, kun saffee sinetöi paiN Gamingin nousun takaa-ajoasemasta 13–11-voittoon.",
+  "tournament_event": "Köln 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | AWP-tapot pelastavat gr1ksin 1v3-tilanteesta",
+  "description": "1v3-tilanne Ancientissä hoituu AWP-triplatapolla, kun gr1ks ampuu kaksi vihollista samalla luodilla ja kolmannen heti perään, mikä estää B8:aa virittämästä pommia.",
+  "tournament_event": "Köln 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Täyskaadolla homma kotiin, kensizor",
+  "description": "Dust II -ottelu päättyy tyylillä, kun kensizor varmistaa ässäsuorituksella B8:lle sarjavoiton ja paikan kolmosvaiheesta.",
+  "tournament_event": "Köln 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Ässäsuoritus s1zzille",
+  "description": "Overpassissa s1zzi hoitelee kaikki viisi BIGin pelaajaa ja auttaa B8:aa saamaan ottelun alkupuoliskon hallintaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukan 1v3-tilanteen voittajaksi päätyy venomzera",
+  "description": "Miragen viimeisessä kaksintaistelussa venomzera selviytyy hädin tuskin yksi kolmea vastaan -alakynnestä ja viivyttää peliä niin pitkään, ettei B8 pysty virittämään pommia.",
+  "tournament_event": "Köln 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Nopea neloistappo donkille",
+  "description": "Nukessa donk näyttää 9z:lle kaapin paikan neljällä tapolla, joista kaksi tarkkaa yhden laukauksen tappoa yllättävät myös hänet itsensä.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | AZUWU ja täyskaato Desert Eaglella",
+  "description": "AZUWUn ässäsuoritus kolmella Desert Eagle -tapolla ja yhdellä konekivääritapolla kääntää säästökierroksen Monten eduksi Dust II:ssa.",
+  "tournament_event": "Köln 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "Vaihe II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | 1v4-tilanteessa w0nderful onnistuu selviämään kahdella osumapisteellä",
+  "description": "Kahdesta vaivaisesta terveyspisteestä huolimatta w0nderful selviytyy 1v4-tilanteen voittajaksi G2:ta vastaan Dust II:ssa ja hoitaa omin nokkinensa erän NAVIn nimiin.",
+  "tournament_event": "Köln 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | 1v2-tilanne kääntyy voitoksi sh1ron neloistapolla",
+  "description": "Neljä 9z-pelaajaa saa surmansa sh1ron luodeista Dust II:ssa. Ansioluetteloon sisältyy kahden vihollisen hoitelu yksin pommin virittämisen jälkeen, jolla 9z:aa estetään pääsemästä ratkaisupisteeseen.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Asetta vaihtava magixx tekee ässäsuorituksen",
+  "description": "Ässäsuoritus magixxilta Auroraa vastaan onnistuu asetta vaihtamalla kesken erän ja pysymällä liikkeessä kahden viimeisen tapon aikana.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | KSCERATO ja tiukka 1v3-tilanne",
+  "description": "KSCERATO voittaa 1v3-tilanteen B8:aa vastaan Infernossa pistoolikierroksen toisella puoliskolla ja estää vihollisjoukkuetta pääsemästä takaisin peliin.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | YEKINDARin triplatappo",
+  "description": "YEKINDAR tekee kylmähermoisen triplatapon ja estää B8:aa valtaamasta Miragen B-aluetta.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | ZywOo tekee täyskaadon ja selvittää 1v3-tilanteen",
+  "description": "ZywOo nousee voittajana vaikeasta 1v3-tilanteesta ässäsuorituksella FUT:tä vastaan Overpassissa.",
+  "tournament_event": "Köln 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Pistooliässä dgt",
+  "description": "Ässäsuoritus dgt:ltä Overpassin avauksessa The MongolZia vastaan pistoolilla. Hieno kohokohta kartan ensimmäisestä erästä.",
+  "tournament_event": "Köln 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukassakaan 1v4-tilanteessa woxic ei vapise",
+  "description": "AWP:llä woxic hoitaa järjettömän 1v4-tilanteen 9z Teamiä vastaan Dust II:ssa tyylikkäästi lonkalta.",
+  "tournament_event": "Köln 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | NiKon neloistappo",
+  "description": "NiKo pitää yksinään A-aluetta hallussaan Miragessa, neutralisoi Monten rynnäkön neljällä nopealla AK-tapolla ja kääntää erän Falconsin hyväksi.",
+  "tournament_event": "Köln 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Krabenin ässäsuoritus",
+  "description": "Krabeni ottaa Miragen täysin haltuunsa, kun hän kurittaa BetBoomia Tec-9:n säästelystä täyskaadolla.",
+  "tournament_event": "Köln 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "Vaihe III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Boombl4 ja tiukka 1v3-tilanne",
+  "description": "Boombl4 selvittää tiukan 1v3-tilanteen Nukessa, kääntää tilanteen päälaelleen viimeisessä kaksintaistelussa ja tuo BetBoomin takaisin peliin.",
+  "tournament_event": "Köln 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v2-tilanne päättyy soulflyn voittoon",
+  "description": "Nuken B-alueella soulfly hoitaa pomminvirityksen jälkeisen tiukan 1v2-tilanteen ja varmistaa Auroralle kartan selvän voiton.",
+  "tournament_event": "Köln 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Ässäsuoritus sh1rolta",
+  "description": "Miragen toisen jatkoajan aluksi sh1ro tekee ässäsuorituksen, kun hän repii G2:n palasiksi keskialueella ja B:n hyökkäysalueella.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v4-tilanne à la magixx",
+  "description": "Miragessa magixx hoitelee huikeasti tiukan 1v4-tilanteen, kun hän tähtää tarkasti G2:n loppurynnistyksen aikana ja varastaa erän joukkueelleen.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v2-tilanne, vuorossa donk",
+  "description": "Dust II:n viimeisessä tiukassa tilanteessa donk selviytyy hengissä torjumalla G2:n valtausyrityksen ja viemällä kartan voiton jatkoajalla.",
+  "tournament_event": "Köln 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Triplatappaja-kyousuke",
+  "description": "Vitality ei saa mahdollisuutta, kun kyousuke päättää Anubiksen Falconsin voittoon B-alueen triplatapolla.",
+  "tournament_event": "Köln 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Polttopullotappaja-mezii",
+  "description": "Dust II:ssa mezii listii TeSeSin oudolla polttopullo-osumalla.",
+  "tournament_event": "Köln 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v4-tilanne yuurihin tapaan",
+  "description": "Miragen pistoolierä kääntyy hulluun 1v4-tilanteeseen yuurihin toimesta. Samalla hän onnistuu hivuttautumaan keskialueelta A-aluetta kohti ja hoitelemaan 9z:n viimeisen elossa olevan pelaajan pommin virittämisen jälkeen.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | HUASOPEEKin täyskaato",
+  "description": "HUASOPEEK estää FURIAn pyristelyt Overpassin B-alueella tekemällä MP9:llä ässäsuorituksen hirviötunnelin suulla.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Tiukka 1v2-tilanne maxin tapaan",
+  "description": "Dust II:n A-alueella max hoitaa tiukan pomminvirityksen jälkeisen 1v2-tilanteen savupilven läpi ja sinetöi voiton FURIAa vastaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Puolivälierä",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Triplatappo soulflylle",
+  "description": "Dust II:ssa soulfly löytää FURIAn poistumassa B-alueen tunnelista, tekee kolmoistapon MP9:llä ja vie erän aikaisessa vaiheessa Auroran nimiin.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | KSCERATOn ässäsuoritus",
+  "description": "KSCERATO tekee ässäsuorituksen Auroraa vastaan Dust II:ssa ja hoitelee pelin ensimmäisen puolikkaan tyylillä FURIAn hyväksi.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | YEKINDARin tuplatappo",
+  "description": "YEKINDAR päättää Dust II -ottelun FURIAn hyväksi kahdella viimeisellä B-alueen tapolla ja estää Auroran hyökkäyksen tunnelista.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | YEKINDARin triplatappo",
+  "description": "YEKINDAR hoitelee kolme Aurora-pelaajaa Nukessa ja tuo FURIAn takaisin mukaan erään.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | KSCERATOn neloistappo",
+  "description": "KSCERATO varmistaa FURIAn otteluvoiton Nukessa tekemällä neljä tappoa AK-47:llä ja tukahduttaa näin Auroran viimeisen rynnistyksen.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Triplatappo kyousuken nimiin",
+  "description": "Anubiksessä kyousuke auttaa joukkuetta valtaamaan pommialueen kolmoistapolla, ajaa Team Spiritin nurkkaan ja varmistaa voiton jatkoajalla.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neloistappo sh1rolle",
+  "description": "Anubiksessä sh1ro kääntää 2v4-alakynnen erävoitoksi tappamalla AWP:llä neljä pommialueelle hyökkäävää Falconsin pelaajaa pommin virittämisen jälkeen.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | TeSeS ja tiukka 1v2-tilanne",
+  "description": "TeSeS voittaa 1v2-tilanteen Dust II:ssa ja voittaa erän Falconsille, kun hän lukee tilanteen täydellisesti savupilvestä huolimatta ja niittaa Team Spiritin molemmat pelaajat.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neljä tappoa karriganille",
+  "description": "Neloistapolla karrigan pitää Miragen B-aluetta hallussa lähes kokonaan omin voimin ja hankkii lisäaikaa Team Spiritiä vastaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neloistappo magixxille",
+  "description": "Miragen B-alueella magixx jyrää neloistapolla Falconsin ja nostaa Team Spiritin kartan viimeisen erän voittoon.",
+  "tournament_event": "Köln 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Välierä",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Falconsin sisääntulo",
+  "description": "Falcons saapuu Counter-Striken katedraaliin kohtaamaan viimeisen vastustajansa, FURIAn.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | FURIAn sisääntulo",
+  "description": "FURIA astuu lavalle kohtaamaan Falconsin finaaliottelussa.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | FalleNin neloistappo",
+  "description": "FalleN repii neljällä nopealla tapolla Falconsin palasiksi Miragen B-alueella.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neloistappo kirjataan m0NESYn nimiin",
+  "description": "Anubiksen ensimmäinen erä lähtee käyntiin m0NESYn neljällä Tupla-Beretta-tapolla, kun hän on puolustusasemissa FURIAa vastaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Triplatappo tiukassa 1v2-tilanteessa, asialla m0NESY",
+  "description": "Anubiksessä m0NESY ei FURIAn valtausyrityksestä hätkähdä, vaan selviytyy voittajaksi pommin virityksen jälkeen.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Neloistappaja-kyousuke",
+  "description": "Neljällä tapolla kyosuke tekee tyhjäksi FURIAn yritykset tunkeutua Infernon B-alueelle.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Kolme tappoa karriganille",
+  "description": "Infernon täysostokierroksella karrigan tekee kolme nopeaa USP-S-tappoa ja pelastaa Falconsin valtaaman B-alueen joutumasta FURIAn haltuun.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | NiKon triplatappo",
+  "description": "NiKo hiippailee Infernon alatunnelista talon toiselle puolelle ja yllättää FURIAn triplatapolla.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Kaksi tappoa karriganille",
+  "description": "Kahdella M4A1-S-tapolla Infernossa karrigan selvittää 2v2-tilanteen ja A-alueen uudelleenvaltausyrityksen, ja FURIAn pomminviritys jää hyödyttömäksi.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Major-turnauksen ratkaiseva tappo m0NESYlle",
+  "description": "M0NESY tekee viimeisen AWP-tapon, joka päättää finaaliottelun viimeisen kierroksen FURIAa vastaan.",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "Matkamuisto Riipus | Köln 2026 -kohokohta | Falcons nostaa voittopokaalin ilmaan",
+  "description": "Falcons voittaa IEM Köln 2026 CS2 Major -turnauksen",
+  "tournament_event": "Köln 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Finaali",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

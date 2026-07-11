@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa. Maalattu kiiltävällä sinisellä ja vaaleanpunaisella liukuvärjäyksellä, koristeena useampi graafinen kuvio.\\n\\n<i>Konsoliin syötetty tappokomento</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Salainen",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Kurjenlento",
   "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa. Aseen mustavalkoisella pohjalla on kurki ja kultaisia korostuksia.\\n\\n<i>Kuunpimennystä odotellessa</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Džinni ajatuksistasi",
+  "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa. Maalattu räiskyvällä oranssilla pohjavärillä ja hohtavilla kullanvärisillä liekeillä. Lisäksi lippaaseen ja sen yläpuolelle on maalattu kuva džinnistä.\\n\\n<i>Käytä toiveesti viisaasti...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Džinni ajatuksistasi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Salainen",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signaaliskanneri",
+  "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan. Monivärimaalaus mattapintaisella mustalla pohjalla.<i>> Yritetään muodostaa yhteys uudelleen ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signaaliskanneri"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapislatsuli",
+  "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan. Maalattu valkoisella, sinisellä ja kultaisella värillä muistuttamaan lapislatsulia.\\n\\n<i>Uskomaton kivi, voimakas mutta niin hauras</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapislatsuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luksus",
   "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan. Maalattu jäljittelemään untuvatakin ulkonäköä ja tuntumaa ja viimeistelty pronssinvärisillä yksityiskohdilla.\\n\\n<i>Premiumpakkaus.</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Musta laatikko",
+  "description": "Pahamaineinen AWP on riskaabeli mutta hyödyllinen valinta. Sen tunnistaa äänestä ja siitä, että jokainen osuma on taattu tappo. Maalattu mattapintaisella mustalla maalilla ja viimeistelty oranssilla raidalla.\\n\\n<i>\\\"Ei sitten mitään turhia hienosteluja!\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Musta laatikko"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Jäähiiltynyt",
   "description": "Pahamaineinen AWP on riskaabeli mutta hyödyllinen valinta. Sen tunnistaa äänestä ja siitä, että jokainen osuma on taattu tappo. Mukautettu maalikerros koostuu kirkkaanvihreästä ja sinisestä gradientista.\\n\\n<i>Kylmä kosketus</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Luotettava liekki",
+  "description": "Pahamaineinen AWP on riskaabeli mutta hyödyllinen valinta. Sen tunnistaa äänestä ja siitä, että jokainen osuma on taattu tappo. Tähtäin on maalattu kultaisella värillä, ja liekkikuvio ulottuu aseen koko pituudelle.\\n\\n<i>Liekki lepattaa voiton kunniaksi</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Luotettava liekki"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Salainen",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "★ Pistin | Teurastus",
-  "description": "Pistin ei ole juuri muuttunut sitten toisen maailmansodan, mutta sillä on silti paikkansa nykypäivän taistelutaktiikoissa. Pistinrynnäköt ovat pysyneet tehokkaina viime aikoinakin, kuten Persianlahden ja Afganistanin sodissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Pistin ei ole juuri muuttunut sitten toisen maailmansodan, mutta sillä on silti paikkansa nykypäivän taistelutaktiikoissa. Pistinrynnäköt ovat pysyneet tehokkaina viime aikoinakin, kuten Persianlahden ja Afganistanin sodissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Petturi",
+  "description": "Bizon-konepistooli ei tarjoa suurta tulivoimaa, mutta siinä on ainutlaatuinen, tilava rumpulipas, joka lataa nopeasti. Ase on maalattu pronssin ja kullan sävyillä.\\n\\n<i>Pronssia ja luoteja</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Petturi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulinen helahoito",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Lipas on maalattu muistuttamaan polymeeripintaa, ja liipaisimen yläpuolelle on maalattu sana HYDRA.\\n\\n<i>Heraklesko olet?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulinen helahoito"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Taktikatti",
   "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Käsinmaalattu pinkillä ja violetilla maalilla ja koristeltu kisssatarroilla.\\n\\n<i>24 ammusta, 9 elämää.</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Idän ihme",
+  "description": "Desert Eagle on kallis ja tehokas, taitoa vaativa ja äärimmäisen suosittu pistooli, joka on pitkällä matkalla yllättävän tarkka. Ase on maalattu metallisella hopealla, mustalla ja sinisellä kuvioinnilla.\\n\\n<i>Älä hukkaa jujun juonta</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Idän ihme"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Luottamuksellinen",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Tulenhönkäys",
   "description": "Desert Eagle on kallis ja tehokas, taitoa vaativa ja äärimmäisen suosittu pistooli, joka on pitkällä matkalla yllättävän tarkka. Asetta koristavat helmiäismäisellä violetilla ja sinisellä maalatut liekkikuviot.\\n\\n<i>Ässiä hihassa</i>",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "Tupla-Berettat | Yllättävä yhteys",
+  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. Ase on maalattu kullanvärisillä juontuvilla viivoilla, jotka yhdistyvät yhdeksi yhtenäiseksi kuvioksi, kun kaksi asetta asetetaan vierekkäin.\\n\\n<i>Yhteinen visio</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Tupla-Berettat"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Yllättävä yhteys"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "Tupla-Berettat | Kuninkaalliset puolisot",
   "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. Vihreäksi värjätyt helmiäiskahvat, aarnikotkilla koristellut sivulevyt ja laserkaiverretut luistit asettavat eleganssin täysin uudelle tasolle.\\n\\n<i>Naamat irti ja kyyhkyset häkkiin</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "Tupla-Berettat | Kiillotettu malakiitti",
-  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. Tupla-Berettat on maalattu kirkkaanvihreällä ja hopeisella värillä. Kahvat on viimeistelty keraamisella pintamaalilla.\\n\\n<i>Heitä pystyn kunnioittamaan, mutta sinusta ei voi sanoa samaa... – Booth, asekauppias</i>",
+  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. Tupla-Berettat on maalattu kirkkaanvihreällä ja hopeisella värillä. Kahvat on viimeistelty keraamisella pintamaalilla.\\n\\n<i>Heitä pystyn kunnioittamaan, mutta sinusta en voi sanoa samaa... – Booth, asekauppias</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Pätevä puolustus",
+  "description": "FAMAS on penninvenyttäjän halpa vaihtoehto, joka osuu sopivasti kalliimpien kiväärien ja vähemmän tehokkaiden konepistoolien väliin. Mustaa ja punaista.\\n\\n<i>Puku ja aurinkolasit myydään erikseen</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Pätevä puolustus"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Kärmeksen laulu",
+  "description": "FAMAS on penninvenyttäjän halpa vaihtoehto, joka osuu sopivasti kalliimpien kiväärien ja vähemmän tehokkaiden konepistoolien väliin. Aseeseen on maalattu vihreä käärme, ja korostuksena käytetään kirkkaankultaista ääriviivaa kultaisella mattapinnalla.\\n\\n<i>Toivon pilkahdus</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Kärmeksen laulu"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Aavikkosoturi",
+  "description": "Tarkka ja panssarin läpäisevä Five-SeveN on kallis, hitaasti lataava pistooli, joka tarjoaa vastapainona 20 panoksen lippaan ja pehmeän rekyylin. Ase on maalattu hopean- ja violetinvärisellä aavikkosoturikuviolla.\\n\\n<i>Kohtalon oma</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Aavikkosoturi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Haamuprotokolla",
+  "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä. Maalattu punaisella maalilla ja useilla kiiltokuvioilla.\\n\\n<i>Minua ei kiinnosta, vaikka joku olisi ollut kannoillasi, sillä pääsit perille – Valeria Jenner, kapinallinen</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Haamuprotokolla"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Salainen",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifritin ristikko",
+  "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä. Kellanruskealla ja mustalla maalattu ase.\\n\\n<i>Vanhat tiedustelutiedot ovat myös arvokkaita...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifritin ristikko"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Täysin tuunattu",
   "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä. Ase on maalattu neonväreillä ja metallisella hilemaalilla.\\n\\n<i>\\\"Vähän liikaa minulle, mutten kuulukaan kohdeyleisöön...\\\" – Booth, asekauppias</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "★ Perhosveitsi | Teurastus",
-  "description": "Tämä on mittatilauksena tehty balisong, joka tunnetaan yleisesti perhosveitsenä. Tämän aseen erityispiirteenä on sen vapaasti kääntyvän terän viuhkamainen avautuminen, joka sallii sen nopean käyttöönoton tai kätkemisen. Tämän seurauksena perhosveitset ovat laittomia monissa maissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tämä on mittatilauksena tehty balisong, joka tunnetaan yleisesti perhosveitsenä. Tämän aseen erityispiirteenä on sen vapaasti kääntyvän terän viuhkamainen avautuminen, joka sallii sen nopean käyttöönoton tai kätkemisen. Tämän seurauksena perhosveitset ovat laittomia monissa maissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "★ Selviytymisveitsi | Teurastus",
-  "description": "Tässä monikäyttöisessä taktisessa puukkossa on terävä koukku sekä sahalaitainen reuna, jonka ansioista sillä voi repiä jämäkämpääkin materiaalia, kuten luita tai kuituja. Sen komposiittikahva on kiinnitetty terään tukevasti kuusiomuttereilla. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tässä monikäyttöisessä taktisessa puukkossa on terävä koukku sekä sahalaitainen reuna, jonka ansioista sillä voi repiä jämäkämpääkin materiaalia, kuten luita tai kuituja. Sen komposiittikahva on kiinnitetty terään tukevasti kuusiomuttereilla. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "★ Paracord-kahvainen kenttäpuukko | Teurastus",
-  "description": "Tämä selviytymisveitsi on suunniteltu sekä aseeksi että työkaluksi, ja sillä voi asettaa ansoja, metsästää eläimiä ja raivata lehvistöä. Veitsen kahvaan on kiedottu monikäyttöinen paracord-naru. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tämä selviytymisveitsi on suunniteltu sekä aseeksi että työkaluksi, ja sillä voi asettaa ansoja, metsästää eläimiä ja raivata lehvistöä. Veitsen kahvaan on kiedottu monikäyttöinen paracord-naru. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "★ Klassinen veitsi | Teurastus",
-  "description": "Counter-Strike-sarjan klassikko. Puukon laita on puristettua stelliittiä, joka istuu täydellisesti muun terän titaaniin. Puukon kahva on fossilisoitunutta mastodontin luuta hiilikuitutupessa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Counter-Strike-sarjan klassikko. Puukon laita on puristettua stelliittiä, joka istuu täydellisesti muun terän titaaniin. Puukon kahva on fossilisoitunutta mastodontin luuta hiilikuitutupessa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "★ Falchion-veitsi | Teurastus",
-  "description": "Nykyaikaisena kunnianosoituksena falchion-miekalle tässä terässä on kurvikas kärki. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Nykyaikaisena kunnianosoituksena falchion-miekalle tässä terässä on kurvikas kärki. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "★ Taittoveitsi | Teurastus",
-  "description": "Taittoveitsissä on persialaistyylinen kaareva terä, jossa on terävä kärki. Vaikka kärki itsessään saattaa olla särkyvä, taittoveitsi on yllättävän kestävä sen muotoilun vuoksi. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Taittoveitsissä on persialaistyylinen kaareva terä, jossa on terävä kärki. Vaikka kärki itsessään saattaa olla särkyvä, taittoveitsi on yllättävän kestävä sen muotoilun vuoksi. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "★ Metsästysveitsi | Teurastus",
-  "description": "Metsästysveitsen huomattavin ominaisuus on sen koukku terän selkäpuolella. Alun perin se yleistyi metsästyssaaliiden käsittelyn apuvälineenä, mutta leikkaa helposti myös narua, verkkoa tai turvavyön. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Metsästysveitsen huomattavin ominaisuus on sen koukku terän selkäpuolella. Alun perin se yleistyi metsästyssaaliiden käsittelyn apuvälineenä, mutta leikkaa helposti myös narua, verkkoa tai turvavyön. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "★ Linkkuveitsi | Teurastus",
-  "description": "Marmorikiillekahvaisessa taittoveitsessä on pieni mutta vaarallinen ja kapea terä. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Marmorikiillekahvaisessa taittoveitsessä on pieni mutta vaarallinen ja kapea terä. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "★ Karambit | Teurastus",
-  "description": "Karambit, jonka kaareva terä muistuttaa tiikerin kynttä, kehitettiin osana Kaakkois-Aasian silat-kamppailulajeja. Veistä pidetään yleensä terä alaspäin etusormen ollessa veitsen kahvassa olevassa sormiaukossa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Karambit, jonka kaareva terä muistuttaa tiikerin kynttä, kehitettiin osana Kaakkois-Aasian silat-kamppailulajeja. Veistä pidetään yleensä terä alaspäin etusormen ollessa veitsen kahvassa olevassa sormiaukossa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "★ Kukri-veitsi | Teurastus",
-  "description": "Käytetään perinteisissä rituaaleissa, kuten häissä tai puukotuksissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Käytetään perinteisissä rituaaleissa, kuten häissä tai puukotuksissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "★ M9-pistin | Teurastus",
-  "description": "M9-pistin suunniteltiin alun perin kiinnitettäväksi kivääriin, mutta toimii hyvin myös lähikontaktissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "M9-pistin suunniteltiin alun perin kiinnitettäväksi kivääriin, mutta toimii hyvin myös lähikontaktissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "★ Nomad-puukko | Teurastus",
-  "description": "Tämä ergonominen metsästykseen tarkoitettu kääntöveitsi koostuu komposiittikahvasta sekä leveästä ja tukevasta terästä. Hyödyllinen leikkelyyn ja materiaalin repimiseen. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tämä ergonominen metsästykseen tarkoitettu kääntöveitsi koostuu komposiittikahvasta sekä leveästä ja tukevasta terästä. Hyödyllinen leikkelyyn ja materiaalin repimiseen. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "★ Varjotikarit | Teurastus",
-  "description": "Tehokas mutta brutaali nyrkkipuukko yhtä yksinkertainen kuin nyrkinisku naamaan. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tehokas mutta brutaali nyrkkipuukko yhtä yksinkertainen kuin nyrkinisku naamaan. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "★ Skeleton-puukko | Teurastus",
-  "description": "Skeleton-puukon kahva on teipattu, jotta siitä saa paremman otteen. Reikään voi pujottaa sormen, jolloin ote on vakaampi ja turvallisempi. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Skeleton-puukon kahva on teipattu, jotta siitä saa paremman otteen. Reikään voi pujottaa sormen, jolloin ote on vakaampi ja turvallisempi. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "★ Stiletti | Teurastus",
-  "description": "Historiassa eripuran ja säännöstelyn keskipisteenä olleessa italialaistyyppisessä stilettiveitsessä on jousitettu terä, jonka saa otettua esiin lähes välittömästi nappia painamalla. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Historiassa eripuran ja säännöstelyn keskipisteenä olleessa italialaistyyppisessä stilettiveitsessä on jousitettu terä, jonka saa otettua esiin lähes välittömästi nappia painamalla. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "★ Bowie-puukko | Teurastus",
-  "description": "Tämä täysruotorakenteinen, hammastettu Bowie-puukko on suunniteltu kovaan käyttöön brutaaleissa selviytymistilanteissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tämä täysruotorakenteinen, hammastettu Bowie-puukko on suunniteltu kovaan käyttöön brutaaleissa selviytymistilanteissa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "★ Metsämiehen veitsi | Teurastus",
-  "description": "Moderneihin, taktisiin käyttötarkoituksiin suunniteltu veitsi, jonka terä sopii mainiosti käytettäväksi sekä taistelussa että työkaluna. Ainutlaatuinen Tanto-terä läpäisee kovimmatkin pinnat tehokkaasti. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Moderneihin, taktisiin käyttötarkoituksiin suunniteltu veitsi, jonka terä sopii mainiosti käytettäväksi sekä taistelussa että työkaluna. Ainutlaatuinen Tanto-terä läpäisee kovimmatkin pinnat tehokkaasti. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "★ Karhuveitsi | Teurastus",
-  "description": "Tässä tantō-tyylisessä selviytymisveitsessä on viistetty terä ja täysruoto, jotka on viimeistelty iskuponsilla. Ei hössötystä eikä liikkuvia osia - ainoastaan luotettava veitsi, joka on valmis töihin. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tässä tantō-tyylisessä selviytymisveitsessä on viistetty terä ja täysruoto, jotka on viimeistelty iskuponsilla. Ei hössötystä eikä liikkuvia osia - ainoastaan luotettava veitsi, joka on valmis töihin. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "★ Kynsiveitsi | Teurastus",
-  "description": "Tässä norsunluukahvaisessa karambit-veitsessä on messinkiniitit ja sahanteräselkä, minkä vuoksi se leikkaa mennessä ja repii tullessa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta<i>",
+  "description": "Tässä norsunluukahvaisessa karambit-veitsessä on messinkiniitit ja sahanteräselkä, minkä vuoksi se leikkaa mennessä ja repii tullessa. Maalattu seepranraitakuviolla, johon on käytetty eri tavalla heijastavia alumiini- ja kromimaaleja. Tämän jälkeen päälle on lisätty karamellinen tomaatinpunainen väri.\\n\\n<i>Valeria ei maksa Javierille kysymysten kysymisestä... vaan vastausten kaivamisesta</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Varjojen mailla",
+  "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille. Maalattu mattapintaisella mustalla ja hopealla maalilla, viimeistelty valkoisilla graafisilla kuvioilla.\\n\\n<i>Tehtävä on tyyliä tärkeämpi</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Varjojen mailla"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille. Aseen kellanruskealle pohjalle on maalattu punainen käärme.\\n\\n<i>Valtavat voimat edellyttävät vastuuntuntoa</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Luottamuksellinen",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbiini",
   "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille. Aseessa on viininpunainen pohjamaalaus.\\n\\n<i>VAROITUS: Jatkuva tulitus voi aiheuttaa ylikuumenemista.</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Kohtalokas katkos",
+  "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset. Aseessa on kirkkaanvihreä helmimäinen maalipinta.\\n\\n<i>Voitto ei tule kotiin pitämällä matalaa profiilia</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Kohtalokas katkos"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Luottamuksellinen",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Itämainen mosaiikki",
+  "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa. Aseeseen on maalattu Lähi-idästä innoituksensa saanut liikkuva kuvio.\\n\\n<i>Hiekkamyrskyn keskellä</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Itämainen mosaiikki"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa. Ase on maalattu niin, että tuntuu kuin näkisi aseen sisään.\\n\\n<i>Käsityönä tehty</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Wanha kamera",
+  "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa. Maalattu muistuttamaan kädessä pidettävää kameraa.\\n\\n<i>Nauhoitusnappi pohjaan...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Wanha kamera"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "MP7 on monipuolinen ja kallis saksalainen konepistooli, joka on täydellinen lähitaistelutilanteissa. Maalattu ykkösillä ja nollilla sekä vihreällä ja mustalla.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "MP7 on monipuolinen ja kallis saksalainen konepistooli, joka on täydellinen lähitaistelutilanteissa. Sinisen ja violetin pohjamaalin viimeistelee hymynaama ja keltaisella kirjoitetut sanat ”Just Smile”.\\n\\n<i>”Sano muikku”</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Hiekkakäärme",
+  "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa. Aseen kellanruskealle pohjalle on maalattu käärme sekä valkoisia kalligrafimaisia vetoja.\\n\\n<i>Karusta autiomaasta peräisin oleva epätavallinen artefakti</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Hiekkakäärme"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa. Maalaus on täynnä hopean, mustan ja sinisen sävyjä sekä hopeiseen maalikerrokseen lisättyjä kuvioita.\\n\\n<i>Hillitty, mutta persoonallinen leima</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Vakoojan prototyyppi",
+  "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa. Maalattu valkoiselle satiinimaiselle pohjalle ja viimeistelty sinisillä kuvioilla.\\n\\n<i>Tulokset saattavat vaihdella</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Konepistoolit"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Vakoojan prototyyppi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Kukkakeppi",
-  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Siihen on maalattu kynäruiskulla kirsikankukka-aihe ja sitten päällystetty kiiltävällä pintakerroksella.",
+  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Aseeseen on maalattu kynäruiskulla kirsikankukka-aihe. Sen jälkeen se on päällystetty kiiltävällä pintamaalilla.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Aamunkoi",
+  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Hiekanvärisen maalin avulla luotu yksityiskohtainen maalaus.\\n\\n<i>Voima saa alkunsa valosta</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Aamunkoi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Okulaari",
   "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Ase on maalattu abstraktin surrealismin ja 1900-luvun taidesuuntausten innoittamilla geometrisillä kuvioilla ja realistisilla yksityiskohdilla.\\n\\n<i>Katsojan silmissä.</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Älykäs tussari",
+  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Takatähtäimen lähelle on maalattu aivojen kuva, tarkoituksena näkyä aseeseen upotettuna. Viimeistelty metallisella hopeamaalilla.\\n\\n<i>Teknologian ja orgaanisten aineiden yhdistelmä</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Älykäs tussari"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Syöpynyt",
-  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan. Sen violetinruskea päällikerros on syöpynyt pois ja jättänyt rappeutuvan aseen käyttökelpoiseksi vain rajatuksi ajaksi.\\n\\n<i>Se on niin paha, miltä näyttää.</i>",
+  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan. Aseen punaruskea pintamaali on syöpynyt pois ja tehnyt ruostuvasta aseesta käyttökelpoisen vain rajatuksi ajaksi.\\n\\n<i>Juuri niin paha kuin miltä se näyttää</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lootuskuosi",
+  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan. Ase on maalattu kiiltävällä kultaisella ja sinisellä metallimaalilla.\\n\\n<i>Lootus kämmenellä on kahden pisteen arvoinen tappotilastossa</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lootuskuosi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Rajoitettu",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8-revolveri | Monarkki",
+  "description": "R8-revolveri on varsin tarkka voimanpesä, mutta liipaisinveto hidas. Kun lähitaistelussa tarvitaan raakaa pysäytysvoimaa, nopea tulitus iskurvasaraa läpsimällä on paras vaihtoehto. Maalattu oranssilla ja harmaalla, viimeistelty messinkisillä yksityiskohdilla.\\n\\n<i>Statuksen ja auktoriteetin symboli</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8-revolveri"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarkki"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8-revolveri | Tango",
   "description": "R8-revolveri on varsin tarkka voimanpesä, mutta liipaisinveto hidas. Kun lähitaistelussa tarvitaan raakaa pysäytysvoimaa, nopea tulitus iskurvasaraa läpsimällä on paras vaihtoehto. Asetta koristavat ruusut ja puinen kahva.\\n\\n<i>Lähdetkö tanssiin?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Katkaistu haulikko | Käärmeennahka",
+  "description": "Klassinen katkaistu haulikko tekee hurjan määrän vahinkoa lähietäisyydeltä, mutta kun ase on epätarkka, ampuu hitaasti ja levittää haulit ympäriinsä, niin ensimmäisen osuman on paras tappaa. Karmiininvärisen pohjan päälle maalattu käärme.\\n\\n<i>Maailman syvyyksien ympärille kiertyneenä</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Katkaistu haulikko"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Käärmeennahka"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Katkaistu haulikko | Säteilyvaara",
   "description": "Klassinen katkaistu haulikko tekee hurjan määrän vahinkoa lähietäisyydeltä, mutta kun ase on epätarkka, ampuu hitaasti ja levittää haulit ympäriinsä, niin ensimmäisen osuman on paras tappaa. Spray-maalattu säteilyvaaramerkkikuviota käyttäen.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arktinen alusta",
+  "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa. Aseessa on käytetty vihreää ja harmaata maastokuviota.\\n\\n<i>Arktisen alueen soturit, huomio!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arktinen alusta"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Häkkilintu",
   "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa. Ase on maalattu sinisestä liilaksi asteittain muuttuvalla kuviolla.\\n\\n<i>\\\"Onpa iso ase niin pienessä häkissä...\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Širokko-kirjoitus",
+  "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa. Ase on koristeltu kalligrafialta näyttävällä arabialaismaisella kuviolla.\\n\\n<i>Kuumuuden, hiekan ja kuivien tuulten muovaama</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Širokko-kirjoitus"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimetri",
+  "description": "Ihanteellinen pistooli liikkuvalle terroristille. Tec-9 tappaa lähitaistelussa ja tarjoaa suuren lippaan. Monivärinen maalaus täynnä X-kirjaimia, neliöitä ja pisteitä.\\n\\n<i>Ristinollaa kaikille</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimetri"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sulttaani",
+  "description": "Ihanteellinen pistooli liikkuvalle terroristille. Tec-9 tappaa lähitaistelussa ja tarjoaa suuren lippaan. Ase on maalattu arabialaismaisesta mosaiikista innoituksensa saaneilla muodoilla.\\n\\n<i>Tulituksesta tulitaukoon</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sulttaani"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armeijatason",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Itämaan ihmeet -kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Koneisto",
   "description": "UMP45 on konepistoolien keskivertoa. Sen pieni lipas on aseen ainoa huono puoli, muuten se on hyvin monipuolinen automaattiase lähitaisteluihin. Aseeseen on lisätty moottorin osia kuvaava anodisoitu kuvio.\\n\\n<i>\\\"Ei hyvältä näytä...\\\"</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiraalihäiriö",
+  "description": "Vaimennettu USP-pistooli on pelaajien suosikki Counter-Strike: Sourcesta. Siihen kuuluu irrotettava äänenvaimennin, joka vähentää rekyyliä sekä huomiota herättävää ääntä. Helmimäisen pintamaalikerroksen alle on maalattu häiriökuvioita.\\n\\n<i>Se tulee ihan puskista</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoolit"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiraalihäiriö"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Luottamuksellinen",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Muinainen taru",
   "description": "XM1014 on tehokas täysautomaattihaulikko, jonka kallista hintalappua kompensoi sen tulinopeus. Aseeseen on tehty kalpean vihreästä, kellanruskeasta ja punaisesta koostuva antiikkinen laattakuvio.\\n\\n<i>\\\"Toivo säilyy. Myös niillä, joiden matka alkoi väärältä polulta.\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Musta mesta",
+  "description": "XM1014 on tehokas täysautomaattihaulikko, jonka kallista hintalappua kompensoi sen tulinopeus. Maalattu mustalle, harmaalle ja pronssiselle mattapinnalle.\\n\\n<i>Pistä ranttaliksi!</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Raskaat"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Musta mesta"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Teollistason",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Huippuvakooja-kokoelma",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Molemmat tiimit"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

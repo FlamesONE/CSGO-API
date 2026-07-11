@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | ultimate's jumpscare",
+  "description": "ultimate maakt op Nuke tijdens een zijwaartse sprong een geweldige headshot tegen BIG met de Deagle.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | tabseN's 1v2-clutch",
+  "description": "tabseN wint een snelle 1v2 op Mirage, brengt de achterstand terug tot 8-12 en houdt BIG in de race. Later won het team in de verlenging.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | koala's aas",
+  "description": "koala begint perfect op Inferno door in de pistoolronde alle vijf de TYLOO-spelers te doden met de Dual Berettas.",
+  "tournament_event": "Keulen 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Starry's vierdubbele kill",
+  "description": "Starry brengt Lynn Vision terug in de ronde op Ancient met vier kills nadat de bom was geplaatst.",
+  "tournament_event": "Keulen 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | asap's aas",
+  "description": "asap maakt korte metten met de geforceerde aankopen van MIBR met een regelrechte aas op Inferno, waardoor THUNDERdOWNUNDER afstevent op een verrassende zege.",
+  "tournament_event": "Keulen 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | hypex' rokerige kill",
+  "description": "hypex gaat bizar van start op Inferno door een NRG-speler te doden met de impact van een rookgranaat.",
+  "tournament_event": "Keulen 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | susp's 1v3-clutch",
+  "description": "susp sluit af op Inferno met een 1v3 tegen Gaimin Gladiators, waarmee de eenvoudige 2-0-zege van HEROIC een feit is.",
+  "tournament_event": "Keulen 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | beastik's vierdubbele kill",
+  "description": "beastik slaat vier keer op rij toe tegen FlyQuest in ronde 19 op Ancient en zorgt ervoor dat zijn team in de race blijft.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FlyQuest",
+  "team1": "SINNERS",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | s1zzi's 1v3-clutch",
+  "description": "s1zzi zet op Inferno een geslaagde 1v3-clutch neer zonder de bom, zodat het 14-14 wordt en B8 nog mag hopen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Magnojez' 1v3-clutch",
+  "description": "Magnojez noteert een 1v3-retakeclutch op Dust II door af te rekenen met drie tegenstanders en vervolgens de bom te ontmantelen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "Fase I",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | NertZ' aas",
+  "description": "NertZ deelt de lakens uit in de banaan op Inferno en pakt de aas tegen BIG tijdens de verpletterende mapwinst van G2.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Gizmy's messcherpe kill",
+  "description": "Gizmy wint de ronde op Mirage door Heavygod met een mes te doden, waardoor Monte belangrijke punten verdient in de tweede verlenging.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | MATYS' aas",
+  "description": "MATYS laat niets heel van M80 met vier MP9-kills op Mirage, waardoor G2 vroeg aan de leiding gaat op de map.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | saffee's drievoudige kill",
+  "description": "saffee sluit op Nuke af tegen Astralis met drie AWP-kills, waardoor paiN Gaming met 13-11 wint.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | gr1ks' 1v3-clutch met AWP",
+  "description": "gr1ks maakt er meer dan het beste van tijdens een 1v3 op Ancient met drie AWP-kills, waaronder twee vliegen in één klap, waardoor B8 niks kan met de bom.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | kensizor's beslissende aas",
+  "description": "kensizor maakt er in stijl een einde aan op Dust II met een aas, waardoor B8 de serie wint en doorgaat naar fase 3.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | s1zzi's aas",
+  "description": "s1zzi's rekent op Overpass af met alle vijf de spelers van BIG tijdens het dominante eerste bedrijf van B8.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | venomzera's 1v3-clutch",
+  "description": "Ternauwernood overleeft venomzera het laatste duel van een 1v3 op Mirage, waardoor B8 de bom niet kan plaatsen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | donk's 4 snelle kills",
+  "description": "donk legt 9z op de pijnbank op Nuke met vier kills, waaronder twee stuks met elk één kogel, tot zijn eigen verbazing.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | AZUWU's Deagle-aas",
+  "description": "AZUWU maakt op Dust II een aas met vier Deagle-kills na een behoudende inkoopronde.",
+  "tournament_event": "Keulen 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "Fase II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | w0nderful's 1v4-clutch met 2 HP",
+  "description": "w0nderful wint een 1v4-situatie tegen G2 op Dust II met slechts 2 HP en redt de ronde voor NAVI in zijn eentje.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | sh1ro's 4 kills en 1v2-clutch",
+  "description": "sh1ro maakt vier kills tegen 9z op Dust II, waaronder een 1v2-clutch nadat de bom is geplaatst, en voorkomt dat 9z op matchpoint komt.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | magixx' aas met meerdere wapens",
+  "description": "magixx maakt een aas tegen Aurora, wisselt halverwege de ronde van wapen en maakt de laatste frags in een noodtempo.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | KSCERATO's 1v3-clutch",
+  "description": "KSCERATO wint een 1v3 tegen B8 op Inferno, sleept de pistoolronde van de tweede helft uit het vuur en parkeert de bus voor de tegenstanders.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | YEKINDAR's driedubbele kill",
+  "description": "Met een afgemeten driedubbele kill voorkomt YEKINDAR dat B8 de B-locatie kan aanvallen op Mirage.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | ZywOo's aas met 1v3-clutch",
+  "description": "ZywOo zorgt voor de ommekeer tijdens een lastige pot tegen FUT met een aas en een 1v3-clutch op Overpass.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | dgt's aas met een pistool",
+  "description": "dgt opent op Overpass tegen The MongolZ met een pistool-aas; een hoogtepunt van de eerste ronde op de map.",
+  "tournament_event": "Keulen 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | woxic's 1v4-clutch",
+  "description": "woxic wint een geschifte 1v4 met de AWP tegen 9z Team op Dust II, inclusief een stijlvolle noscope.",
+  "tournament_event": "Keulen 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | NiKo's vier kills",
+  "description": "NiKo verdedigt A in zijn eentje op Mirage door de opmars van Monte te stuiten met vier snelle AK-kills, waardoor de Falcons er opeens gunstig voor staan in de ronde.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Krabeni's aas",
+  "description": "Krabeni neemt de touwtjes in handen op Mirage en laat met een aas niets heel van BetBooms eco-ronde met de Tec-9.",
+  "tournament_event": "Keulen 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "Fase III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Boombl4's 1v3-clutch",
+  "description": "Boombl4 overleeft een 1v3 op Nuke, met op het einde een bliksemsnelle draai van 180 graden, waardoor BetBoom weer helemaal terug in de race is.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | soulfly's 1v2-clutch",
+  "description": "soulfly wint de clutch in een 1v2-situatie nadat de bom is geplaatst op de B-locatie van Nuke en rondt zo een dominante zege van Aurora af.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | sh1ro's aas",
+  "description": "sh1ro trapt de tweede verlenging op Mirage af met een aas door de aanval van G2 op midden en B in de kiem te smoren.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | magixx' 1v4-clutch",
+  "description": "magixx brengt een ongelooflijke 1v4 op Mirage tot een goed einde, verpest G2's laatste aanval en wint de ronde.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | donk's 1v2-clutch",
+  "description": "donk wint de laatste clutch op Dust II, zet een streep door de ultieme heroveringspoging van G2 en wint de map in de verlenging.",
+  "tournament_event": "Keulen 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | kyousuke's 3 kills",
+  "description": "kyousuke doet de deur op Anubis achter zich dicht namens Falcons met een drievoudige kill tijdens het verdedigen van de B-locatie en Vitality heeft het nakijken.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | mezii's molotov-kill",
+  "description": "mezii zet TeSeS te kakken op Dust II met een bizarre kill met een molotovfles.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | yuurih's 1v4-clutch",
+  "description": "yuurih zet de pistoolronde op Mirage op zijn kop met een absurde 1v4 door van het midden naar A te sluipen en de laatste spelers van 9z af te maken nadat de bom is geplaatst.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | HUASOPEEK's aas",
+  "description": "HUASOPEEK maakt op Overpass een einde aan FURIA's aanval op B door met een MP9 een aas neer te zetten in de rokerige monstertunnel.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | max' 1v2-clutch",
+  "description": "In de rook op de A-locatie wint max een 1v2-situatie nadat de bom is geplaatst en pakt hij de winst tegen FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Kwartfinale",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | soulfly's 3 drievoudige kill",
+  "description": "soulfly is het dodelijke licht aan het einde van de B-tunnel voor FURIA op Dust II, waar hij met drie MP9-kills lekker bezig is voor Aurora.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | KSCERATO's aas",
+  "description": "KSCERATO sluit de eerste helft in stijl af voor FURIA met een aas op Dust II.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | YEKINDAR's dubbele kill",
+  "description": "Op Dust II slaat YEKINDAR Aurora's laatste aanval door de tunnels af met twee kills voor FURIA op bomlocatie B.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | YEKINDAR's 3 kills",
+  "description": "YEKINDAR rekent af met drie Aurora-spelers op Nuke, waardoor de weg naar rondewinst open ligt voor FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | KSCERATO's viervoudige kill",
+  "description": "KSCERATO wint de wedstrijd voor FURIA op Nuke met vier AK-headshots die Aurora's laatste aanval in de kiem smoren.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | kyousuke's drievoudige kill",
+  "description": "kyousuke zet Team Spirit vast met drie kills tijdens de herovering, waardoor zijn team in de verlenging alsnog wint.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | sh1ro's viervoudige kill",
+  "description": "sh1ro zet een 2v4-situatie op Anubis om in succes met vier AWP-kills om de bom te verdedigen, nadat de Falcons van twee kanten aanvielen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | TeSeS' 1v2-clutch",
+  "description": "TeSeS wint een 1v2c-clutch op Dust II voor Falcons door de situatie perfect te lezen en beide spelers van Team Spirit om te leggen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | karrigan's 4 kills",
+  "description": "karrigan verdedigt de B-locatie op Mirage bijna in zijn eentje met vier kills en geeft zijn team even de tijd om te reageren op de aanval van Team Spirit.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | magixx' 4 kills",
+  "description": "magixx maait Falcons neer op bomlocatie B van Mirage met vier verdedigende kills, waardoor Team Spirit de laatste ronde van de map wint.",
+  "tournament_event": "Keulen 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Halve finale",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Entree van Falcons",
+  "description": "Falcons betreden de kathedraal van Counter-Strike voor de eindstrijd tegen FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Entree van FURIA",
+  "description": "FURIA komt het podium op voor de grote finale tegen Falcons.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | FalleN's viervoudige kill",
+  "description": "FalleN stuit Falcons' aanval op bomlocatie B van Mirage met vier snelle kills.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | m0NESY's 4 kills",
+  "description": "m0NESY opent het bal op Anubis met vier kills met de Dual Elites tijdens het verdedigen tegen FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | m0NESY's 3 kills met 1v2-clutch",
+  "description": "m0NESY wint een 1v2 nadat de bom is geplaatst op Anubis en verpest de heroveringspoging van FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | kyousuke's 4 kills",
+  "description": "kyousuke maakt een einde aan FURIA's aanval op bomlocatie B van Inferno met vier kills.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | karrigan's 3 kills",
+  "description": "karrigan verdedigt bomlocatie B op Inferno namens Falcons met drie snelle USP-S-kills in een ronde waarin FURIA flink heeft ingekocht.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | NiKo's drievoudige kill",
+  "description": "NiKo sluipt door de appartementen van Inferno en maakt drie stiekeme kills tegen FURIA, nog voor hun aanval goed en wel is begonnen.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | karrigan's dubbele kill",
+  "description": "karrigan brengt de herovering van locatie A op Inferno tijdens een 2v2 tot een goed einde met twee M4A1-S-kills, waarmee FURIA niets heeft aan de geplaatste bom.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | m0NESY's titelwinst-kill",
+  "description": "m0NESY maakt de laatste kill met de AWP en wint daarmee met Falcons de laatste ronde van de grote finale tegen FURIA.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "Souvenir Hangertje | Highlight Keulen 2026 | Falcons' trofeemoment",
+  "description": "Falcons wint de IEM Keulen Major 2026.",
+  "tournament_event": "Keulen 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grote finale",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

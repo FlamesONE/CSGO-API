@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 高光沢のブルーとピンクのグラデーションと、複数のグラフィックデザインでカスタムペイント。\\n\\n<i>コンソールで「kill」</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "秘密",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 黒と白の下地に鶴とゴールドのアクセントを手描きでペイント。\\n\\n<i>ブラッドムーンの前触れ</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 大胆なオレンジの下地に、高光沢の金色の炎と、マガジンとその周囲にジンをカスタムペイント。\\n\\n<i>お願い事は慎重に…</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "秘密",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 マットブラックの下地に、カラフルなデザインが施されたカスタムペイント。\\n\\n<i>>再接続を試行中………</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 ラピスラズリを思わせるホワイト、ブルー、ゴールドのデザインでカスタムペイント。\\n\\n<i>力強く、そして脆い、精巧な逸品</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 ダウンジャケットの外観と質感を再現したカスタムペイントに、ブロンズのアクセントで仕上げ。\\n\\n<i>贅沢な一品</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 マットブラックの塗料でカスタムペイントされ、オレンジのストライプで仕上げ。\\n\\n<i>「派手なものはいらない。わかったな？</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 緑と青のグラデーションが鮮やかなカスタムペイント。\\n\\n<i>触れるとひんやり</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 金色のスコープと、武器全体を走る炎のデザインでカスタムペイント。\\n\\n<i>気高い勝者</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "秘密",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "★ 銃剣 | Slaughter",
-  "description": "銃剣/Bayonet は第ニ次世界大戦以降、設計面ではほとんど変更がなされていないが、現代の軍事戦略において今なお地位を確保している。最近では第二次湾岸戦争やアフガニスタン戦争でも銃剣突撃の有効性が実証された。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "銃剣/Bayonet は第ニ次世界大戦以降、設計面ではほとんど変更がなされていないが、現代の軍事戦略において今なお地位を確保している。最近では第二次湾岸戦争やアフガニスタン戦争でも銃剣突撃の有効性が実証された。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "Bizon サブマシンガンは威力こそ弱いものの、 素早くリロードできる独特な構造の大容量ドラムマガジンを備えている。 ブロンズとゴールドのデザインでカスタムペイント。\\n\\n<i>ブロンズと弾丸</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "CZ75 をフルオートマチックに改造した CZ75-Auto は、戦局をひっくり返し、相手の武器を奪うのに理想的な短期決戦用の選択だ。ただし装弾数が少ないため、正確な射撃が求められる。 マガジンがポリマー素材に見えるようにペイント。トリガーの上に「HYDRA」と描かれている。\\n\\n<i>お前がヘラクレスか？</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "CZ75 をフルオートマチックに改造した CZ75-Auto は、戦局をひっくり返し、相手の武器を奪うのに理想的な短期決戦用の選択だ。ただし装弾数が少ないため、正確な射撃が求められる。 ピンクとパープルでハンドペイントされ、子ネコのデカールが貼られている。\\n\\n<i>24発あれば9回殺せる</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 メタリックシルバー、ブラック、ブルーのデザインでカスタムペイント。\\n\\n<i>目標を見失うな</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "機密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 パール光沢の塗料を使用して紫と青の炎をカスタムペイント。\\n\\n<i>並外れた特性と能力を秘めている</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 重ね合わせると砂漠の眼を形作る、流れるような金色の曲線でカスタムペイント。\\n\\n<i>共有されたビジョン</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 ブラックとレッドでカスタムペイント。\\n\\n<i>スーツとサングラスは別売り</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 マットゴールドの下地に、鮮やかな金色の輪郭で強調されたグリーンの蛇をカスタムペイント。\\n\\n<i>希望のきらめき</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 シルバーとパープルの Desert Seal デザインをカスタムペイント。\\n\\n<i>運命が呼んでいる</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 光沢の異なる赤い塗料でカスタムペイント。\\n\\n<i>尾行されていたかどうかはどうでもいい。もうここまで来ちゃったんだから。―革命家 ヴァレリア・ジェンナー</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "秘密",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 タンカラーとブラックのデザインでカスタムペイント。\\n\\n<i>古い情報とはいえ、情報であることはまちがいない、だろ…？</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 ネオンカラーとメタリックのグリッターでカスタムペイント\\n\\n<i>ちょっとやり過ぎな気もするが、まあ俺向けじゃないからな。―武器商人 ブース</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "★ バタフライナイフ | Slaughter",
-  "description": "一般的にはバタフライナイフとして知られているカスタム設計されたバリソン。扇のように開いて自由に回転するブレードを出す機構が特徴で、素早い展開や隠匿が可能。そのため、バタフライナイフは多くの国で非合法化されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "一般的にはバタフライナイフとして知られているカスタム設計されたバリソン。扇のように開いて自由に回転するブレードを出す機構が特徴で、素早い展開や隠匿が可能。そのため、バタフライナイフは多くの国で非合法化されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "★ サバイバルナイフ | Slaughter",
-  "description": "鋸刃部分で硬い骨や繊維を断裁でき、鋭い返し刃もついた多目的タクティカルナイフ。複合材の持ち手は六角ナットで刃に固定されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "鋸刃部分で硬い骨や繊維を断裁でき、鋭い返し刃もついた多目的タクティカルナイフ。複合材の持ち手は六角ナットで刃に固定されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "★ Paracord ナイフ | Slaughter",
-  "description": "武器としてもツールとしても使えるようにデザインされた固定刃のサバイバルナイフで、罠の作成、動物の狩猟、草木の伐採なども可能。持ち手部分には多用途のパラコードが巻かれている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "武器としてもツールとしても使えるようにデザインされた固定刃のサバイバルナイフで、罠の作成、動物の狩猟、草木の伐採なども可能。持ち手部分には多用途のパラコードが巻かれている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "★ クラシックナイフ | Slaughter",
-  "description": "「Counter-Strike」シリーズ定番のこのナイフのエッジはステライト製で、チタン製のブレードの側面と背にぴったりとプレスで固定されている。柄の部分は、中心がマストドンの牙の化石で、外側がカーボンファイバーでできている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "「Counter-Strike」シリーズ定番のこのナイフのエッジはステライト製で、チタン製のブレードの側面と背にぴったりとプレスで固定されている。柄の部分は、中心がマストドンの牙の化石で、外側がカーボンファイバーでできている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "★ Falchion ナイフ | Slaughter",
-  "description": "ファルシオンへの現代的オマージュであるクリップポイントナイフ。湾曲したエッジを持つ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "ファルシオンへの現代的オマージュであるクリップポイントナイフ。湾曲したエッジを持つ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "★ Flip ナイフ | Slaughter",
-  "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "★ ガットナイフ | Slaughter",
-  "description": "ガットナイフでまず目につくのが、刃の背の部分にあるガットフックだ。元来、狩猟で獲物の解体を補助するものとして普及したガットフックは、ロープや帯ひも、安全バンドのような繊維状の素材を容易に切断できる。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "ガットナイフでまず目につくのが、刃の背の部分にあるガットフックだ。元来、狩猟で獲物の解体を補助するものとして普及したガットフックは、ロープや帯ひも、安全バンドのような繊維状の素材を容易に切断できる。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "★ Navaja ナイフ | Slaughter",
-  "description": "この大理石エナメルハンドルの Flip ナイフは、小さいながらも凶悪な先細の刃を隠し持つ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "この大理石エナメルハンドルの Flip ナイフは、小さいながらも凶悪な先細の刃を隠し持つ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "★ カランビット | Slaughter",
-  "description": "トラの爪を模倣した湾曲刃を持つ Karambit は東南アジアの武術シラットの武具として発展してきた。このナイフはリング部分に人差し指を通し、主に逆手で使用する。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "トラの爪を模倣した湾曲刃を持つ Karambit は東南アジアの武術シラットの武具として発展してきた。このナイフはリング部分に人差し指を通し、主に逆手で使用する。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "★ ククリナイフ | Slaughter",
-  "description": "結婚式や刺殺などの伝統的な儀式で使用される。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "結婚式や刺殺などの伝統的な儀式で使用される。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "★ M9バヨネット | Slaughter",
-  "description": "M-9 銃剣。もともとライフルに装着されることを想定された武器だが、近接戦闘にも適している。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "M-9 銃剣。もともとライフルに装着されることを想定された武器だが、近接戦闘にも適している。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "★ Nomad ナイフ | Slaughter",
-  "description": "人体工学設計が施されたロックブレード機構のナイフ。複合材のインサートハンドルと幅広で頑丈な刃が特徴で、切断だけでなく物をこじ開ける際にも便利。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "人体工学設計が施されたロックブレード機構のナイフ。複合材のインサートハンドルと幅広で頑丈な刃が特徴で、切断だけでなく物をこじ開ける際にも便利。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "★ シャドウダガー | Slaughter",
-  "description": "プッシュダガーは効率的な刺突のために設計されており、パンチするのと同じぐらい簡単使える。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "プッシュダガーは効率的な刺突のために設計されており、パンチするのと同じぐらい簡単使える。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "★ Skeleton ナイフ | Slaughter",
-  "description": "スケルトン加工されたタングナイフで、グリップ性を高めるためにハンドル部分にテープが巻かれている。くり抜かれた部分に指を通すことで安定性と安全性が向上する。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "スケルトン加工されたタングナイフで、グリップ性を高めるためにハンドル部分にテープが巻かれている。くり抜かれた部分に指を通すことで安定性と安全性が向上する。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "★ Stiletto ナイフ | Slaughter",
-  "description": "歴史的に論争や規制の的となってきたイタリアンスタイルのスティレットのスイッチブレードナイフ。リリーススイッチを押すと瞬時に飛び出すバネ式のブレードが仕込まれている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "歴史的に論争や規制の的となってきたイタリアンスタイルのスティレットのスイッチブレードナイフ。リリーススイッチを押すと瞬時に飛び出すバネ式のブレードが仕込まれている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "★ Bowie ナイフ | Slaughter",
-  "description": "フルタング構造の Sawback Bowie ナイフは、過酷なサバイバル環境での酷使に耐えられるよう設計されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "フルタング構造の Sawback Bowie ナイフは、過酷なサバイバル環境での酷使に耐えられるよう設計されている。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "★ Huntsman ナイフ | Slaughter",
-  "description": "現代におけるタクティカル用途のために設計されたナイフであり、ブレードは戦闘だけでなくツールとしても幅広く用いられる。独特の短刀状の切先を持ち、硬い素材でも貫通できる。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "現代におけるタクティカル用途のために設計されたナイフであり、ブレードは戦闘だけでなくツールとしても幅広く用いられる。独特の短刀状の切先を持ち、硬い素材でも貫通できる。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "★ Ursus ナイフ | Slaughter",
-  "description": "フルタング構造でファセット加工の刃を持ち、ポメルでの打撃も可能な短刀型のサバイバルナイフ。手間要らずで可動部分もなく、すぐに使える頼れるナイフだ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "フルタング構造でファセット加工の刃を持ち、ポメルでの打撃も可能な短刀型のサバイバルナイフ。手間要らずで可動部分もなく、すぐに使える頼れるナイフだ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "★ Talon ナイフ | Slaughter",
-  "description": "この象牙ハンドルのカランビットナイフは、真鍮のリベットと鋸歯の峰を持ち、突くと切り、抜くと裂く。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
+  "description": "この象牙ハンドルのカランビットナイフは、真鍮のリベットと鋸歯の峰を持ち、突くと切り、抜くと裂く。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 マットブラックとシルバーでカスタムペイントされ、白いグラフィックデザインで仕上げ。\\n\\n<i>スタイルよりも機能面</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 タンカラーの下地に赤い蛇をカスタムペイント。\\n\\n<i>その手にある力には自制心が必要だ</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "機密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 ワインカラーをベースにカスタムペイント。\\n\\n<i>警告：長時間の連射はオーバーヒートを引き起こす恐れあり</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 鮮やかなグリーンのパール塗料でカスタムペイント。\\n\\n<i>目立たずにいるという選択肢などない時に</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "機密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 中東風の風景を思わせる、動きのあるパターンでカスタムペイント。\\n\\n<i>移ろう砂</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 MAC-10 の背面から内部を見ているかのようなカスタムペイント。\\n\\n<i>特注品</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 手持ちカメラに見えるようカスタムペイント。\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 グリーンとブラックで 1 と 0 をカスタムペイント。\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 青と紫の下地にスマイリーフェイスと黄色の「Just Smile」の文字をペイント。\\n\\n<i>「はい、チーーーズ！」</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 タンカラーの下地に、白いカリグラフィー風の筆致で蛇をカスタムペイント。\\n\\n<i>不毛の地から来た奇妙な遺物</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 シルバー、ブラック、ブルーでカスタムペイントされ、シルバーペイントにはコンテンポラリーデザインが織り込まれている。\\n\\n<i>さりげなく、でも確かな個性を</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 ホワイトサテンの下地に、ブルーのデザインでカスタムペイント。\\n\\n<i>結果はまちまちだ</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "サブマシンガン"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 砂色の塗料で精緻なデザインが施されている。\\n\\n<i>強さは光から始まる</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重火器"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 抽象的なシュールレアリスムと20世紀芸術家の作品に着想を得た、シンプルな幾何学模様と写実的なディテールが特徴的なカスタムペイント。\\n\\n<i>観る人の眼に宿る</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 リアサイトのまわりに、武器に埋め込まれているように見える脳のデザインが描かれ、メタリックシルバーの塗料で仕上げ。\\n\\n<i>テクノロジーと有機体の融合</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重火器"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 ゴールドとブルーのメタルフレーク塗料でカスタムペイント。\\n\\n<i>手の中の一輪は、キルフィードの二輪に勝る</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "部外秘",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 Revolver | Monarch",
+  "description": "R8 Revolver は、トリガーを引くのに時間がかかる代わりに、正確で強力な一撃を与えられる。至近距離でのストッピングパワーが求められるときは、ハンマーを手で弾くことによって連射が可能だ。 オレンジとグレーでカスタムペイントされ、真鍮仕上げの操作部があしらわれている。\\n\\n<i>地位と権威の象徴</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 Revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8 Revolver | Tango",
   "description": "R8 Revolver は、トリガーを引くのに時間がかかる代わりに、正確で強力な一撃を与えられる。至近距離でのストッピングパワーが求められるときは、ハンマーを手で弾くことによって連射が可能だ。 木製グリップとバラのカスタムペイント。\\n\\n<i>受け取ってくれますか？</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Lunar Wyrm",
+  "description": "古典的な Sawed-Off は激しい近距離ダメージを与えるが、精度の低さや低い集弾性、連射速度の低さを考えると、狙った敵を仕留めないと困ったことになる。 深紅の下地に蛇をカスタムペイント。\\n\\n<i>世界の深淵でとぐろを巻く</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重火器"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-Off | Irradiated Alert",
   "description": "古典的な Sawed-Off は激しい近距離ダメージを与えるが、精度の低さや低い集弾性、連射速度の低さを考えると、狙った敵を仕留めないと困ったことになる。 放射線警告のハザード模様がスプレーペイントされている。",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 グリーンとグレーの迷彩柄が施されている。\\n\\n<i>Arctic Avengers、集合！</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 青と紫のグラデーションデザインが施されている。\\n\\n<i>「こんな小さな檻にしては、ずいぶん大きな武器だな」</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 疑似カリグラフィーとアラベスク幾何学模様の装飾パターンが施されている。\\n\\n<i>熱と砂ぼこり、乾いた風に鍛えられて</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "ライフル"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "行動中のテロリストには理想の拳銃である Tec-9 は近接戦における高い殺傷力と、多くの装弾数を誇る。 X、四角形、ドットを組み合わせたカラフルなデザインが施されている。\\n\\n<i>X と O で作戦を描け</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "行動中のテロリストには理想の拳銃である Tec-9 は近接戦における高い殺傷力と、多くの装弾数を誇る。 アラベスク風のモザイクデザインでカスタムペイント。\\n\\n<i>火力を増して停戦へ</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "MIL規格",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "テロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 アルマイト加工でエンジンパーツが描かれている。\\n\\n<i>「状態は悪そうだ...」</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 パール塗装のトップコートの下に、目くらましのようなデザインをカスタムペイント。\\n\\n<i>何が当たったのかもわからないだろう</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "ピストル"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "機密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "カウンターテロリスト"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 淡い緑とベージュと赤で古代のタイル画を表現している。\\n\\n<i>「間違った道から歩み始めた人にさえ、希望は残っている」</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 マットブラック、グレー、ブロンズでカスタムペイント。\\n\\n<i>見せ場を作れ</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重火器"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "インダストリアルグレード",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "未使用"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "新品同様"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "実地試験済み"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "かなり摩耗"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "戦いで傷ついた"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech コレクション",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "両チーム"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

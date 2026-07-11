@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | ultimate | Убийство при скок",
+  "description": "ultimate нанася нелеп изстрел в главата, движейки се встрани и скачайки, с Deagle на Nuke срещу BIG.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | tabseN | Критична схватка 1 с/у 2",
+  "description": "tabseN печели бърза схватка 1 срещу 2 на Mirage, намалявайки дефицита до 8 — 12 и поддържайки възможността за завръщането на BIG, преди да победят в извънредното време.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | koala | Ас",
+  "description": "koala отваря Inferno перфектно, заличавайки всичките петима TYLOO играчи с двойни Beretta в пистолетния рунд.",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Starry | Четворно убийство",
+  "description": "Starry провлачва Lynn Vision обратно в рунда на Ancient, превземайки времето след залагането с четири убийства.",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | asap | Ас",
+  "description": "asap окончателно преустановява принудителната покупка на MIBR с пълно ас изпълнение на Inferno, подхранвайки разтурването на статуквото от THUNDERdOWNUNDER.",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | hypex | Убийство с димка",
+  "description": "hypex отваря Inferno по причудлив способ, убивайки NRG играч със сблъсъка от димна граната.",
+  "tournament_event": "Cologne 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | susp | Критична схватка 1 с/у 3",
+  "description": "susp приключва Inferno с 1 срещу 3 опълчвайки се на Gaimin Gladiators, запечатвайки чистата победа на HEROIC с 2 — 0 в поредицата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | beastik | Четворно убийство",
+  "description": "beastik осъществява четири убийства срещу FlyQuest в 19 рунд на Ancient, за да задържи своя отбор в съперничеството.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Flyquest",
+  "team1": "SINNERS",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | s1zzi | Критична схватка 1 с/у 3",
+  "description": "s1zzi постига критична схватка 1 срещу 3 без бомбата на Inferno, изравнявайки резултата до 14 — 14, за да запази надеждата на B8 жива.",
+  "tournament_event": "Cologne 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Magnojez | Критична схватка 1 с/у 3",
+  "description": "Magnojez печели повторно превземане при критична схватка 1 срещу 3 на Dust II, разчиствайки всичките трима, преди да обезвреди.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "Етап I",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | NertZ | Ас",
+  "description": "NertZ превзема „Банан“ на Inferno и постига грандиозно изпълнение върху BIG по време на доминиращата победа на G2 над картата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Gizmy | Убийствo с нож",
+  "description": "Gizmy запечатва рунда на Mirage, като наръгва с нож Heavygod, давайки на Monte точки за мача в двойно извънредно време.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | MATYS | Ас",
+  "description": "MATYS разсича с MP9 през M80 с изпълнение като ас на Mirage, давайки на G2 контрол над картата отрано.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | saffee | Тройно убийство",
+  "description": "saffee приключва Nuke срещу Astralis чрез три убийства с AWP, запечатвайки завръщането за победа на paiN Gaming с 13 — 11.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | gr1ks | Критична схватка 1 с/у 3 с AWP",
+  "description": "gr1ks преобръща 1 срещу 3 на Ancient чрез три убийства с AWP, включително и косвено двойно, за да отхвърли залагането на B8.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | kensizor | Ас за напредване",
+  "description": "kensizor завършва Dust II стилно с изпълнение като ас, запечатвайки победата в поредицата за B8 и място в етап 3.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | s1zzi | Ас",
+  "description": "s1zzi заличава всичките петима BIG играчи на Overpass, помагайки на B8 да изградят доминантно първо полувреме.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | venomzera | Критична схватка 1 с/у 3",
+  "description": "venomzera едва оцелява в последния дуел от 1 срещу 3 на Mirage, чакайки времето да изтече, за да отхвърли залагането от B8.",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | donk | 4 убийства с по едно почукване",
+  "description": "donk разсича през 9z на Nuke с четири убийства, включително две с чисти единични почуквания на спусъка, които изненадват дори него.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | AZUWU | Deagle ас",
+  "description": "AZUWU превръща рунд с ниска покупателност на Dust II в пълно изпълнение като ас, подсилвано от мощта на четири убийства с Deagle.",
+  "tournament_event": "Cologne 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "Етап II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | w0nderful | Критична схватка 1 с/у 4 с 2 здраве",
+  "description": "w0nderful печели 1 с/у 4 срещу G2 на Dust II само с 2 здраве, като на практика спасява рунда за NAVI самостоятелно.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | sh1ro | 4 убийства с критична схватка 1 с/у 2",
+  "description": "sh1ro прави четири убийства срещу 9z на Dust II, включително 1 срещу 2 във времето след залагането, и спира 9z от това да достигнат точка в мача.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | magixx | Ас с множество оръжия",
+  "description": "magixx прави изпълнение като ас срещу Aurora, превключвайки оръжия насред рунда и завършвайки последните фрагове, без да забавя темпото.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | KSCERATO | Критична схватка 1 с/у 3",
+  "description": "KSCERATO печели 1 с/у 3 срещу B8 на Inferno, открадвайки второто полувреме на пистолетния рунд и отхвърляйки им възможността да си върнат контрола над картата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | YEKINDAR | Тройно убийство",
+  "description": "YEKINDAR отхвърля превземането на зоната за бомба „B“ от B8 на Mirage с дисциплинирано тройно убийство.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | ZywOo | Ас при критична схватка 1 с/у 3",
+  "description": "ZywOo обръща труден рунд срещу FUT с изпълнение като ас и критична схватка 1 с/у 3 на Overpass.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | dgt | Пистолетен ас",
+  "description": "dgt открива Overpass срещу The MongolZ с пистолетно изпълнение като ас, чисто отличаване на най-добър момент направо от първия рунд на картата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | woxic | Критична схватка 1 с/у 4",
+  "description": "woxic печели луда схватка 1 с/у 4 с AWP срещу 9z Team на Dust II, включително стилно изпълнение без оптика.",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | NiKo | Четворно убийство",
+  "description": "NiKo удържa сам зоната за бомба „A“ на Mirage, разкъсвайки нападението на Monte чрез четири бързи убийства с AK-47, за да обърне хода на рунда за Falcons.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Krabeni | Ас",
+  "description": "Krabeni поема пълен контрол над Mirage, разбивайки икономичния рунд с Tec-9 на BetBoom чрез изпълнение като ас.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "Етап III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Boombl4 | Критична схватка 1 с/у 3",
+  "description": "Boombl4 постига 1 срещу 3 на Nuke, включително рязко завъртане на 180° във финалния дуел, за да завлече BetBoom обратно в рунда.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | soulfly | Критична схватка 1 с/у 2",
+  "description": "soulfly се справя при критична схватка 1 срещу 2 във времето след залагането в зоната за бомба „B“ на Nuke, запечатвайки доминиращата победа на Aurora над картата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | sh1ro | Ас",
+  "description": "sh1ro започва второ извънредно време на Mirage с изпълнение като ас, разсичайки през атаката на G2 в средата на картата и зоната за бомба „B“.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | magixx | Критична схватка 1 с/у 4",
+  "description": "magixx постига дива схватка 1 срещу 4 на Mirage, подкрепяйки прицелването си посредством финалния напън от G2 и открадвайки рунда.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | donk | Критична схватка 1 с/у 2",
+  "description": "donk печели финалната критична схватка в Dust II, прекъсвайки последния опит на G2 за повторно превземане и затваря картата в извънредното време.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | kyousuke | Тройно убийство",
+  "description": "kyousuke затваря Anubis за Falcons с тройно убийство при удържане на зоната за бомба „B“, преустановявайки окончателно Vitality.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | mezii | Убийство с молотов",
+  "description": "mezii отстранява TeSeS на Dust II с причудливо убийство при сблъсък от бутилка молотов.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | yuurih | Критична схватка 1 с/у 4",
+  "description": "yuurih превръща пистолетния рунд на Mirage в абсурдна схватка 1 срещу 4, приплъзвайки се от средата на картата към зоната за бомба „A“ и довършвайки последния играч от отбора на 9z във времето след залагането.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | HUASOPEEK | Ас",
+  "description": "HUASOPEEK окончателно преустановява опита за нападение над зоната за бомба „B“ на FURIA чрез изпълнение като ас с MP9 през димка от чудовищния тунел на Overpass.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | max | Критична схватка 1 с/у 2",
+  "description": "max се справя при критична схватка 1 с/у 2 във времето след залагането през димки в зоната за бомба „A“ на Dust II, запечатвайки победата срещу FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Четвъртфинал",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | soulfly | Тройно убийство",
+  "description": "soulfly улавя FURIA, излизащи от тунелите към зоната за бомба „B“ на Dust II чрез тройно убийство с MP9, давайки на Aurora ранно предимство в рунда.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | KSCERATO | Ас",
+  "description": "KSCERATO поднася изпълнение като ас срещу Aurora на Dust II, затваряйки стилно първото полувреме за FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | YEKINDAR | Двойно убийство",
+  "description": "YEKINDAR приключва Dust II за FURIA с две финални убийства в зоната за бомба „B“, преустановявайки окончателно напъна на Aurora от тунелите.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | YEKINDAR | Тройно убийство",
+  "description": "YEKINDAR изтрива трима играчи от Aurora на Nuke, отпорвайки отвор в рунда за FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | KSCERATO | Четворно убийство",
+  "description": "KSCERATO подсигурява победата в мача за FURIA на Nuke с четири изстрела в главата с AK-47, посичайки финалната атака от Aurora.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | kyousuke | Тройно убийство",
+  "description": "kyousuke затваря Anubis с тройно убийство при повторно превземане, блокирайки пролуката за Team Spirit и открадвайки картата в извънредното време.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | sh1ro | Четворно убийство",
+  "description": "sh1ro преобръща 2 срещу 4 на Anubis чрез четири убийства с AWP, спасявайки го във времето след залагането, когато Falcons са се струпали в зоната за бомбата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | TeSeS | Критична схватка 1 с/у 2",
+  "description": "TeSeS печели 1 срещу 2 на Dust2 за Falcons, разчитайки димката перфектно и посичайки двамата играчи на Team Spirit.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | karrigan | Четворно убийство",
+  "description": "karrigan удържа зоната за бомба „B“ на Mirage почти сам с четири убийства, печелейки достатъчно време срещу нападението на Team Spirit.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | magixx | Четворно убийство",
+  "description": "magixx покосява Falcons в зоната за бомба „B“ на Mirage при удържане с четири убийства, давайки на Team Spirit последния рунд на картата.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Полуфинал",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Отборно встъпване на Falcons",
+  "description": "Falcons встъпват на сцената в „Катедралата“ на Counter-Strike, за да се опълчат на своя финален опонент, FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Отборно встъпване на FURIA",
+  "description": "FURIA си проправят своя път към сцената на гранд финал срещу Falcons.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | FalleN | Четворно убийство",
+  "description": "FalleN shreds Falcons' Mirage B hit with four quick kills.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | m0NESY | Четворно убийство",
+  "description": "m0NESY opens Anubis with four Dual Elites kills on defense vs FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | m0NESY | 3 убийства с критична схватка 1 с/у 2",
+  "description": "m0NESY wins a 1v2 post-plant on Anubis, baiting FURIA's retake.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | kyousuke | Четворно убийство",
+  "description": "kyousuke shuts down FURIA's Inferno B hit with four kills.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | karrigan | Тройно убийство",
+  "description": "karrigan saves Falcons' Inferno B site with three quick USP-S kills vs FURIA's full buy.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | NiKo | Тройно убийство",
+  "description": "NiKo slips through Inferno apartments, catching FURIA with a three-kill lurk before the hit can settle.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | karrigan | Двойно убийство",
+  "description": "karrigan resolves the 2v2 Inferno A retake with two M4A1-S kills to steal FURIA's post-plant.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | m0NESY Major-winning Kill",
+  "description": "m0NESY lands the final AWP shot as Falcons close out the last round of the grand final against FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "Сувенир Джунджурия | Отличен най-добър момент IEM Cologne 2026 | Falcons Trophy-lifting Moment",
+  "description": "Falcons win IEM Cologne Major 2026.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Гранд финал",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

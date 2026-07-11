@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Εναέριος σκοτωμός από ultimate",
+  "description": "Ο ultimate, ενώ βρίσκεται στον αέρα έπειτα από πλάγια κίνηση, πετυχαίνει ένα απίστευτο κεφαλίδι με το Deagle στη Nuke ενάντια στους BIG.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v2 από tabseN",
+  "description": "Ο tabseN κερδίζει ένα γρήγορο 1v2 στη Mirage, μείωνει το σκορ σε 8–12 και κρατά ζωντανές τις ελπίδες ανατροπής για τους BIG, πριν εντέλει πάρουν τη νίκη στην παράταση.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος από koala",
+  "description": "Ο koala ανοίγει άψογα την αυλαία στην Inferno, βγάζοντας από τη μέση και τους πέντε παίκτες των TYLOO με τα Dual Berettas στον γύρο πιστολιών.",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από Starry",
+  "description": "Ο Starry φέρνει ξανά τη Lynn Vision πίσω στον γύρο στην Ancient, όπου μετά την τοποθέτηση της βόμβας παίρνει την κατάσταση στα χέρια του με τέσσερις σκοτωμούς.",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος από asap",
+  "description": "Ο asap σφραγίζει τον γύρο αναγκαστικής αγοράς των MIBR με έναν καθαρό άσο στην Inferno, ανοίγοντας τον δρόμο για την ανατροπή των ThunderdownUnder.",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Σκοτωμός μέσα απ' τον καπνό από hypex",
+  "description": "Ο hypex ανοίγει την αυλαία στην Inferno με ιδιαίτερο τρόπο, βγάζοντας από τη μέση έναν παίκτη των NRG μετά από ρίψη χειροβομβίδας καπνού η οποία προσκρούει απευθείας πάνω του.",
+  "tournament_event": "Cologne 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από susp",
+  "description": "Ο susp κλείνει τη σειρά στην Inferno κερδίζοντας ένα κλατσάρισμα «ένας εναντίον τριών» ενάντια στους Gaimin Gladiators, σφραγίζοντας έτσι την καθαρή νίκη των HEROIC με 2-0 στη σειρά.",
+  "tournament_event": "Cologne 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από beastik",
+  "description": "Ο beastik κατορθώνει τέσσερις σκοτωμούς εναντίον των FlyQuest στον γύρο 19 στην Ancient και κρατά την ομάδα του σε θέση διεκδίκησης.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Flyquest",
+  "team1": "SINNERS",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από s1zzi",
+  "description": "Ο s1zzi κατορθώνει κλατσάρισμα «ένας εναντίον τριών» χωρίς τη βόμβα στην Inferno, ισοφαρίζει το σκορ σε 14-14 και κρατά τους B8 ζωντανούς στο παιχνίδι.",
+  "tournament_event": "Cologne 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από Magnojez",
+  "description": "Ο Magnojez κερδίζει ένα κλατσάρισμα ανακατάληψης «ένας εναντίον τριών» στη Dust II, εξουδετερώνοντας και τους τρεις αντιπάλους πριν αφοπλίσει τη βόμβα.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "Φάση Ι",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ ΑΠΟ NertZ",
+  "description": "Ο NertZ καταλαμβάνει την Μπανάνα στην Inferno και κατορθώνει άσο εναντίον των BIG κατά τη διάρκεια της κυρίαρχης νίκης των G2 στον χάρτη.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Σκοτωμός με μαχαίρι από Gizmy",
+  "description": "Ο Gizmy σφραγίζει τον γύρο στη Mirage μαχαιρώνοντας τον Heavygod, χαρίζοντας στους Monte το ματς πόιντ στη διπλή παράταση.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ ΑΠΟ MATYS",
+  "description": "Ο MATYS γαζώνει τους M80 με το MP9 στη Mirage, πετυχαίνει άσο και προσφέρει στους G2 τον έλεγχο του χάρτη από νωρίς.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τριπλός σκοτωμός από saffee",
+  "description": "Ο saffee κλείνει τον γύρο στη Nuke κόντρα στους Astralis με τρεις σκοτωμούς με AWP, σφραγίζοντας την ανατρεπτική νίκη των paiN Gaming με σκορ 13-11.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 με AWP από gr1ks",
+  "description": "Ο gr1ks κάνει την ανατροπή στο κλατσάρισμα «ένας εναντίον τριών» στην Ancient με τρεις σκοτωμούς με AWP, που περιλαμβάνουν και έναν παράπλευρο, διπλό σκοτωμό, εμποδίζοντας τους B8 να τοποθετήσουν τη βόμβα.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος και πρόκριση από kensizor",
+  "description": "Ο kensizor με τον άσο του κλείνει τον αγώνα στην Dust II με στιλ, σφραγίζει τη νίκη των B8 στη σειρά και τους χαρίζει μια θέση στην τρίτη φάση.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος από s1zzi",
+  "description": "Ο s1zzi εξοντώνει και τους πέντε παίκτες των BIG στην Overpass, βοηθώντας τους B8 να χτίσουν την κυριαρχία τους στο πρώτο ημίχρονο.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από venomzera",
+  "description": "Ο venomzera επιβιώνει μετά βίας στην τελική μονομαχία «ένας εναντίον τριών» στη Mirage, παίζοντας με τον χρόνο για να εμποδίσει τους B8 από το να τοποθετήσουν τη βόμβα.",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Μπαμ και κάτω, επί 4, από donk",
+  "description": "Ο donk διαλύει τους 9z στη Nuke με τέσσερις σκοτωμούς, μεταξύ των οποίων και δύο εύστοχα χτυπήματα της μίας βολής που ξάφνιασαν μέχρι και τον ίδιο.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος με Deagle από AZUWU",
+  "description": "Ο AZUWU μετατρέπει έναν γύρο χαμηλών αγορών στη Dust II σε πλήρη άσο, με τέσσερις σκοτωμούς με Deagle.",
+  "tournament_event": "Cologne 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "Φάση ΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v4 από w0nderful με 2 ζωή",
+  "description": "Ο w0nderful κερδίζει μια αναμέτρηση «ένας εναντίον τεσσάρων» κόντρα στους G2 στην Dust II με μόνο 2 ζωή και σώζει, επί της ουσίας, ολομόναχος τον γύρο για τους NAVI.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τέσσερις σκοτωμοί και κλατσάρισμα 1v2 από sh1ro",
+  "description": "Ο sh1ro κατορθώνει τέσσερις σκοτωμούς εναντίον των 9z στην Dust II, καθώς και ένα κλατσάρισμα «ένας εναντίον δύο» μετά την τοποθέτηση της βόμβας, και σταματά τους 9z από το να φτάσουν στο ματς πόιντ.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ με πολλά όπλα από magixx",
+  "description": "Ο magixx πετυχαίνει άσο απέναντι στους Aurora, αλλάζοντας όπλα στα μέσα του γύρου και ολοκληρώνοντας τους τελευταίους σκοτωμούς χωρίς να χάσει στιγμή.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από KSCERATO",
+  "description": "Ο KSCERATO κερδίζει μια αναμέτρηση «ένας εναντίον τριών» απέναντι στους B8 στην Inferno, κερδίζοντας τον γύρο πιστολιών στο δεύτερο ημίχρονο και στερώντας τους την ανατροπή στον χάρτη.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τριπλός σκοτωμός από τον YEKINDAR",
+  "description": "Ο YEKINDAR αποτρέπει την ανακατάληψη της περιοχής βόμβας Β από τους B8 στη Mirage με έναν μεθοδικό τριπλό σκοτωμό.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Άσος ZywOo με κλατσάρισμα 1v3",
+  "description": "Ο ZywOo ανατρέπει έναν δύσκολο γύρο εναντίον των FUT με έναν άσο και ένα κλατσάρισμα «ένας εναντίον τριών» στην Overpass.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ dgt με πιστόλι",
+  "description": "Ο dgt ανοίγει την Overpass κόντρα στους The MongolZ πετυχαίνοντας έναν άσο με πιστόλι. Μία από τις καλύτερες στιγμές που ξεχώρισε από τον πρώτο κιόλας γύρο του χάρτη.",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v4 από woxic",
+  "description": "Ο woxic κερδίζει μια τρελή αναμέτρηση «ένας εναντίον τεσσάρων» με το AWP εναντίον των 9z Team στην Dust II, καθώς και έναν εντυπωσιακό σκοτωμό χωρίς τη χρήση διόπτρας.",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από NiKo",
+  "description": "Ο NiKo υπερασπίζεται μόνος του την περιοχή βόμβας Α στη Mirage, διαλύει την επίθεση των Monte κατορθώνοντας τέσσερις γρήγορους σκοτωμούς με AK και κάνει την ανατροπή στον γύρο υπέρ των Falcons.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ από Krabeni",
+  "description": "Ο Krabeni παίρνει τον πλήρη έλεγχο της Mirage, διαλύοντας τον γύρο οικονομίας με Tec-9 των BetBoom με έναν άσο.",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "Φάση ΙΙΙ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v3 από Boombl4",
+  "description": "Ο Boombl4 κερδίζει μια αναμέτρηση «ένας εναντίον τριών» στη Nuke, που περιλαμβάνει μια απότομη στροφή 180 μοιρών στην τελευταία μονομαχία, και κρατά τους BetBoom ζωντανούς στον γύρο.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v2 από soulfly",
+  "description": "Ο soulfly κλατσάρει μια αναμέτρηση «ένας εναντίον δύο» μετά την τοποθέτηση της βόμβας στην περιοχή βόμβας Β της Nuke, σφραγίζοντας την κυρίαρχη νίκη των Aurora στον χάρτη.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ από sh1ro",
+  "description": "Ο sh1ro ξεκινά τη δεύτερη παράταση στη Mirage με έναν ΑΣΟ, διαλύοντας την επίθεση των G2 στη Μέση και την περιοχή βόμβας Β.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v4 από magixx",
+  "description": "Ο magixx κατορθώνει ένα ασύλληπτο κλατσάρισμα «ένας εναντίον τεσσάρων» στη Mirage και κλέβει τον γύρο, διατηρώντας χειρουργική ακρίβεια στη στόχευσή του κατά τη διάρκεια της τελικής επίθεσης των G2.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v2 από donk",
+  "description": "Ο donk κερδίζει το τελευταίο κλατσάρισμα στην Dust II, διαλύει την τελευταία προσπάθεια ανακατάληψης των G2 και κλείνει τον χάρτη στην παράταση.",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τρεις σκοτωμοί από kyousuke",
+  "description": "Ο kyousuke κλείνει την Anubis υπέρ των Falcons, κρατώντας την περιοχή βόμβας Β με τρεις σκοτωμούς και τελειώνοντας τους Vitality.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Σκοτωμός με μολότοφ από mezii",
+  "description": "Ο mezii καθαρίζει τον TeSeS στην Dust II με έναν ασυνήθιστο τρόπο, καθώς τον πετυχαίνει με το μπουκάλι της μολότοφ.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v4 από yuurih",
+  "description": "Ο yuurih μετατρέπει τον γύρο πιστολιών στη Mirage σε μια παράλογη αναμέτρηση «ένας εναντίον τεσσάρων», όπου ξεγλιστρά από τη Μέση προς την περιοχή βόμβας Α και αποτελειώνει τον τελευταίο παίκτη των 9z μετά την τοποθέτηση της βόμβας.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ ΑΠΟ HUASOPEEK",
+  "description": "Ο HUASOPEEK σταματά την επίθεση των FURIA στην περιοχή βόμβας Β στην Overpass, πετυχαίνοντας άσο με το MP9 μέσα από τον καπνό στο τούνελ με το Τέρας.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v2 από max",
+  "description": "Ο max κλατσάρει μια αναμέτρηση «ένας εναντίον δύο» μετά την τοποθέτηση της βόμβας στην περιοχή βόμβας Α της Dust II, σφραγίζοντας τη νίκη εναντίον των FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Προημιτελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τρεις σκοτωμοί από soulfly",
+  "description": "Ο soulfly αιφνιδιάζει τους FURIA καθώς βγαίνουν από τα τούνελ της περιοχής βόμβας Β στην Dust II με έναν τριπλό σκοτωμό με το MP9 και χαρίζει στους Aurora έναν από τους πρώτους γύρους.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | ΑΣΟΣ ΑΠΟ KSCERATO",
+  "description": "Ο KSCERATO κατορθώνει έναν άσο εναντίον των Aurora στη Dust II, κλείνοντας το πρώτο ημίχρονο με στιλ υπέρ των FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Δύο σκοτωμοί από YEKINDAR",
+  "description": "Ο YEKINDAR σφραγίζει την Dust II για τους FURIA με δύο τελικούς σκοτωμούς στην περιοχή βόμβας Β, αναχαιτίζοντας την τελευταία έφοδο των Aurora από τα τούνελ.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τρεις σκοτωμοί από YEKINDAR",
+  "description": "Ο YEKINDAR σβήνει από τον χάρτη τρεις παίκτες των Aurora στη Nuke, ανοίγοντας διάπλατα τον γύρο για τους FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από τον KSCERATO",
+  "description": "Ο KSCERATO εξασφαλίζει τη νίκη του αγώνα για τους FURIA στη Nuke, κατορθώνοντας τέσσερα κεφαλίδια με AK, και φρενάρει την τελική επίθεση των Aurora.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τριπλός σκοτωμός από kyousuke",
+  "description": "Ο kyousuke κλείνει την Anubis με μια ανακατάληψη με τρεις σκοτωμούς, φέρνοντας τους Team Spirit σε δύσκολη θέση και κλέβοντας τον χάρτη στην παράταση.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από sh1ro",
+  "description": "Ο sh1ro ανατρέπει μια κατάσταση «δύο εναντίον τεσσάρων» στην Anubis με τέσσερις σκοτωμούς με AWP, σώζοντας τον γύρο μετά την τοποθέτηση της βόμβας και την πολιορκία των Falcons που είχαν αριθμητική υπεροχή.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Κλατσάρισμα 1v2 από TeSeS",
+  "description": "Ο TeSeS κερδίζει ένα κλατσάρισμα «ένας εναντίον δύο» στη Dust2 για τους Falcons, διαβάζοντας τέλεια τον καπνό και πετσοκόβοντας και τους δύο παίκτες των Team Spirit.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | 4 σκοτωμοί από karrigan",
+  "description": "Ο karrigan υπερασπίζεται την περιοχή βόμβας Β στη Mirage σχεδόν μόνος του με τέσσερις σκοτωμούς, κερδίζοντας αρκετό χρόνο ενάντια στην επίθεση των Team Spirit.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | 4 σκοτωμοί από magixx",
+  "description": "Ο magixx γαζώνει τους Falcons στην περιοχή βόμβας Β της Mirage με υπεράσπιση τεσσάρων σκοτωμών, χαρίζοντας στους Team Spirit τον τελευταίο γύρο του χάρτη.",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Ημιτελικός",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Είσοδος ομάδας Falcons",
+  "description": "Οι Falcons εισέρχονται στον «Καθεδρικό του Counter-Strike» για να αντιμετωπίσουν τον τελικό τους αντίπαλο, τους FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Είσοδος ομάδας FURIA",
+  "description": "Οι FURIA μπαίνουν στη σκηνή του Μεγάλου Τελικού εναντίον των Falcons.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τετραπλός σκοτωμός από FalleN",
+  "description": "Ο FalleN εξαϋλώνει την επίθεση των Falcons στην περιοχή βόμβας B στη Mirage με τέσσερις γρήγορους σκοτωμούς.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τέσσερις σκοτωμοί από m0NESY",
+  "description": "Ο m0NESY με τα Dual Elites στο χέρι ανοίγει την Anubis με τέσσερις σκοτωμούς ενώ αμύνεται εναντίον των FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τρεις σκοτωμοί και κλατσάρισμα 1v2 από m0NESY",
+  "description": "Ο m0NESY κερδίζει ένα κλατσάρισμα «ένας εναντίον δύο» μετά την τοποθέτηση της βόμβας στην Anubis, χρησιμοποιώντας την προσπάθεια ανακατάληψης των FURIA ως δόλωμα.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τέσσερις σκοτωμοί από kyousuke",
+  "description": "Ο kyousuke σταματά την επίθεση των FURIA στην περιοχή βόμβας Β της Inferno με τέσσερις σκοτωμούς.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τρεις σκοτωμοί από karrigan",
+  "description": "Ο karrigan διασώζει την περιοχή βόμβας Β που κατέχουν οι Falcons στην Inferno, πετυχαίνοντας τρεις γρήγορους σκοτωμούς με USP-S εναντίον των FURIA στον γύρο πλήρους αγοράς.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Τριπλός σκοτωμός από NiKo",
+  "description": "Ο NiKo περνά απαρατήρητος μέσα από τα διαμερίσματα στην Inferno, στήνει καρτέρι και αιφνιδιάζει τους FURIA με τρεις σκοτωμούς, πριν προλάβουν να οργανώσουν την επίθεσή τους.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Διπλός σκοτωμός από τον karrigan",
+  "description": "Ο karrigan καθαρίζει στο «δύο εναντίον δύο» με δύο σκοτωμούς με M4A1-S, εξασφαλίζει την ανακατάληψη της περιοχής βόμβας Α στην Inferno και κλέβει τον γύρο από τους FURIA μετά την τοποθέτηση της βόμβας.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Ο σκοτωμός από m0NESY που χάρισε το Major",
+  "description": "Με το AWP στα χέρια, ο m0NESY βρίσκει την τελική βολή καθώς οι Falcons κλείνουν τον τελευταίο γύρο του μεγάλου τελικού εναντίον των FURIA.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "Σουβενίρ Γούρι | Καλύτερες Στιγμές – Κολωνία 2026 | Απονομή τροπαίου σε Falcons",
+  "description": "Οι Falcons κατακτούν το Major IEM Κολωνία 2026.",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Μεγάλος Τελικός",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

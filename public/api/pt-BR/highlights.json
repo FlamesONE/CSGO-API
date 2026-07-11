@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | ultimate pula e mata",
+  "description": "ultimate faz um disparo incrível ao abrir a posição pulando, acertando um tiro na cabeça com a Deagle em Nuke contra a BIG.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | tabseN no clutch contra dois",
+  "description": "tabseN ganha um x2 rápido em Mirage, reduzindo a diferença para 8 a 12 e mantendo a BIG viva para uma virada na prorrogação.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | koala faz a limpa",
+  "description": "koala abre Inferno perfeitamente com as suas Dual Berettas, derrubando os cinco jogadores da TYLOO com tiros na cabeça na rodada das pistolas.",
+  "tournament_event": "Colônia 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Starry leva quatro",
+  "description": "Starry traz a Lynn Vision de volta ao jogo em Ancient, matando quatro enquanto protege a bomba.",
+  "tournament_event": "Colônia 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | asap faz a limpa",
+  "description": "asap interrompe o avanço forçado da MIBR ao matar todos em Inferno, impulsionando a zebra para a THUNDERdOWNUNDER.",
+  "tournament_event": "Colônia 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | hypex mata pela fumaça",
+  "description": "hypex abre a rodada em Inferno com requintes de crueldade, matando um jogador da NRG com o impacto de uma granada de fumaça.",
+  "tournament_event": "Colônia 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | susp no clutch contra três",
+  "description": "susp encerra Inferno em um x3 contra a Gaimin Gladiators, selando a vitória limpa da HEROIC na série por 2x0.",
+  "tournament_event": "Colônia 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | beastik leva quatro",
+  "description": "beastik mata quatro da FlyQuest na 19ª rodada em Ancient para manter a equipe na disputa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Flyquest",
+  "team1": "SINNERS",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | s1zzi no clutch contra três",
+  "description": "s1zzi ganha um x3 sem a bomba armada em Inferno, empatando em 14 a 14 para manter a B8 viva.",
+  "tournament_event": "Colônia 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Magnojez no clutch contra três",
+  "description": "Magnojez ganha um x3 em uma retomada em Dust II, matando todos antes do desarme.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "1ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NertZ faz a limpa",
+  "description": "NertZ domina a Banana em Inferno e mata todos da BIG durante a vitória dominante da G2 no mapa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Gizmy passa a faca",
+  "description": "Gizmy fecha a rodada em Mirage passando a faca em Heavygod, dando à Monte a oportunidade de dois pontos decisivos na segunda prorrogação.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | MATYS faz a limpa",
+  "description": "MATYS destrói a M80, matando todo com uma MP9 em Mirage, dando à G2 o controle inicial do mapa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | saffee leva três",
+  "description": "saffee fecha Nuke contra a Astralis matando três com a AWP, garantindo a virada da paiN Gaming por 13 a 11.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | gr1ks no clutch de AWP contra três",
+  "description": "gr1ks vira um x3 em Ancient matando três com a AWP, incluindo um \\\"espetinho\\\", impedindo a armação da bomba pela B8.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kensizor faz a limpa e avança",
+  "description": "kensizor fecha Dust II em estilo ao matar todos os inimigos, garantindo a série para a B8 e uma vaga na 3ª Fase.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | s1zzi faz a limpa",
+  "description": "s1zzi derruba os cinco jogadores da BIG em Overpass, ajudando a B8 a construir uma primeira metade dominante.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | venomzera no clutch contra três",
+  "description": "venomzera sobrevive por pouco no duelo final de um x3 em Mirage, jogando com o relógio para impedir a armação da bomba pela B8.",
+  "tournament_event": "Colônia 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | donk leva quatro com tiros rápidos",
+  "description": "donk acaba com a 9z em Nuke ao matar quatro, incluindo dois tiros rápidos que surpreendem até ele próprio.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | AZUWU faz a limpa com a Deagle",
+  "description": "AZUWU transforma uma rodada de compra reduzida em Dust II em uma limpeza completa, incluindo quatro vítimas com a Deagle.",
+  "tournament_event": "Colônia 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "2ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | w0nderful com 2 de vida no clutch contra quatro",
+  "description": "w0nderful ganha um x4 contra a G2 em Dust II com apenas 2 de vida, salvando a rodada para a NAVI por conta própria.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro leva quatro, no clutch contra dois",
+  "description": "sh1ro mata quatro jogadores da 9z em Dust II, incluindo um x2 com a bomba armada, e impede a 9z de chegar ao ponto decisivo.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx faz uma limpa diversificada",
+  "description": "magixx mata todos da Aurora, trocando de armas durante a rodada sem perder o embalo.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO no clutch contra três",
+  "description": "KSCERATO ganha um x3 contra a B8 em Inferno, tomando de volta a rodada das pistolas do segundo tempo e negando uma sobrevida no mapa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR leva três",
+  "description": "YEKINDAR impede a entrada da B8 no alvo de explosão B em Mirage com uma matança tripla disciplinada.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | ZywOo faz a limpa no clutch contra três",
+  "description": "ZywOo vira uma rodada difícil contra a FUT, matando todos, incluindo um x3, em Overpass.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | dgt faz a limpa com a pistola",
+  "description": "dgt abre Overpass contra a The Mongolz matando todos com a pistola, um momento de destaque já na primeira rodada do mapa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | woxic no clutch contra quatro",
+  "description": "woxic ganha um x4 insano com a AWP contra a 9z Team em Dust II, com direito a um belo tiro sem a mira.",
+  "tournament_event": "Colônia 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NiKo leva quatro",
+  "description": "NiKo protege o alvo A sozinho em Mirage, acabando com o avanço da Monte ao matar quatro rapidamente com a AK e virando a rodada para a Falcons.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Krabeni faz a limpa",
+  "description": "Krabeni toma o controle em Mirage, quebrando a rodada econômica de Tec-9 da BetBoom ao matar todos.",
+  "tournament_event": "Colônia 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "3ª Fase",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Boombl4 no clutch contra três",
+  "description": "Boombl4 ganha um x3 em Nuke, acertando um tiro após rotação em 180 graus no duelo final para retomar a rodada para a BetBoom.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | soulfly no clutch contra dois",
+  "description": "soulfly ganha um x2 com a bomba armada no alvo B em Nuke, garantindo a vitória dominante da Aurora no mapa.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro faz a limpa",
+  "description": "sh1ro começa a segunda prorrogação em Mirage matando todos, acabando com o avanço da G2 no meio e no alvo B.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx no clutch contra quatro",
+  "description": "magixx ganha um x4 insano em Mirage, cravando a mira no avanço final da G2 e garantindo a rodada.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | donk no clutch contra dois",
+  "description": "donk vence o último clutch em Dust II, quebrando a última tentativa de retomada da G2 e fechando o mapa na prorrogação.",
+  "tournament_event": "Colônia 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke leva três",
+  "description": "kyousuke fecha Anubis para a Falcons ao matar três protegendo o alvo B, derrotando a Vitality.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | mezii mata com um Molotov",
+  "description": "mezii mata TeSeS em Dust II bizarramente com o impacto da garrafa de Molotov.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | yuurih no clutch contra quatro",
+  "description": "yuurih transforma a rodada das pistolas em Mirage em um x4 absurdo, saindo do meio em direção ao alvo A e finalizando o último jogador da 9z Team com a bomba armada.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | HUASOPEEK faz a limpa",
+  "description": "HUASOPEEK interrompe o avanço da FURIA no alvo B em Overpass, matando todos com a MP9 através de uma fumaça no Sapão.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | max no clutch contra dois",
+  "description": "max ganha um x2 em uma retomada pela fumaça no alvo A em Dust II, garantindo a vitória contra a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "Quartas de Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | soulfly leva três",
+  "description": "soulfly encontra a FURIA entrando no alvo B em Dust II e mata três com a MP9, dando à Aurora uma rodada inicial.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO faz a limpa",
+  "description": "KSCERATO mata todos da Aurora em Dust II, fechando a primeira metade com estilo para a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR leva dois",
+  "description": "YEKINDAR fecha a Dust II para a FURIA matando os dois últimos no alvo B, impedindo o avanço final da Aurora.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR leva três",
+  "description": "YEKINDAR derruba três jogadores da Aurora em Nuke, encaminhando bem a rodada para a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO leva quatro",
+  "description": "KSCERATO garante a vitória da FURIA em Nuke, acertando quatro tiros na cabeça com a AK-47 e impedindo o ataque final da Aurora.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke leva três",
+  "description": "kyousuke fecha Anubis em uma retomada contra três, encurralando a Team Spirit e garantindo o mapa na prorrogação.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro leva quatro",
+  "description": "sh1ro vira um 2x4 em Anubis ao matar quatro com a AWP, protegendo a bomba armada enquanto a Falcons ataca o alvo.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | TeSeS no clutch contra dois",
+  "description": "TeSeS ganha um x2 em Dust II para a Falcons, lendo a fumaça perfeitamente e derrubando ambos os jogadores da Team Spirit.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan leva quatro",
+  "description": "karrigan protege o alvo B em Mirage praticamente sozinho, matando quatro e ganhando tempo suficiente contra a investida da Team Spirit.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx leva quatro",
+  "description": "magixx destrói a Falcons protegendo o alvo B em Mirage, matando quatro e garantindo a última rodada do mapa para a Team Spirit.",
+  "tournament_event": "Colônia 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "Semifinal",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Entrada da Falcons",
+  "description": "A Falcons entra na Catedral do Counter-Strike para enfrentar a sua adversária final, a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Entrada da FURIA",
+  "description": "A FURIA entra no palco da Grande Final contra a Falcons.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | FalleN leva quatro",
+  "description": "FalleN acaba com o avanço da Falcons no alvo B em Mirage, matando quatro rapidamente.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY leva quatro",
+  "description": "m0NESY abre Anubis matando quatro com as Dual Berettas na defesa contra a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY leva três no clutch contra dois",
+  "description": "m0NESY ganha um x2 defendendo a bomba armada em Anubis, evasivo na retomada da FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke leva quatro",
+  "description": "kyousuke fecha o alvo B em Inferno contra a FURIA, matando quatro.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan leva três",
+  "description": "karrigan salva o alvo B da Falcons ao matar três rapidamente com a USP-S contra uma compra completa da FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NiKo leva três",
+  "description": "NiKo avança pelo apartamento em Inferno, pegando a FURIA desprevenida e matando três.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan leva dois",
+  "description": "karrigan resolve uma retomada 2x2 no alvo A em Inferno, matando dois com a M4A1-S para garantir o desarme contra a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY mata o último no Mundial",
+  "description": "m0NESY acerta o último tiro com a AWP e a Falcons fecha a última rodada da Grande Final contra a FURIA.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | A Falcons levanta o troféu",
+  "description": "Falcons vence o Mundial Colônia 2026 da IEM.",
+  "tournament_event": "Colônia 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "Grande Final",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

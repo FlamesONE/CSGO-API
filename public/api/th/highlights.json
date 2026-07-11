@@ -17298,5 +17298,1225 @@
    "id": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
    "image_inventory": "econ/keychains/bud2025/kc_bud2025"
   }
+ },
+ {
+  "id": "highlight-866",
+  "def_index": "866",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | ultimate Jump Kill",
+  "description": "ultimate โดดยิงหัวด้วยปืน Desert Eagle สุดเหลือเชื่อในแผนที่ Nuke ตอนที่เจอกับ BIG",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Liquid",
+  "team1": "BIG",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/866.webp",
+  "original": {
+   "id": "cologne2026_st1ultimatenukejumpkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-867",
+  "def_index": "867",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | tabseN 1v2 Clutch",
+  "description": "tabseN ชนะดวล 1v2 อย่างรวดเร็วในแผนที่ Mirage ช่วยไล่ตีตื้นคะแนนกลับมาเป็น 8-12 และช่วยให้ BIG รอดชีวิต ก่อนที่พวกเขาจะพลิกกลับมาเอาชนะได้ในช่วงต่อเวลา",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "NRG",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/867.webp",
+  "original": {
+   "id": "cologne2026_st1tabsenmirage1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-868",
+  "def_index": "868",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | koala ACE",
+  "description": "koala เปิดฉากในแผนที่ Inferno ได้อย่างสมบูรณ์แบบ เก็บเรียบผู้เล่นทั้งห้าคนของ TYLOO ด้วยปืน Dual Berettas ในรอบปืนพก",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Sharks Esports",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/868.webp",
+  "original": {
+   "id": "cologne2026_st1koalainfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-869",
+  "def_index": "869",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Starry Quad Kill",
+  "description": "Starry แบก Lynn Vision กลับเข้าสู่รอบในแผนที่ Ancient ด้วยการคุมจังหวะหลังวางระเบิดพร้อมฆ่าสี่ศัตรูไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "TYLOO",
+  "team1": "Lynn Vision",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/869.webp",
+  "original": {
+   "id": "cologne2026_st1starryancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-870",
+  "def_index": "870",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | asap ACE",
+  "description": "asap ชนะ MIBR ในรอบบังคับซื้อของด้วยการฆ่าหมดศัตรูยกทีมคนเดียวในแผนที่ Inferno ส่งผลให้ THUNDERdOWNUNDER พลิกกลับมาชนะได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "THUNDERdOWNUNDER",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/870.webp",
+  "original": {
+   "id": "cologne2026_st1asapinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-871",
+  "def_index": "871",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | hypex Smoke Kill",
+  "description": "hypex เปิดฉากในแผนที่ Inferno ได้อย่างแปลกประหลาด ด้วยการปาระเบิดควันกระแทกผู้เล่น NRG ตาย",
+  "tournament_event": "Cologne 2026",
+  "team0": "NRG",
+  "team1": "GamerLegion",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/871.webp",
+  "original": {
+   "id": "cologne2026_st1hypexinfernosmokekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-872",
+  "def_index": "872",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | susp 1v3 Clutch",
+  "description": "susp ปิดแมตช์ในแผนที่ Inferno ด้วยการชนะสถานการณ์ดวล 1v3 ใส่ Gaimin Gladiators ทำให้ HEROIC ชนะในซีรีสย์นี้ไป 2-0",
+  "tournament_event": "Cologne 2026",
+  "team0": "HEROIC",
+  "team1": "Gaimin Gladiators",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/872.webp",
+  "original": {
+   "id": "cologne2026_st1suspinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-873",
+  "def_index": "873",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | beastik Quad Kill",
+  "description": "beastik ฆ่าสี่ตอนแข่งกับ FlyQuest รอบที่ 19 ในแผนที่ Ancient ทำให้ทีมของเขายังมีโอกาสลุ้นต่อไป",
+  "tournament_event": "Cologne 2026",
+  "team0": "Flyquest",
+  "team1": "SINNERS",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/873.webp",
+  "original": {
+   "id": "cologne2026_st1beastikancientquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-874",
+  "def_index": "874",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | s1zzi 1v3 Clutch",
+  "description": "s1zzi ชนะคลัตช์ 1v3 โดยไม่ใช้ระเบิดในแผนที่ Inferno และพาทีมตีเสมอเป็น 14-14 ช่วยยื้อชีวิตให้ B8 ได้ไปต่อ",
+  "tournament_event": "Cologne 2026",
+  "team0": "B8",
+  "team1": "M80",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/874.webp",
+  "original": {
+   "id": "cologne2026_st1s1zziinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-875",
+  "def_index": "875",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Magnojez 1v3 Clutch",
+  "description": "Magnojez ชนะคลัตช์ 1v3 ในจังหวะกู้ระเบิดแผนที่ Dust II โดยเก็บเรียบทั้งสามคนก่อนจะปลดชนวนระเบิดได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "Gaimin Gladiators",
+  "stage": "รอบ I",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/875.webp",
+  "original": {
+   "id": "cologne2026_st1magnojezdust21v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-876",
+  "def_index": "876",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | NertZ ACE",
+  "description": "NertZ ยึดจุดบานาน่าในแผนที่ Inferno ไว้ก่อนฆ่ายกทีม BIG ระหว่างที่ G2 ครองเกมเอาชนะในแผนที่นั้นไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "BIG",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/876.webp",
+  "original": {
+   "id": "cologne2026_st2nertzinfernoace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-877",
+  "def_index": "877",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Gizmy Knife Kill",
+  "description": "Gizmy ปิดรอบในแผนที่ Mirage ด้วยการเอามีดแทง Heavygod ทำให้ Monte ได้แต้มแมตช์ในช่วงต่อเวลาสองเท่า",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Monte",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/877.webp",
+  "original": {
+   "id": "cologne2026_st2gizmymirageknifekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-878",
+  "def_index": "878",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | MATYS ACE",
+  "description": "MATYS ถล่มทีม M80 ด้วยการฆ่ายกทีมโดยใช้ปืน MP9 ในแผนที่ Mirage ทำให้ G2 คุมแผนที่ได้ตั้งแต่ต้นเกมสำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "M80",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/878.webp",
+  "original": {
+   "id": "cologne2026_st2matysmirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-879",
+  "def_index": "879",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | saffee Triple Kill",
+  "description": "saffee ปิดแมตช์ในแผนที่ Nuke ใส่ Astralis โดยการฆ่าสามด้วยปืน AWP ทำให้ paiN Gaming พลิกกลับมาชนะไปได้ 13-11 สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Astralis",
+  "team1": "paiN Gaming",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/879.webp",
+  "original": {
+   "id": "cologne2026_st2saffeenuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-880",
+  "def_index": "880",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | gr1ks 1v3 AWP Clutch",
+  "description": "gr1ks พลิกสถานการณ์ดวล 1v3 ในแผนที่ Ancient โดยการฆ่าสามด้วยปืน AWP ซึ่งรวมถึงการยิงทะลุทีเดียวโดนสองคน และสกัดไม่ให้ B8 วางระเบิดได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_ancient",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/880.webp",
+  "original": {
+   "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-881",
+  "def_index": "881",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | kensizor ACE to Advance",
+  "description": "kensizor ปิดฉากแผนที่ Dust II อย่างสวยงามด้วยการฆ่ายกทีม ทำให้ B8 ชนะในซีรีส์พร้อมผ่านเข้าสู่รอบ 3 ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/881.webp",
+  "original": {
+   "id": "cologne2026_st2kensizordust2acetoadvance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-882",
+  "def_index": "882",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | s1zzi ACE",
+  "description": "s1zzi เก็บผู้เล่นทีม BIG เรียบทั้งห้าคนในแผนที่ Overpass ทำให้ B8 ครองความได้เปรียบในช่วงครึ่งแรก",
+  "tournament_event": "Cologne 2026",
+  "team0": "BIG",
+  "team1": "B8",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/882.webp",
+  "original": {
+   "id": "cologne2026_st2s1zzioverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-883",
+  "def_index": "883",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | venomzera 1v3 Clutch",
+  "description": "venomzera รอดตายมาได้อย่างหวุดหวิดในการดวลจังหวะสุดท้ายของสถานการณ์ดวล 1v3 ในแผนที่ Mirage โดยอาศัยการดึงเวลาเพื่อสกัดไม่ให้ B8 วางระเบิดได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "MIBR",
+  "team1": "B8",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/883.webp",
+  "original": {
+   "id": "cologne2026_st2venomzeramirage1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-884",
+  "def_index": "884",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | donk 4K with One Taps",
+  "description": "donk ถล่มทีม 9z ในแผนที่ Nuke ด้วยการฆ่าสี่ ซึ่งรวมถึงจังหวะยิงทีละนัดและฆ่าได้สองที่ทำเอาแม้แต่เจ้าตัวเองยังต้องอึ้ง",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/884.webp",
+  "original": {
+   "id": "cologne2026_st2donknuke4kwithonetaps",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-885",
+  "def_index": "885",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | AZUWU Deagle ACE",
+  "description": "AZUWU พลิกสถานการณ์รอบซื้อของน้อยในแผนที่ Dust II ให้กลายเป็นการเก็บหมดยกทีมโดยใช้ปืน Desert Eagle ฆ่าไปถึงสี่คน",
+  "tournament_event": "Cologne 2026",
+  "team0": "paiN Gaming",
+  "team1": "Monte",
+  "stage": "รอบ II",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/885.webp",
+  "original": {
+   "id": "cologne2026_st2azuwudust2deagleace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-886",
+  "def_index": "886",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | w0nderful 2 HP 1v4 Clutch",
+  "description": "w0nderful ชนะในสถานการณ์ดวล 1v4 กับ G2 ในแผนที่ Dust II ทั้งที่เหลือพลังชีวิตเพียง 2 หน่วย และชนะรอบให้ NAVI ด้วยตัวคนเดียวได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Natus Vincere",
+  "team1": "G2 Esports",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/886.webp",
+  "original": {
+   "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-887",
+  "def_index": "887",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | sh1ro 4K with 1v2 Clutch",
+  "description": "sh1ro ฆ่าสี่ทีม 9z ในแผนที่ Dust II ซึ่งรวมถึงจังหวะดวล 1v2 ในช่วงหลังวางระเบิด ทำให้ 9z ได้แต้มแมตช์ไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "9z Team",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/887.webp",
+  "original": {
+   "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-888",
+  "def_index": "888",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | magixx Multi-weapon ACE",
+  "description": "magixx ฆ่ายกทีมใส่ Aurora พร้อมสลับอาวุธช่วงกลางรอบ ก่อนจะจัดการเก็บคนที่เหลือแบบต่อเนื่องไม่มีแผ่ว",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Aurora",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/888.webp",
+  "original": {
+   "id": "cologne2026_st3magixxanubismultiweaponace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-889",
+  "def_index": "889",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | KSCERATO 1v3 Clutch",
+  "description": "KSCERATO ชนะการดวล 1v3 กับ B8 ในแผนที่ Inferno คว้าชัยรอบปืนพกช่วงครึ่งหลัง และขัดขวางไม่ให้ B8 กลับเข้าสู่เกมได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/889.webp",
+  "original": {
+   "id": "cologne2026_st3ksceratoinferno1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-890",
+  "def_index": "890",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | YEKINDAR Triple Kill",
+  "description": "YEKINDAR สกัดการบุกจุด B ของ B8 ในแผนที่ Mirage ด้วยการดักเก็บไปได้สามคนอย่างเยือกเย็น",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "B8",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/890.webp",
+  "original": {
+   "id": "cologne2026_st3yekindarmiragetriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-891",
+  "def_index": "891",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | ZywOo ACE with 1v3 Clutch",
+  "description": "ZywOo พลิกสถานการณ์ในรอบที่ยากลำบากใส่ FUT ด้วยการเก็บฆ่ายกทีมพร้อมชนะคลัตช์ 1v3 ในแผนที่ Overpass ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "FUT",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/891.webp",
+  "original": {
+   "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-892",
+  "def_index": "892",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | dgt Pistol ACE",
+  "description": "dgt เปิดฉากแผนที่ Overpass ดวลกับ The Mongolz ด้วยการเก็บยกทีมในรอบปืนพก และสร้างไฮไลต์สุดเจ๋งตั้งแต่รอบแรกของแผนที่",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "The MongolZ",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/892.webp",
+  "original": {
+   "id": "cologne2026_st3dgtoverpasspistolace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-893",
+  "def_index": "893",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | woxic 1v4 Clutch",
+  "description": "woxic ชนะการดวล 1v4 สุดเหลือเชื่อด้วยปืน AWP ใส่ 9z Team ในแผนที่ Dust II ซึ่งรวมถึงจังหวะการยิงแบบไม่ใช้กล้องเล็งสุดเท่",
+  "tournament_event": "Cologne 2026",
+  "team0": "9z Team",
+  "team1": "Aurora",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/893.webp",
+  "original": {
+   "id": "cologne2026_st3woxicdust21v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-894",
+  "def_index": "894",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | NiKo Quad Kill",
+  "description": "NiKo ยืนคุมจุด A คนเดียวในแผนที่ Mirage ก่อนจะหยุดการบุกของ Monte ด้วยการรัวปืน AK จนเก็บสี่คนได้อย่างรวดเร็ว และพลิกสถานการณ์ให้ Falcons ชนะรอบนั้นได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Monte",
+  "team1": "Falcons",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/894.webp",
+  "original": {
+   "id": "cologne2026_st3nikomiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-895",
+  "def_index": "895",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Krabeni ACE",
+  "description": "Krabeni คุมเกมในแผนที่ Mirage ได้อย่างสมบูรณ์ และไล่ถล่มรอบประหยัดเงินด้วยปืน Tec-9 ของทีม BetBoom จนยับเยินด้วยการเก็บฆ่ายกทีมได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "BetBoom",
+  "team1": "FUT",
+  "stage": "รอบ III",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/895.webp",
+  "original": {
+   "id": "cologne2026_st3krabenimirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-896",
+  "def_index": "896",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Boombl4 1v3 Clutch",
+  "description": "Boombl4 ชนะการดวล 1v3 ในแผนที่ Nuke ซึ่งรวมถึงจังหวะสะบัดยิง 180 องศาสุดคมในการดวลสุดท้าย ทำให้ BetBoom กลับเข้าสู่เกมในรอบนั้นได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/896.webp",
+  "original": {
+   "id": "cologne2026_qfboombl4nuke1v3clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-897",
+  "def_index": "897",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | soulfly 1v2 Clutch",
+  "description": "soulfly ชนะคลัตช์ 1v2 ช่วงหลังวางระเบิดที่จุด B ในแผนที่ Nuke ทำให้ Aurora คว้าชัยชนะในแผนที่นี้ไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Aurora",
+  "team1": "BetBoom",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/897.webp",
+  "original": {
+   "id": "cologne2026_qfsoulflynuke1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-898",
+  "def_index": "898",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | sh1ro ACE",
+  "description": "sh1ro เปิดฉากช่วงต่อเวลารอบที่สองในแผนที่ Mirage ด้วยการเก็บยกทีมไล่ถล่มการบุกของ G2 ทั้งจุดกลางและจุด B ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/898.webp",
+  "original": {
+   "id": "cologne2026_qfsh1romirageace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-899",
+  "def_index": "899",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | magixx 1v4 Clutch",
+  "description": "magixx ชนะการดวล 1v4 สุดเหลือเชื่อในแผนที่ Mirage โดยใช้ความแม่นยำตัวเองยิงสวนการบุกจังหวะสุดท้ายของ G2 พร้อมปล้นชัยชนะในรอบนั้นไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/899.webp",
+  "original": {
+   "id": "cologne2026_qfmagixxmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-900",
+  "def_index": "900",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | donk 1v2 Clutch",
+  "description": "donk ชนะคลัตช์ในแผนที่ Dust II แมตช์สุดท้าย โดยทำลายความพยายามยึดคืนพื้นที่สุดท้ายของ G2 พร้อมปิดเกมในแผนที่นี้ช่วงต่อเวลาได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "G2 Esports",
+  "team1": "Team Spirit",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/900.webp",
+  "original": {
+   "id": "cologne2026_qfdonkdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-901",
+  "def_index": "901",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | kyousuke 3 Kills",
+  "description": "kyousuke ปิดฉากแผนที่ Anubis ให้กับ Falcons ด้วยการฆ่าไปสามที่จุด B เอาชนะ Vitality ไปได้",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/901.webp",
+  "original": {
+   "id": "cologne2026_qfkyousukeanubis3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-902",
+  "def_index": "902",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | mezii Molotov Kill",
+  "description": "mezii จัดการ TeSeS ในแผนที่ Dust II ด้วยการปาระเบิดขวดกระแทกใส่จนตายอย่างสุดแปลกประหลาด",
+  "tournament_event": "Cologne 2026",
+  "team0": "Vitality",
+  "team1": "Falcons",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/902.webp",
+  "original": {
+   "id": "cologne2026_qfmeziidust2molotovkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-903",
+  "def_index": "903",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | yuurih 1v4 Clutch",
+  "description": "yuurih พลิกสถานการณ์ในรอบปืนพกของแผนที่ Mirage ให้กลายเป็นการดวล 1v4 สุดเหลือเชื่อ โดยแอบปลีกตัวจากจุดกลางไปจุด A และจัดการผู้เล่นคนสุดท้ายของทีม 9z ได้สำเร็จหลังวางระเบิด",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/903.webp",
+  "original": {
+   "id": "cologne2026_qfyuurihmirage1v4clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-904",
+  "def_index": "904",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | HUASOPEEK ACE",
+  "description": "HUASOPEEK สกัดการบุกจุด B ของ FURIA ในแผนที่ Overpass ด้วยการใช้ปืน MP9 กราดยิงทะลุม่านควันตรงตำแหน่งอุโมงค์สัตว์ประหลาดจนเก็บศัตรูยกทีมได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_overpass",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/904.webp",
+  "original": {
+   "id": "cologne2026_qfhuasopeekoverpassace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-905",
+  "def_index": "905",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | max 1v2 Clutch",
+  "description": "max ชนะคลัตช์ 1v2 ช่วงหลังวางระเบิดโดยบุกทะลุม่านควันในจุด A ของแผนที่ Dust II และคว้าชัยชนะให้ FURIA ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "9z Team",
+  "stage": "รอบก่อนรองชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/905.webp",
+  "original": {
+   "id": "cologne2026_qfmaxdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-906",
+  "def_index": "906",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | soulfly 3 Kills",
+  "description": "soulfly ดักเก็บทีม FURIA ขณะกำลังออกจากอุโมงค์ B ในแผนที่ Dust II โดยใช้ปืน MP9 ฆ่าได้สามคน ทำให้ Aurora คว้าชัยในรอบแรกได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/906.webp",
+  "original": {
+   "id": "cologne2026_sfsoulflydust23kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-907",
+  "def_index": "907",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | KSCERATO ACE",
+  "description": "KSCERATO เก็บยกทีม Aurora ในแผนที่ Dust II และปิดฉากช่วงครึ่งแรกไปได้อย่างเหนือชั้นให้กับทีม FURIA",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/907.webp",
+  "original": {
+   "id": "cologne2026_sfksceratodust2ace",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-908",
+  "def_index": "908",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | YEKINDAR 2 Kills",
+  "description": "YEKINDAR ปิดฉากแผนที่ Dust II ให้กับ FURIA ด้วยการฆ่าสองคนสุดท้ายที่จุด B สกัดการบุกครั้งสุดท้ายของ Aurora จากอุโมงค์ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/908.webp",
+  "original": {
+   "id": "cologne2026_sfyekindardust22kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-909",
+  "def_index": "909",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | YEKINDAR 3 Kills",
+  "description": "YEKINDAR กำจัดผู้เล่นของทีม Aurora ไปสามคนในแผนที่ Nuke และเปิดทางให้ FURIA ชนะรอบนั้นไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/909.webp",
+  "original": {
+   "id": "cologne2026_sfyekindarnuketriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-910",
+  "def_index": "910",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | KSCERATO Quad Kill",
+  "description": "KSCERATO คว้าชัยชนะในแมตช์นี้ให้กับทีม FURIA ในแผนที่ Nuke ด้วยการยิงหัวเก็บสี่ด้วยปืน AK และสกัดการบุกระลอกสุดท้ายของทีม Aurora ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Aurora",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_nuke",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/910.webp",
+  "original": {
+   "id": "cologne2026_sfksceratonukequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-911",
+  "def_index": "911",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | kyousuke Triple Kill",
+  "description": "kyousuke ปิดเกมในแผนที่ Anubis ด้วยการเอาคืนจนฆ่าศัตรูไปสามคน และปิดล้อม Team Spirit เอาไว้จนมุม พร้อมปล้นชัยชนะแผนที่นี้ในช่วงต่อเวลาได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/911.webp",
+  "original": {
+   "id": "cologne2026_sfkyousukeanubistriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-912",
+  "def_index": "912",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | sh1ro Quad Kill",
+  "description": "sh1ro พลิกสถานการณ์ดวล 2v4 ในแผนที่ Anubis ด้วยการใช้ปืน AWP กำจัดศัตรูไปได้ถึงสี่คน และช่วยกู้สถานการณ์ในช่วงหลังวางระเบิดเอาไว้ได้ หลังจากที่ทีม Falcons กำลังบุกมาในพื้นที่",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/912.webp",
+  "original": {
+   "id": "cologne2026_sfsh1roanubisquadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-913",
+  "def_index": "913",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | TeSeS 1v2 Clutch",
+  "description": "TeSeS ชนะการดวล 1v2 ในแผนที่ Dust2 ให้กับทีม Falcons โดยอ่านการเคลื่อนไหวของม่านควันได้อย่างทะลุปรุโปร่ง ก่อนจะกำจัดผู้เล่นของ Team Spirit ทั้งสองคนได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_dust2",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/913.webp",
+  "original": {
+   "id": "cologne2026_sftesesdust21v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-914",
+  "def_index": "914",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | karrigan 4 Kills",
+  "description": "karrigan ยึดจุด B ในแผนที่ Mirage ไว้ด้วยตัวคนเดียวพร้อมกำจัดศัตรูไปได้ถึงสี่คน และช่วยซื้อเวลาได้มากพอที่จะต้านการบุกของ Team Spirit ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/914.webp",
+  "original": {
+   "id": "cologne2026_sfkarriganmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-915",
+  "def_index": "915",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | magixx 4 Kills",
+  "description": "magixx กราดยิงใส่ทีม Falcons จนร่วงคาจุด B ของแผนที่ Mirage พร้อมโชว์ฟอร์มเก็บศัตรูไปได้สี่คน ทำให้ Team Spirit ชนะรอบสุดท้ายของแผนที่นี้ไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "Team Spirit",
+  "team1": "Falcons",
+  "stage": "รอบรองชนะเลิศ",
+  "tournament_player": "Sf",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/915.webp",
+  "original": {
+   "id": "cologne2026_sfmagixxmirage4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-916",
+  "def_index": "916",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Falcons Team Entrance",
+  "description": "Falcons ก้าวเท้าเข้าสู่มหาวิหารแห่ง Counter-Strike เพื่อเผชิญหน้ากับคู่ต่อสู้สุดท้ายของพวกเขาอย่าง FURIA",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/916.webp",
+  "original": {
+   "id": "cologne2026_gffalconsteamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-917",
+  "def_index": "917",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | FURIA Team Entrance",
+  "description": "FURIA ก้าวเข้าสู่รอบชิงชนะเลิศและเตรียมเผชิญหน้ากับ Falcons",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/917.webp",
+  "original": {
+   "id": "cologne2026_gffuriateamentrance",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-918",
+  "def_index": "918",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | FalleN Quad Kill",
+  "description": "FalleN ถล่มใส่ Falcons ขณะกำลังบุกเข้าจุด B ในแผนที่ Mirage พร้อมกำจัดศัตรูสี่คนไปได้อย่างรวดเร็ว",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_mirage",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/918.webp",
+  "original": {
+   "id": "cologne2026_gffallenmiragequadkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-919",
+  "def_index": "919",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | m0NESY 4 Kills",
+  "description": "m0NESY เปิดฉากแผนที่ Anubis ด้วยการใช้ปืน Dual Elites สอย FURIA ร่วงไปถึงสี่คนในการป้องกันพื้นที่",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/919.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-920",
+  "def_index": "920",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | m0NESY 3 Kills with 1v2 Clutch",
+  "description": "m0NESY ชนะการดวล 1v2 ช่วงหลังวางระเบิดในแผนที่ Anubis และหลอกล่อให้ FURIA เข้ามายึดพื้นที่ได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_anubis",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/920.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-921",
+  "def_index": "921",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | kyousuke 4 Kills",
+  "description": "kyousuke สกัดการบุกจุด B ในแผนที่ Inferno ของ FURIA ได้อยู่หมัด พร้อมกำจัดศัตรูไปสี่คน",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/921.webp",
+  "original": {
+   "id": "cologne2026_gfkyousukeinferno4kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-922",
+  "def_index": "922",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | karrigan 3 Kills",
+  "description": "karrigan ป้องกันจุด B ในแผนที่ Inferno ให้กับ Falcons ไว้ได้ด้วยการใช้ปืน USP-S สอยรวดเดียวฆ่าสามคนในรอบซื้อของแบบจัดเต็มของ FURIA ได้อย่างเหลือเชื่อ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/922.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinferno3kills",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-923",
+  "def_index": "923",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | NiKo Triple Kill",
+  "description": "NiKo ย่องผ่านอพาร์ตเมนท์ในแผนที่ Inferno และโชว์ฝีมือตลบหลังจนเก็บทีม FURIA ไปสามศพ ก่อนที่อีกฝ่ายจะทันได้ตั้งตัว",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/923.webp",
+  "original": {
+   "id": "cologne2026_gfnikoinfernotriplekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-924",
+  "def_index": "924",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | karrigan Double Kill",
+  "description": "karrigan คลี่คลายสถานการณ์ดวล 2v2 ในการยึดพื้นที่จุด A ของแผนที่ Inferno ด้วยการใช้ปืน M4A1-S สอยไปอีกฝ่ายสองศพ และปล้นชัยชนะของ FURIA ในช่วงหลังวางระเบิดได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/924.webp",
+  "original": {
+   "id": "cologne2026_gfkarriganinfernodoublekill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-925",
+  "def_index": "925",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | m0NESY Major-winning Kill",
+  "description": "m0NESY ลั่นไก AWP นัดสุดท้ายใส่ Falcons ปิดฉากรอบสุดท้ายของรอบชิงชนะเลิศที่ดวลกับ FURIA ไปได้สำเร็จ",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/925.webp",
+  "original": {
+   "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
+ },
+ {
+  "id": "highlight-926",
+  "def_index": "926",
+  "name": "พวงกุญแจ (Souvenir) | ไฮไลต์ Cologne 2026 | Falcons Trophy-lifting Moment",
+  "description": "Falcons ชนะเมเจอร์ IEM Cologne 2026",
+  "tournament_event": "Cologne 2026",
+  "team0": "FURIA",
+  "team1": "Falcons",
+  "stage": "รอบชิงชนะเลิศ",
+  "tournament_player": "Unknown Player",
+  "map": "de_inferno",
+  "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png",
+  "video": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm",
+  "thumbnail": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/926.webp",
+  "original": {
+   "id": "cologne2026_gffalconstrophyliftingmoment",
+   "image_inventory": "econ/keychains/cologne2026/kc_cologne2026"
+  }
  }
 ]

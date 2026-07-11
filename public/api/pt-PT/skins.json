@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Potente e fiável, a AK-47 é uma das espingardas de assalto mais populares do mundo. É mais mortífera ao disparar rajadas curtas e controladas de balas. Esta arma em particular foi pintada com uma gradação azul e cor-de-rosa de alto brilho, assim como outros elementos gráficos.\\n\\n<i>Escreve \\\"kill\\\" na consola</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Secreto",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "Potente e fiável, a AK-47 é uma das espingardas de assalto mais populares do mundo. É mais mortífera ao disparar rajadas curtas e controladas de balas. Esta arma em particular foi pintada com o desenho de um grou sobre um fundo preto e branco.\\n\\n<i>O momento que precede a chegada da lua de sangue</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "Potente e fiável, a AK-47 é uma das espingardas de assalto mais populares do mundo. É mais mortífera ao disparar rajadas curtas e controladas de balas. Esta arma em particular foi pintada de cor de laranja e decorada com chamas douradas brilhantes. O desenho de um génio foi pintado sobre a arma e o carregador.\\n\\n<i>Pensa bem no desejo que vais pedir...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Secreto",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "Potente e precisa, a AUG é uma espingarda de assalto com uma mira telescópica que, apesar de ter um tempo de carregamento longo, tem uma frequência de disparo elevada. Esta arma em particular foi decorada com padrões multicoloridos sobre um fundo mate preto.\\n\\n<i>A tentar estabelecer ligação ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "Potente e precisa, a AUG é uma espingarda de assalto com uma mira telescópica que, apesar de ter um tempo de carregamento longo, tem uma frequência de disparo elevada. Esta arma em particular foi decorada com um padrão branco, azul e dourado que faz lembrar lápis-lazúli.\\n\\n<i>Um modelo de requinte, tão poderoso como frágil</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "Potente e precisa, a AUG é uma espingarda de assalto com uma mira telescópica que, apesar de ter um tempo de carregamento longo, tem uma frequência de disparo elevada. Esta arma em particular foi pintada para replicar a aparência e a sensação de um casaco almofadado e acabada com detalhes de bronze.\\n\\n<i>O pacote premium</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "A célebre AWP é arriscada de se usar mas extremamente mortífera, sendo conhecida por causar uma morte instantânea com cada tiro certeiro. Esta arma em particular foi pintada com tinta mate preta e decorada com uma faixa cor de laranja.\\n\\n<i>\\\"Nada vistoso, percebes?\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "A célebre AWP é arriscada de se usar mas extremamente mortífera, sendo conhecida por causar uma morte instantânea com cada tiro certeiro. Esta arma em particular foi pintada com uma vibrante gradação verde e azul.\\n\\n<i>Cores tão frias como a vingança</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "A célebre AWP é arriscada de se usar mas extremamente mortífera, sendo conhecida por causar uma morte instantânea com cada tiro certeiro. Esta arma em particular foi decorada com uma mira telescópica dourada e um padrão de chamas.\\n\\n<i>O triunfo dos soberanos</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Secreto",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -16622,7 +17024,7 @@
  {
   "id": "skin-549330dac6c0",
   "name": "AWP | The Prince",
-  "description": "A célebre AWP é arriscada de se usar mas extremamente mortífera, sendo conhecida por causar uma morte instantânea com cada tiro certeiro. Esta arma em particular foi decorada com filigrana dourada sobre uma base vermelha\\n\\n<i>Que a paz esteja convosco</i>",
+  "description": "A célebre AWP é arriscada de se usar mas extremamente mortífera, sendo conhecida por causar uma morte instantânea com cada tiro certeiro. Esta arma em particular foi decorada com filigrana dourada sobre um fundo vermelho.\\n\\n<i>Que a paz esteja convosco</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "Bayonet ★ | Slaughter",
-  "description": "Praticamente inalterada desde a Segunda Guerra Mundial, a baioneta ainda tem o seu devido lugar na estratégia militar moderna. O uso da baioneta tem continuado a ser eficaz em eventos relativamente recentes, como a Segunda Guerra do Golfo e a guerra no Afeganistão. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Praticamente inalterada desde a Segunda Guerra Mundial, a baioneta ainda tem o seu devido lugar na estratégia militar moderna. O uso da baioneta tem continuado a ser eficaz em eventos relativamente recentes, como a Segunda Guerra do Golfo e a guerra no Afeganistão. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "A submetralhadora Bizon causa pouco dano, mas é única pelo seu enorme carregador e pode ser carregada rapidamente. Esta arma em particular foi pintada com um visual dourado e cor de bronze.\\n\\n<i>Balas e bronze</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "Uma variante totalmente automática da CZ75, a CZ75-Auto é a escolha ideal a curto prazo para dar a volta à partida e conseguir obter uma arma do inimigo. Mas com tão poucas munições no carregador, é preciso moderar os disparos. O carregador desta arma em particular foi pintada de forma que pareça feita de polímero transparente. A palavra \\\"HYDRA\\\" foi pintada acima do gatilho.\\n\\n<i>És tu, Héracles?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "Uma variante totalmente automática da CZ75, a CZ75-Auto é a escolha ideal a curto prazo para dar a volta à partida e conseguir obter uma arma do inimigo. Mas com tão poucas munições no carregador, é preciso moderar os disparos. Esta arma em particular não só foi pintada à mão de roxo e cor de rosa, como também decorada com pequenos decalques felinos.\\n\\n<i>24 balas, 7 vidas</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "Tão cara como potente, a Desert Eagle é uma pistola icónica que, apesar de ser difícil de dominar, é surpreendentemente precisa a longas distâncias. Esta arma em particular foi pintada com um padrão metalizado prateado, preto e azul.\\n\\n<i>Não percas o fio à meada</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidencial",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "Tão cara como potente, a Desert Eagle é uma pistola icónica que, apesar de ser difícil de dominar, é surpreendentemente precisa a longas distâncias. Esta arma em particular foi pintada com um padrão de chamas roxas e azuis produzido com tinta perolada.\\n\\n<i>Uma arma de qualidades e habilidades excecionais</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "Disparar duas Berettas ao mesmo tempo significa uma baixa precisão e um tempo de carregamento maior. Mas vendo por um lado positivo, estás a dar tiros com duas pistolas de uma só vez. Estas armas em particular foram pintadas com linhas ondulantes douradas que formam um olho do deserto quando são sobrepostas.\\n\\n<i>Duas armas, uma visão</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "Uma opção barata quando há pouco dinheiro, a FAMAS preenche eficazmente aquele vazio entre as espingardas mais caras e as submetralhadoras menos eficientes. Esta arma em particular foi pintada de preto e vermelho.\\n\\n<i>Fato e óculos de sol vendidos separadamente</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "Uma opção barata quando há pouco dinheiro, a FAMAS preenche eficazmente aquele vazio entre as espingardas mais caras e as submetralhadoras menos eficientes. Esta arma em particular foi pintada com o desenho de uma serpente verde com um contorno dourado sobre um fundo mate dourado.\\n\\n<i>Uma centelha de esperança</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "Muito precisa e útil contra oponentes com colete e capacete, a Five-Seven é cara e lenta a carregar, mas possui 20 balas no carregador e baixo recuo. Esta arma em particular foi decorada com o emblema do deserto em cores roxas e prateadas.\\n\\n<i>O destino chama</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "A Glock 18 é uma das pistolas disponíveis na primeira ronda e é eficaz contra oponentes sem colete nem capacete, sendo capaz de disparar rajadas de três balas. Esta arma em particular foi personalizada com tinta vermelha em diferentes tonalidades.\\n\\n<i>Não quero saber se foste seguido, agora estás aqui - Valeria Jenner, revolucionária</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Secreto",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "A Glock 18 é uma das pistolas disponíveis na primeira ronda e é eficaz contra oponentes sem colete nem capacete, sendo capaz de disparar rajadas de três balas. Esta arma em particular foi pintada com um padrão bege e preto.\\n\\n<i>Informações desatualizadas continuam a ser informações...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "A Glock 18 é uma das pistolas disponíveis na primeira ronda e é eficaz contra oponentes sem colete nem capacete, sendo capaz de disparar rajadas de três balas. Esta arma em particular foi pintada com cores de néon e tinta metalizada com efeito de purpurina.\\n\\n<i>É um bocado vistosa demais para mim, mas também não sou o público-alvo... - Booth, traficante de armas</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "Faca Butterfly ★ | Slaughter",
-  "description": "Esta é uma faca butterfly, também conhecida como faca borboleta. A característica que mais define esta arma é a abertura que permite à lâmina entrar ou sair da empunhadura livremente num eixo giratório. Devido a isto, as facas butterfly são ilegais em muitos países. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta é uma faca butterfly, também conhecida como faca borboleta. A característica que mais define esta arma é a abertura que permite à lâmina entrar ou sair da empunhadura livremente num eixo giratório. Devido a isto, as facas butterfly são ilegais em muitos países. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "Faca Survival ★ | Slaughter",
-  "description": "Esta faca multifuncional tem uma lâmina serrada pensada para lacerar materiais espessos como osso ou fibra, e uma ponta afiada em forma de gancho. O cabo de material compósito está aparafusado à lâmina com porcas hexagonais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta faca multifuncional tem uma lâmina serrada pensada para lacerar materiais espessos como osso ou fibra, e uma ponta afiada em forma de gancho. O cabo de material compósito está aparafusado à lâmina com porcas hexagonais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "Faca Paracord ★ | Slaughter",
-  "description": "Esta faca de sobrevivência de lâmina fixa foi concebida para poder ser usada tanto como arma como ferramenta para, por exemplo, armar armadilhas, caçar animais ou cortar folhagem. O cabo está envolto em corda multiúsos. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta faca de sobrevivência de lâmina fixa foi concebida para poder ser usada tanto como arma como ferramenta para, por exemplo, armar armadilhas, caçar animais ou cortar folhagem. O cabo está envolto em corda multiúsos. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "Faca Clássica ★ | Slaughter",
-  "description": "Um clássico da série Counter-Strike, esta faca representa um equilíbrio harmonioso entre a estelite no fio da lâmina e o titânio no dorso e na superfície. O cabo é feito de marfim de mastodonte fossilizado, reforçado com fibra de carbono. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Um clássico da série Counter-Strike, esta faca representa um equilíbrio harmonioso entre a estelite no fio da lâmina e o titânio no dorso e na superfície. O cabo é feito de marfim de mastodonte fossilizado, reforçado com fibra de carbono. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "Faca Falchion ★ | Slaughter",
-  "description": "Uma homenagem moderna à espada falchion, esta lâmina côncava tem uma borda curva. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Uma homenagem moderna à espada falchion, esta lâmina côncava tem uma borda curva. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "Flip Knife ★ | Slaughter",
-  "description": "As facas retráteis têm uma lâmina curva ao estilo persa e de uma ponta afiada. Embora a própria ponta possa ser frágil, a estrutura geral das facas retráteis é surpreendentemente robusta. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "As facas retráteis têm uma lâmina curva ao estilo persa e de uma ponta afiada. Embora a própria ponta possa ser frágil, a estrutura geral das facas retráteis é surpreendentemente robusta. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "Gut Knife ★ | Slaughter",
-  "description": "A característica mais notável deste tipo de facas é a forma de gancho na ponta da lâmina. Popular entre caçadores por ajudar a remover as entranhas de animais caçados, o gancho é também útil para cortar facilmente materiais fibrosos, como cordas, correias ou cintos de segurança. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "A característica mais notável deste tipo de facas é a forma de gancho na ponta da lâmina. Popular entre caçadores por ajudar a remover as entranhas de animais caçados, o gancho é também útil para cortar facilmente materiais fibrosos, como cordas, correias ou cintos de segurança. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "Faca Navaja ★ | Slaughter",
-  "description": "Esta navalha de punho de mármore e esmalte esconde uma lâmina pequena, porém cruelmente afiada. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta navalha de punho de mármore e esmalte esconde uma lâmina pequena, porém cruelmente afiada. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "Karambit ★ | Slaughter",
-  "description": "A karambit é uma faca vinda da Indonésia, cuja forma curva foi inspirada nas garras dos tigres, e faz parte da tradição das artes marciais de \\\"silat\\\" do Sudeste Asiático. A faca é tipicamente empunhada para baixo, com o dedo indicador no aro. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "A karambit é uma faca vinda da Indonésia, cuja forma curva foi inspirada nas garras dos tigres, e faz parte da tradição das artes marciais de \\\"silat\\\" do Sudeste Asiático. A faca é tipicamente empunhada para baixo, com o dedo indicador no aro. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "Faca Kukri ★ | Slaughter",
-  "description": "Usada em rituais tradicionais, como casamentos ou esfaqueamentos. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Usada em rituais tradicionais, como casamentos ou esfaqueamentos. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "M9 Bayonet ★ | Slaughter",
-  "description": "A baioneta M-9, apesar de ser originalmente pensada para ser adaptada no cano de espingardas, é igualmente letal como arma corpo a corpo. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "A baioneta M-9, apesar de ser originalmente pensada para ser adaptada no cano de espingardas, é igualmente letal como arma corpo a corpo. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "Faca Nomad ★ | Slaughter",
-  "description": "Esta faca de caça dobrável e ergonómica possui um cabo de material compósito e uma lâmina reforçada e larga, útil para cortar e separar materiais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta faca de caça dobrável e ergonómica possui um cabo de material compósito e uma lâmina reforçada e larga, útil para cortar e separar materiais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "Shadow Daggers ★ | Slaughter",
-  "description": "Estas adagas, criadas para brutalidade eficiente, são tão simples de usar como dar um soco ou dois. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Estas adagas, criadas para brutalidade eficiente, são tão simples de usar como dar um soco ou dois. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "Faca Skeleton ★ | Slaughter",
-  "description": "A empunhadura desta faca de espiga esqueletizada foi embrulhada em fita para que possa ser manuseada melhor. O orifício no centro permite que a faca seja segurada com um dedo de uma forma estável e segura. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "A empunhadura desta faca de espiga esqueletizada foi embrulhada em fita para que possa ser manuseada melhor. O orifício no centro permite que a faca seja segurada com um dedo de uma forma estável e segura. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "Faca Stiletto ★ | Slaughter",
-  "description": "Historicamente um alvo de polémica e até regulamentações, este estilete de estilo italiano possui uma lâmina retrátil por mola, que pode ser acionada quase instantaneamente ao pressionar um botão. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Historicamente um alvo de polémica e até regulamentações, este estilete de estilo italiano possui uma lâmina retrátil por mola, que pode ser acionada quase instantaneamente ao pressionar um botão. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "Faca Bowie ★ | Slaughter",
-  "description": "Uma faca Bowie de lâmina parcialmente serrada, concebida para uso intensivo em situações de sobrevivência brutais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Uma faca Bowie de lâmina parcialmente serrada, concebida para uso intensivo em situações de sobrevivência brutais. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "Faca Huntsman ★ | Slaughter",
-  "description": "Uma faca concebida para operações táticas modernas, cuja lâmina é adequada tanto para combate como para fins utilitários. O gume distinto permite um nível máximo de penetração através da mais rígida das superfícies. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Uma faca concebida para operações táticas modernas, cuja lâmina é adequada tanto para combate como para fins utilitários. O gume distinto permite um nível máximo de penetração através da mais rígida das superfícies. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "Faca Ursus ★ | Slaughter",
-  "description": "Esta faca de sobrevivência estilo tantō trata-se de um modelo integral com uma lâmina facetada e complementado com um punho de impacto. Sem complicações nem peças móveis - apenas uma faca confiável e sempre pronta para qualquer trabalho. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta faca de sobrevivência estilo tantō trata-se de um modelo integral com uma lâmina facetada e complementado com um punho de impacto. Sem complicações nem peças móveis - apenas uma faca confiável e sempre pronta para qualquer trabalho. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "Faca Talon ★ | Slaughter",
-  "description": "Esta karambit com um punho de marfim possui rebites de latão e uma lâmina parcialmente serrada, para que corte quando entrar em contacto com o alvo e rasgue a carne quando sair. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas<i>",
+  "description": "Esta karambit com um punho de marfim possui rebites de latão e uma lâmina parcialmente serrada, para que corte quando entrar em contacto com o alvo e rasgue a carne quando sair. Esta arma em particular foi pintada com um padrão de listras de zebra com tintas de alumínio e cobre com várias refletividades, tendo sido depois tratada com uma camada de tinta vermelha.\\n\\n<i>A Valeria não paga ao Javier para fazer perguntas... Ela paga-lhe para arrancar respostas</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "A M4A4 é a espingarda de assalto automática de eleição para qualquer Contraterrorista: é mais precisa do que a sua rival AK-47, porém causa relativamente menos dano. Esta arma em particular foi pintada com tinta mate preta e prateada, e decorada com elementos gráficos brancos.\\n\\n<i>A função é mais importante do que o estilo</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "A M4A4 é a espingarda de assalto automática de eleição para qualquer Contraterrorista: é mais precisa do que a sua rival AK-47, porém causa relativamente menos dano. Esta arma em particular foi pintada com uma serpente vermelha sobre um fundo bege.\\n\\n<i>O poder que possuis requer moderação</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidencial",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "A M4A4 é a espingarda de assalto automática de eleição para qualquer Contraterrorista: é mais precisa do que a sua rival AK-47, porém causa relativamente menos dano. Esta arma em particular foi pintada com uma base cor de vinho.\\n\\n<i>AVISO: risco de sobreaquecimento em caso de disparos prolongados</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "A M4A1 com silenciador tem menos capacidade de carregador do que a M4A4, mas dá disparos menos barulhentos, tem um menor recuo e uma melhor precisão. Esta arma em particular foi pintada com tinta verde perolada.\\n\\n<i>Para quando ser subtil não é uma opção</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidencial",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "A submetralhadora MAC-10 é praticamente uma caixa que cospe balas. Tem uma frequência de disparo elevada, mas tem uma precisão muito pobre e um recuo muito alto. Esta arma em particular foi pintada com um padrão dinâmico de um cenário inspirado no Médio Oriente.\\n\\n<i>Areias sempre em constante movimento</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "A submetralhadora MAC-10 é praticamente uma caixa que cospe balas. Tem uma frequência de disparo elevada, mas tem uma precisão muito pobre e um recuo muito alto. Esta MAC-10 em particular foi pintada de forma que pareça ser oca quando vista por trás.\\n\\n<i>Feita à medida</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "A submetralhadora MAC-10 é praticamente uma caixa que cospe balas. Tem uma frequência de disparo elevada, mas tem uma precisão muito pobre e um recuo muito alto. Esta arma em particular foi pintada de forma a parecer-se com uma câmara portátil.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "Vinda da Alemanha, a submetralhadora MP7 é versátil, cara e a opção perfeita para causar imenso dano em curtas distâncias. Esta arma em particular foi decorada com os números 1 e 0 sobre um fundo verde e preto.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "Vinda da Alemanha, a submetralhadora MP7 é versátil, cara e a opção perfeita para causar imenso dano em curtas distâncias. Esta arma em particular foi decorada com uma cara risonha e as palavras \\\"Just Smile\\\" a amarelo sobre um fundo azul e roxo.\\n\\n<i>\\\"Olha o passarinho!\\\"</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "Produzida na Suíça, a submetralhadora MP9 é uma arma inovadora e ergonómica, muito usada por empresas de segurança privadas. Nesta arma em particular, uma serpente foi pintada com pinceladas brancas ao estilo de caligrafia sobre um fundo bege.\\n\\n<i>Um artefacto invulgar vindo de um mundo árido</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "Produzida na Suíça, a submetralhadora MP9 é uma arma inovadora e ergonómica, muito usada por empresas de segurança privadas. Esta arma em particular foi pintada de prateado, preto e azul, com detalhes contemporâneos incrustados na tinha prateada.\\n\\n<i>Um toque pessoal, mas subtil</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "Produzida na Suíça, a submetralhadora MP9 é uma arma inovadora e ergonómica, muito usada por empresas de segurança privadas. Esta arma em particular foi decorada com detalhes azuis sobre um fundo acetinado branco.\\n\\n<i>Os resultados podem variar</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Submetralhadoras"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "O preço relativamente baixo da Nova torna-a numa ótima arma de emboscada para uma equipa com pouco dinheiro. Esta arma em particular foi pintada com tinta cor de areia.\\n\\n<i>A força começa com a luz</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Armas Pesadas"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "O preço relativamente baixo da Nova torna-a numa ótima arma de emboscada para uma equipa com pouco dinheiro. Esta arma em particular foi decorada com formas geométricas simples e detalhes realistas inspirados pelo surrealismo abstrato e as obras de artistas do século XX.\\n\\n<i>Olhos nos olhos</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "O preço relativamente baixo da Nova torna-a numa ótima arma de emboscada para uma equipa com pouco dinheiro. Esta arma em particular foi decorada com a imagem de um cérebro perto da mira traseira, pintado de forma a parecer integrado na arma, e acabada com tinta prateada metalizada.\\n\\n<i>A união da tecnologia com o orgânico</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Armas Pesadas"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "Sendo uma pistola de baixo recuo e uma frequência de disparo elevada, a P250 é uma opção relativamente económica contra inimigos de colete e capacete. Esta arma em particular foi pintada com tinta escamada metalizada dourada e azul.\\n\\n<i>Mais vale um lótus na mão do que dois no feed de mortes recentes no canto do ecrã</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restrito",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 Revolver | Monarch",
+  "description": "O revólver R8 dispara balas precisas e potentes, mas tens de manter o gatilho apertado durante um curto período antes de cada disparo. Porém, é possível pressionar a parte de trás do revólver quando precisares de disparar rapidamente à queima-roupa (usa o botão de disparo secundário para tal). Esta arma em particular foi pintada de cor de laranja e cinzento, e decorada com detalhes de bronze.\\n\\n<i>Um símbolo de prestígio e autoridade</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 Revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8 Revolver | Tango",
   "description": "O revólver R8 dispara balas precisas e potentes, mas tens de manter o gatilho apertado durante um curto período antes de cada disparo. Porém, é possível pressionar a parte de trás do revólver quando precisares de disparar rapidamente à queima-roupa (usa o botão de disparo secundário para tal). Esta arma em particular foi decorada com ilustrações de rosas e uma empunhadura de madeira.\\n\\n<i>Aceitas?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Lunar Wyrm",
+  "description": "Esta clássica caçadeira de cano serrado causa imenso dano a curtas distâncias, mas com a sua baixa precisão, elevada dispersão e frequência lenta dos disparos, é melhor que tenhas boa pontaria. Esta arma em particular foi decorada com o desenho de uma serpente sobre um fundo carmesim.\\n\\n<i>Enrolada nas profundezas do mundo</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Armas Pesadas"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-Off | Irradiated Alert",
   "description": "Esta clássica caçadeira de cano serrado causa imenso dano a curtas distâncias, mas com a sua baixa precisão, elevada dispersão e frequência lenta dos disparos, é melhor que tenhas boa pontaria. Esta arma em particular foi pintada a spray e decorada com símbolos de aviso radioativos.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "A SCAR-20 é uma espingarda sniper semiautomática que, apesar de ser cara e reduzir a mobilidade do seu portador, tem uma frequência de disparo elevada e causa uma grande quantidade de dano a longas distâncias. Esta arma em particular foi decorada com um padrão de camuflagem verde e cinzento.\\n\\n<i>Em homenagem aos Arctic Avengers</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "A SCAR-20 é uma espingarda sniper semiautomática que, apesar de ser cara e reduzir a mobilidade do seu portador, tem uma frequência de disparo elevada e causa uma grande quantidade de dano a longas distâncias. Esta arma em particular foi decorada com uma gradação azul e roxa.\\n\\n<i>\\\"Esta é uma arma muito grande para uma jaula tão pequena...\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "A SCAR-20 é uma espingarda sniper semiautomática que, apesar de ser cara e reduzir a mobilidade do seu portador, tem uma frequência de disparo elevada e causa uma grande quantidade de dano a longas distâncias. Esta arma em particular foi decorada com um padrão de pseudo-caligrafia e geometria arabesca.\\n\\n<i>Moldada pelo calor, poeira e ventos secos</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "A Tec-9 é uma pistola ideal para os Terroristas que se deslocam com frequência: é sempre letal em combates a curtas distâncias e possui um carregador com um elevado número de balas. Esta arma em particular foi decorada com um padrão multicolorido de cruzes, quadrados e pontos.\\n\\n<i>Inadequada para o jogo do galo</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "A Tec-9 é uma pistola ideal para os Terroristas que se deslocam com frequência: é sempre letal em combates a curtas distâncias e possui um carregador com um elevado número de balas. Esta arma em particular foi pintada com padrões de mosaico inspirados na cultura árabe.\\n\\n<i>Cessar-fogo através de fogo intensificado</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Padrão Militar",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "A Coleção Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "Podendo ser considerada como uma filha incompreendida da família das submetralhadoras, a UMP45 é uma arma automática versátil e ótima a disparar em alvos próximos, porém o seu carregador tem relativamente poucas balas. Esta arma em particular foi decorada com um padrão anodizado de componentes de motores.\\n\\n<i>\\\"Ó chefe, isto aqui não está com boa cara...\\\"</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "Sendo das armas mais populares do Counter-Strike Source, a pistola USP com silenciador tem um menor recuo e chama menos atenção com os seus disparos. Esta arma em particular foi decorada com padrões distorcidos sobre uma camada de tinta perolada.\\n\\n<i>Eles nem vão ver o que lhes acertou</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistolas"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidencial",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "A XM1014 é uma caçadeira automática potente que justifica o seu preço elevado com a capacidade de encher de chumbo rapidamente uma sala cheia de inimigos. Esta arma em particular foi decorada com um padrão verde-claro, bege e vermelho de ladrilhos antigos.\\n\\n<i>\\\"A esperança é a última a morrer, mesmo para aqueles que foram pelo mau caminho\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "A XM1014 é uma caçadeira automática potente que justifica o seu preço elevado com a capacidade de encher de chumbo rapidamente uma sala cheia de inimigos. Esta arma em particular foi pintada com tinta mate preta, cinzenta e cor de bronze.\\n\\n<i>A coisa aqui está preta</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Armas Pesadas"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Padrão Industrial",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Coleção Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Ambas as equipas"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

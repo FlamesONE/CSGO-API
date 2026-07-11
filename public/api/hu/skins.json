@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Magasfényű kék ​​és rózsaszín színátmenetből, valamint számos grafikai mintából álló egyedi festést kapott.\\n\\n<i>„Kill” a konzolba.</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Fedett",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Repülő Daru",
   "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Egy darut és arany díszítéseket festettek fekete-fehér alapra.\\n\\n<i>A vérhold előtt.</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | A Dzsinn Következménye",
+  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Harsány narancssárga alapra magasfényű aranyszínű lángokat, és a tár fölé egy dzsinnt festettek.\\n\\n<i>Kívánj bölcsen...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "A Dzsinn Következménye"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Fedett",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Jelkereső",
+  "description": "Az erős és pontos AUG távcsöves gépkarabély hosszú újratöltési idejét kis szórásával és magas tűzgyorsaságával egyenlíti ki. Ez az egyedi festés matt fekete alapon többszínű mintákat tartalmaz.\\n\\n<i>Újracsatlakozási kísérlet ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Jelkereső"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lazurit",
+  "description": "Az erős és pontos AUG távcsöves gépkarabély hosszú újratöltési idejét kis szórásával és magas tűzgyorsaságával egyenlíti ki. Fehér, kék és arany mintás, lazuritot idéző egyedi festést kapott.\\n\\n<i>Gyönyörű darab, egyszerre erős és törékeny.</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lazurit"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxuskivitel",
   "description": "Az erős és pontos AUG távcsöves gépkarabély hosszú újratöltési idejét kis szórásával és magas tűzgyorsaságával egyenlíti ki. Egy pufidzseki kinézetét és érzetét adó egyedi festést és bronz színű díszítéseket kapott.\\n\\n<i>A prémiumcsomag.</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Fekete Doboz",
+  "description": "Magas kockázat és magas nyereség; a hírhedt AWP jellegzetes lövéshangjáról, és egy lövés, egy ölés szabályáról ismerhető fel. Matt feketére festették és egy narancsszínű csíkkal díszítették.\\n\\n<i>„Semmi flancolás, hallottad?”</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Fekete Doboz"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Beállt Jég",
   "description": "Magas kockázat és magas nyereség; a hírhedt AWP jellegzetes lövéshangjáról, és egy lövés, egy ölés szabályáról ismerhető fel. Élénk zöld-kék színátmenetes egyedi festést kapott.\\n\\n<i>Hideg a tapintása.</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Szuverén Láng",
+  "description": "Magas kockázat és magas nyereség; a hírhedt AWP jellegzetes lövéshangjáról, és egy lövés, egy ölés szabályáról ismerhető fel. Arany céltávcsőből és a fegyver hosszában végigfutó lángokból álló egyedi festést kapott.\\n\\n<i>A magasztos győzött.</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Szuverén Láng"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Fedett",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "Bajonett (★) | Mészárlás",
-  "description": "A felépítésében a Második Világháború óta viszonylag változatlan bajonett máig megtartotta helyét a modern katonai stratégiában. A bajonettroham továbbra is hatékony, még olyan közelmúltbeli helyszíneken is, mint a Második Öböl-háború, vagy az Afganisztáni Háború. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "A felépítésében a Második Világháború óta viszonylag változatlan bajonett máig megtartotta helyét a modern katonai stratégiában. A bajonettroham továbbra is hatékony, még olyan közelmúltbeli helyszíneken is, mint a Második Öböl-háború, vagy az Afganisztáni Háború. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Áruló",
+  "description": "A Bizon géppisztoly kis sebzésű, de egyedülállóan kialakított dobtárral rendelkezik, amely gyors újratöltést eredményez. Bronz és arany mintás egyedi festés került rá.\\n\\n<i>Bronz és golyók.</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Áruló"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hidraulika",
+  "description": "A CZ-75-Auto, a CZ75 teljes automata változata az ideális rövidtávú választás a helyzet megfordítására és az ellenfeleid fegyvereinek megszerzésére. De mivel nagyon kevés lőszere van a tárban, erős lőszertakarékosságot követel. A tárat polimer anyagra hasonlítóra festették. A ravasz fölé a „HYDRA” feliratot festették.\\n\\n<i>Te vagy Héraklész?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hidraulika"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Takcicai",
   "description": "A CZ-75-Auto, a CZ75 teljes automata változata az ideális rövidtávú választás a helyzet megfordítására és az ellenfeleid fegyvereinek megszerzésére. De mivel nagyon kevés lőszere van a tárban, erős lőszertakarékosságot követel. Rózsaszín és lila kézi festést és kis macskás matricákat kapott.\\n\\n<i>24 golyó, 9 élet.</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Keleti Rejtély",
+  "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. Fémes ezüst, fekete és kék mintákból álló egyedi festést kapott.\\n\\n<i>Ne veszítsd el a fonalat.</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Keleti Rejtély"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Bizalmas",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Tűzokádó",
   "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. Gyöngyházfényű festékkel lila és kék lángokat festettek rá.\\n\\n<i>Kivételes tulajdonságokat és képességeket tartalmaz.</i>",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dupla Beretta | Misztikus Kapcsolat",
+  "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Aranyszínű, áramló vonalakat festettek rá, amelyek egymásra téve egy sivatagi szemmé állnak össze.\\n\\n<i>Közös látomás.</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dupla Beretta"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Misztikus Kapcsolat"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "Dupla Beretta | Fenséges Összhang",
   "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. A zöldre festett gyöngyház markolattal, griffmadaras markolatlemezekkel és lézergravírozott szánnal ezek a pisztolyok újradefiniálják az eleganciát.\\n\\n<i>Le az Ál/Arcokkal és jöjjenek a galambok.</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "Dupla Beretta | Csiszolt Malachit",
-  "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Ezeket a Dupla Berettákat feltűnő zöld és ezüst színekre festették. A markolatokat kerámia fedőréteg borítja.\\n\\n<i>Tiszteletet parancsolnak, rólad viszont nem mondhatom el ugyanezt… - Booth, fegyverkereskedő</i>",
+  "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Ezeket a Dupla Berettákat feltűnő zöld és ezüst színekre festették. A markolatokat kerámia fedőréteg borítja.\\n\\n<i>Tiszteletet parancsolnak, rólad viszont nem mondhatom el ugyanezt… – Booth, fegyverkereskedő</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Hadtestvédelem",
+  "description": "Olcsó lehetőség pénzszűkében levő játékosoknak; a FAMAS hatékonyan tölti ki a rést a drágább karabélyok és a kevésbé hatékony géppisztolyok között. Fekete és vörös egyedi festést kapott.\\n\\n<i>Az öltöny és a napszemüveg külön kapható.</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Hadtestvédelem"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Kígyódal",
+  "description": "Olcsó lehetőség pénzszűkében levő játékosoknak; a FAMAS hatékonyan tölti ki a rést a drágább karabélyok és a kevésbé hatékony géppisztolyok között. Matt arany alapra fénylő arany körvonallal kiemelt zöld kígyót festettek.\\n\\n<i>Egy szikrányi remény.</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Kígyódal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Sivatagi Címer",
+  "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Egy sivatagi címert ábrázoló ezüst és lila mintát festettek rá.\\n\\n<i>Szólít a sors.</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Sivatagi Címer"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Szellemprotokoll",
+  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. Különféle fényességű piros festékekkel készült egyedi festést kapott.\\n\\n<i>Nem érdekel, ha követtek, már itt vagy. – Valeria Jenner, forradalmár</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Szellemprotokoll"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Fedett",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Rostély",
+  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. Barna és fekete mintás egyedi festést kapott.\\n\\n<i>Az elavult információ is információ, érted...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Rostély"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Teljes Tuning",
   "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. Neon színekkel és fémes csillámfestékkel készült egyedi festést kapott.\\n\\n<i>Nekem ez kicsit sok, de nem én vagyok a célközönség... – Booth, fegyverkereskedő</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "Pillangókés (★) | Mészárlás",
-  "description": "Ez egy egyedi kialakítású balisong, ismertebb nevén pillangókés. E fegyver meghatározó jellemzője a legyezőszerűen kinyitható, szabadon forgó penge, ami gyors kinyitást és elrejtést tesz lehetővé. Ennek eredményeképp a pillangókés számos országban be van tiltva. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez egy egyedi kialakítású balisong, ismertebb nevén pillangókés. E fegyver meghatározó jellemzője a legyezőszerűen kinyitható, szabadon forgó penge, ami gyors kinyitást és elrejtést tesz lehetővé. Ennek eredményeképp a pillangókés számos országban be van tiltva. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "Túlélőkés (★) | Mészárlás",
-  "description": "Ennek a többfunkciós taktikai késnek fogazott éle van kemény anyagok, mint a csont vagy szövedékek átvágásához, plusz egy éles belezőhorga. A kompozit anyagú markolat hatlapfejű csavarokkal van a pengéhez rögzítve. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ennek a többfunkciós taktikai késnek fogazott éle van kemény anyagok, mint a csont vagy szövedékek átvágásához, plusz egy éles belezőhorga. A kompozit anyagú markolat hatlapfejű csavarokkal van a pengéhez rögzítve. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "Paracord kés (★) | Mészárlás",
-  "description": "Ezt a fix pengéjű túlélőkést úgy tervezték, hogy kibírja a fegyverként és szerszámként való használatot is, így lehet vele csapdát készíteni, állatokra vadászni, vagy növényzetet vágni. A markolatára ejtőernyőzsinór van tekerve. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ezt a fix pengéjű túlélőkést úgy tervezték, hogy kibírja a fegyverként és szerszámként való használatot is, így lehet vele csapdát készíteni, állatokra vadászni, vagy növényzetet vágni. A markolatára ejtőernyőzsinór van tekerve. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "Klasszikus Kés (★) | Mészárlás",
-  "description": "A Counter-Strike sorozat klasszikusa; a sajtolással illesztett stellit penge tökéletesen áll a helyén, precíz illesztésének köszönhetően a penge lapján és fokán levő titánnal. A markolat szénszálas foglalatba illesztett masztodoncsont. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "A Counter-Strike sorozat klasszikusa; a sajtolással illesztett stellit penge tökéletesen áll a helyén, precíz illesztésének köszönhetően a penge lapján és fokán levő titánnal. A markolat szénszálas foglalatba illesztett masztodoncsont. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "Handzsárkés (★) | Mészárlás",
-  "description": "Modern tisztelgés egy handzsár kard előtt; ennek a szúrópengének ívelt éle van. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Modern tisztelgés egy handzsár kard előtt; ennek a szúrópengének ívelt éle van. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "Összecsukható kés (★) | Mészárlás",
-  "description": "Az összecsukható késnek perzsa stílusú, hegyes, hátrafelé ívelt pengéje van. Bár maga a hegy törékeny lehet, az összecsukható kés teljes felépítését tekintve meglepően erős. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Az összecsukható késnek perzsa stílusú, hegyes, hátrafelé ívelt pengéje van. Bár maga a hegy törékeny lehet, az összecsukható kés teljes felépítését tekintve meglepően erős. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "Zsigerelőkés (★) | Mészárlás",
-  "description": "A belezőkés legszembetűnőbb jellemzője a penge gerincén levő belezőkampó. Az eredetileg az elejtett vad helyben való megnyúzásához népszerűvé vált belezőkampó hatékony olyan szálas anyagok könnyű elvágásában is, mint a kötél, háló és biztonsági öv. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "A belezőkés legszembetűnőbb jellemzője a penge gerincén levő belezőkampó. Az eredetileg az elejtett vad helyben való megnyúzásához népszerűvé vált belezőkampó hatékony olyan szálas anyagok könnyű elvágásában is, mint a kötél, háló és biztonsági öv. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "Navaja kés (★) | Mészárlás",
-  "description": "Ez a márványlakk markolatú összecsukható kés egy kicsi, de gonoszul hegyes pengét rejt. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez a márványlakk markolatú összecsukható kés egy kicsi, de gonoszul hegyes pengét rejt. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "Karambit (★) | Mészárlás",
-  "description": "Az ívelt pengéjével tigriskarmot utánzó karambitot a silat nevű délkelet-ázsiai harcművészeti ág részeként fejlesztették ki. A kést tipikusan fordított fogással használják, az ujjgyűrűt a mutatóujjra húzva. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Az ívelt pengéjével tigriskarmot utánzó karambitot a silat nevű délkelet-ázsiai harcművészeti ág részeként fejlesztették ki. A kést tipikusan fordított fogással használják, az ujjgyűrűt a mutatóujjra húzva. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "Kukri kés (★) | Mészárlás",
-  "description": "Olyan hagyományos rituálékhoz használják, mint az esküvők vagy a késelések. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Olyan hagyományos rituálékhoz használják, mint az esküvők vagy a késelések. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "M9 bajonett (★) | Mészárlás",
-  "description": "Ez az M-9 bajonett. Eredetileg karabélyra rögzítésre szánták, de közelharcra is igen alkalmas. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez az M-9 bajonett. Eredetileg karabélyra rögzítésre szánták, de közelharcra is igen alkalmas. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "Nomád kés (★) | Mészárlás",
-  "description": "Ez az ergonomikus, becsukható pengéjű taktikai vadászkés kompozit markolatbetétekkel és széles, erős pengével rendelkezik, ami vágáshoz és tárgyak szétfeszítéséhez is hasznos. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez az ergonomikus, becsukható pengéjű taktikai vadászkés kompozit markolatbetétekkel és széles, erős pengével rendelkezik, ami vágáshoz és tárgyak szétfeszítéséhez is hasznos. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "Árnyéktőr (★) | Mészárlás",
-  "description": "A hatékony brutalitásra tervezett döfőtőrt használni olyan egyszerű, mint bevinni egy-két ütést. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "A hatékony brutalitásra tervezett döfőtőrt használni olyan egyszerű, mint bevinni egy-két ütést. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "Csontváz kés (★) | Mészárlás",
-  "description": "Ennek a lecsupaszított markolattüskéjű késnek a markolatára szalagot tekertek a fogás javítására. A lyukba bele lehet dugni egy ujjat a stabilitás és biztonság növelésére. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ennek a lecsupaszított markolattüskéjű késnek a markolatára szalagot tekertek a fogás javítására. A lyukba bele lehet dugni egy ujjat a stabilitás és biztonság növelésére. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "Stiletto kés (★) | Mészárlás",
-  "description": "Ennek a hosszú ideje viták, sőt, szabályozások tárgyát képező olasz stílusú stiletto rugós késnek olyan rugóval mozgatott pengéje van, ami szinte azonnal kiugratható egy kioldópöcök megnyomásával. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ennek a hosszú ideje viták, sőt, szabályozások tárgyát képező olasz stílusú stiletto rugós késnek olyan rugóval mozgatott pengéje van, ami szinte azonnal kiugratható egy kioldópöcök megnyomásával. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "Bowie kés (★) | Mészárlás",
-  "description": "Ezt a teljes markolattüskés Bowie kést erős igénybevételre tervezték, kegyetlen túlélési helyzetekhez. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ezt a teljes markolattüskés Bowie kést erős igénybevételre tervezték, kegyetlen túlélési helyzetekhez. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "Vadászkés (★) | Mészárlás",
-  "description": "Egy kés, melyet a modern, taktikai használatra terveztek, pengéje jól alkalmazható mind harci, mind utilitarista helyzetekben. Az egyedülálló Tanto penge lehetővé teszi a maximális áthatolást még a legkeményebb felületeken is. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Egy kés, melyet a modern, taktikai használatra terveztek, pengéje jól alkalmazható mind harci, mind utilitarista helyzetekben. Az egyedülálló Tanto penge lehetővé teszi a maximális áthatolást még a legkeményebb felületeken is. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "Ursus kés (★) | Mészárlás",
-  "description": "Ez a tanto jellegű túlélőkés fazettás pengével és ütővégsúlyban végződő teljes markolattüskével rendelkezik. Semmi csicsa, semmi mozgó alkatrész, csak egy megbízható penge, ami munkára kész. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez a tanto jellegű túlélőkés fazettás pengével és ütővégsúlyban végződő teljes markolattüskével rendelkezik. Semmi csicsa, semmi mozgó alkatrész, csak egy megbízható penge, ami munkára kész. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "Talon kés (★) | Mészárlás",
-  "description": "Ez az elefántcsont markolatú karambit rézszegecsekkel és fűrészfogazással rendelkezik, így befelé menet vág, kifelé jövet pedig tép. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.<i>",
+  "description": "Ez az elefántcsont markolatú karambit rézszegecsekkel és fűrészfogazással rendelkezik, így befelé menet vág, kifelé jövet pedig tép. Eltérő tükröződésű alumínium- és krómfestékkel zebramintásra festették, majd paradicsom-piros színes lakkozást kapott.\\n\\n<i>Valeria nem azért fizeti Javier-t, hogy kérdezősködjön... hanem hogy válaszokat csikarjon ki.</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Sötét Ügynök",
+  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Matt fekete és ezüst egyedi festést kapott, és fehér grafikákkal díszítették.\\n\\n<i>A funkció fontosabb a stílusnál.</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Sötét Ügynök"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Világosbarna alapra egy vörös kígyót festettek.\\n\\n<i>Az erő, amit a birtokolsz, önuralmat igényel.</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Bizalmas",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbina",
   "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Vörösbor-színű egyedi alapfestést kapott.\\n\\n<i>FIGYELEM: a hosszan tartó tüzelés túlmelegedést okozhat.</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Végzetes Hiba",
+  "description": "A némítatlan társánál kisebb tárral rendelkező hangtompítós M4A1 halkabb lövéseket biztosít kisebb visszarúgással és nagyobb pontossággal. Élénkzöld gyöngyházfényű egyedi festést kapott.\\n\\n<i>Amikor az észrevétlenül maradás nem lehetőség.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Végzetes Hiba"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Bizalmas",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabeszk Mozaik",
+  "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Közel-keleti ihletésű tájak mozgó mintáját festették rá.\\n\\n<i>Folyamatosan változó homok.</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabeszk Mozaik"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Fénydoboz",
   "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Az egyedi festés olyan hatású, mintha hátulról bele lehetne látni a MAC-10-esbe.\\n\\n<i>Egyedi készítésű.</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Videókamera",
+  "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Egy kézi kamerára hasonlító egyedi festést kapott.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Videókamera"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Kettes Számrendszer",
+  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Zöld és fekete színű, 1-esekkel és 0-kkal díszített egyedi festést kapott.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Kettes Számrendszer"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Mosolygó",
   "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. A kék-lila alaprétegre sárgával egy mosolygós arcot és a „Just Smile” szöveget festették.\\n\\n<i>„Mosolyooog...!”</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Homoki Kígyó",
+  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. Fehér, kalligráfiára emlékeztető vonásokkal egy kígyót festettek világosbarna alapra.\\n\\n<i>Szokatlan tárgy egy kopár világból.</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Homoki Kígyó"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. Ezüst, fekete és kék egyedi festést kapott, ezüst színű kortárs mintákkal.\\n\\n<i>Személyes, ám visszafogott érzés.</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Kém Prototípus",
+  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. Fehér szatén alapon kék mintákkal díszített egyedi festést kapott.\\n\\n<i>Az eredmények eltérhetnek.</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Géppisztolyok"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Kém Prototípus"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Reggeli Nap",
+  "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. Homokszínű festékkel összetett mintát festettek rá.\\n\\n<i>Az erő a fénnyel kezdődik.</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Nehézfegyverek"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Reggeli Nap"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Szemmel Látható",
   "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. Ez az egyedi festés egyszerű geometriai formákat és realisztikus részleteket tartalmaz, melyeket az absztrakt szürrealizmus és 20. századi művészek alkotásai ihlettek.\\n\\n<i>Kinek mi.</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Okosfegyver",
+  "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. A hátsó irányzék közelébe egy agyat festettek, ami úgy néz ki,mintha a fegyverben lenne, és ezüst metálfestékkel egészítették ki.\\n\\n<i>A technika és a szerves anyag házassága.</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Nehézfegyverek"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Okosfegyver"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lótuszminta",
+  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. Arany és kék csillámfestékkel egyedi mintát festettek rá.\\n\\n<i>Egy lótusz a kézben kettőt ér az ölési listán.</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lótuszminta"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Korlátozott",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 revolver | Uralkodó",
+  "description": "Az R8 revolver nagyon pontos és erős lövedéket juttat célba, hosszú ravaszút árán. A kakas kézi felhúzásával végrehajtott gyorstűz lehet a legjobb lehetőség, amikor közelre van szükség megállítóerőre. Narancssárga és szürke egyedi festést kapott, és sárgaréz bevonatú kezelőszervekkel rendelkezik.\\n\\n<i>A státusz és fennhatóság jelképe.</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Uralkodó"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8 revolver | Tangó",
   "description": "Az R8 revolver nagyon pontos és erős lövedéket juttat célba, hosszú ravaszút árán. A kakas kézi felhúzásával végrehajtott gyorstűz lehet a legjobb lehetőség, amikor közelre van szükség megállítóerőre. Fa markolatot és rózsákat mintázó egyedi festést kapott.\\n\\n<i>Elfogadod?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Lefűrészelt csövű sörétes | Holdsárkány",
+  "description": "A klasszikus lefűrészelt csövű sörétes nagyon súlyos sebzést okoz közelre, de alacsony pontossága, nagy szórása és alacsony tűzgyorsasága miatt jobb, ha meg is ölöd, amit eltaláltál. Karmazsin alapra egy kígyót festettek.\\n\\n<i>A világ mélyén összetekeredve.</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Lefűrészelt csövű sörétes"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Nehézfegyverek"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Holdsárkány"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Lefűrészelt csövű sörétes | Sugárszennyezettség-jelzés",
   "description": "A klasszikus lefűrészelt csövű sörétes nagyon súlyos sebzést okoz közelre, de alacsony pontossága, nagy szórása és alacsony tűzgyorsasága miatt jobb, ha meg is ölöd, amit eltaláltál. Szórással sugárveszély-mintákat festettek rá.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Sarkvidéki Álcapanelek",
+  "description": "A SCAR-20 félautomata mesterlövész puska, mely nagy tűzgyorsaságot és erős távolsági sebzést kínál lassú mozgásért és magas árért cserébe. Zöld és szürke álcamintát festettek rá.\\n\\n<i>Az összes Arctic Avengert hívom!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Sarkvidéki Álcapanelek"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Ketrecbe Zárva",
   "description": "A SCAR-20 félautomata mesterlövész puska, mely nagy tűzgyorsaságot és erős távolsági sebzést kínál lassú mozgásért és magas árért cserébe. Kék-lila színátmenetes mintát festettek rá.\\n\\n<i>„Nagy fegyver ez egy ilyen kis ketrecbe...”</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirokkó Írás",
+  "description": "A SCAR-20 félautomata mesterlövész puska, mely nagy tűzgyorsaságot és erős távolsági sebzést kínál lassú mozgásért és magas árért cserébe. Kalligráfia-szerű és arabeszk geometriai díszítést festettek rá.\\n\\n<i>A hőség, a por és a száraz szelek formálták.</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puskák"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirokkó Írás"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Határsáv",
+  "description": "A mozgásban levő Terrorista ideális pisztolya, a Tec-9 közelre halálos, és nagy tárkapacitással rendelkezik. X-ek, négyzetek és pontok sokszínű mintája került rá.\\n\\n<i>Berajzoljuk az X-eket és az O-kat.</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Határsáv"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Szultán",
+  "description": "A mozgásban levő Terrorista ideális pisztolya, a Tec-9 közelre halálos, és nagy tárkapacitással rendelkezik. Arabeszk ihletésű mozaikmintát festettek rá.\\n\\n<i>Tűzszünet fokozott tűzerő révén.</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Szultán"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Katonai fokozatú",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Az Arabeszk Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorista"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Gépezet",
   "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. Motoralkatrészek eloxált mintája került rá.\\n\\n<i>„Nem néz ki jól...”</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spirálhiba",
+  "description": "A Counter-Strike: Source közönség-kedvence, a hangtompítós USP pisztoly leszerelhető hangtompítóval rendelkezik, ami egyszerre csökkenti a lövés visszarúgását és nyomja el figyelemfelkeltő zaját. Gyöngyházfényű fedőfesték borította zavarómintákat festettek rá.\\n\\n<i>Nem fogják tudni, mi találta el őket.</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pisztolyok"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spirálhiba"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Bizalmas",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Terrorelhárító"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ősi Történet",
   "description": "Az XM1014 erős, teljes automata sörétes puska, ami azzal szolgál rá súlyosabb árcédulájára, hogy képes gyorsan ólommal beteríteni egy szobát. Halványzöld, bézs és vörös ősi csempés minta került rá.\\n\\n<i>„A remény megmarad még azoknak is, akik a rossz ösvényen indultak útnak.”</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Titkos Bázis",
+  "description": "Az XM1014 erős, teljes automata sörétes puska, ami azzal szolgál rá súlyosabb árcédulájára, hogy képes gyorsan ólommal beteríteni egy szobát. Matt fekete, szürke és bronz egyedi festést kapott.\\n\\n<i>Rendezz jelenetet.</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Nehézfegyverek"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Titkos Bázis"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Ipari fokozatú",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Gyári új"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Kevéssé használt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Harctéren tesztelt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Viseltes"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Háború tépázta"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "A Kémkedés-technika Gyűjtemény",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Mindkét csapat"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

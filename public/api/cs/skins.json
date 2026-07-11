@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Zbraň byla nabarvena modrými a růžovými gradientními vzory a doplněna řadou menších detailů.\\n\\n<i>Příkaz „kill“</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Skrytá",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Na černobílý základ zbraně byl nanesen obrázek jeřába a zbraň byla dozdobena zlatými částmi.\\n\\n<i>Předvoj krvavého Měsíce</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Na pronikavě oranžovou základní barvu zbraně byly naneseny lesklé zlatavé plameny a na zásobník a nad něj byl nakreslen obrázek džina.\\n\\n<i>Dobře važ svá přání...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Skrytá",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "AUG je silná a přesná útočná puška s možností přiblížení, která kompenzuje svoji dlouhou dobu přebíjení malým rozptylem a vysokou rychlostí střelby. Na matně černou základní barvu zbraně byly naneseny různé vícebarevné vzory.\\n\\n<i>> Pokus o opetovne pripojeni ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "AUG je silná a přesná útočná puška s možností přiblížení, která kompenzuje svoji dlouhou dobu přebíjení malým rozptylem a vysokou rychlostí střelby. Na zbraň byl bílou, modrou a zlatou barvou nanesen vzor připomínající lapis lazuli.\\n\\n<i>Nádherný kousek, mocný a zároveň křehký</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "AUG je silná a přesná útočná puška s možností přiblížení, která kompenzuje svoji dlouhou dobu přebíjení malým rozptylem a vysokou rychlostí střelby. Zbraň byla nabarvena tak, aby svým vzhledem připomínala péřovou bundu, a následně byla dozdobena bronzovými částmi.\\n\\n<i>Prémiová edice</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "Odstřelovací puška AWP je vysoce riskantní a vysoce účinná zbraň, která je nechvalně známá svým charakteristickým zvukem a také faktem, že jedna rána z ní znamená jednoho mrtvého v řadách nepřátel. Zbraň byla nabarvena matně černou barvou a dozdobena oranžovým proužkem.\\n\\n<i>Nic extravagantního, jasný?</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "Odstřelovací puška AWP je vysoce riskantní a vysoce účinná zbraň, která je nechvalně známá svým charakteristickým zvukem a také faktem, že jedna rána z ní znamená jednoho mrtvého v řadách nepřátel. Zbraň byla nabarvena sytě zelenou barvou přecházející do sytě modré.\\n\\n<i>Ledově ostrá</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "Odstřelovací puška AWP je vysoce riskantní a vysoce účinná zbraň, která je nechvalně známá svým charakteristickým zvukem a také faktem, že jedna rána z ní znamená jednoho mrtvého v řadách nepřátel. Zaměřovač byl nabarven zlatě a po celé délce zbraně byly naneseny obrázky plamenů.\\n\\n<i>Vítězství vznešeného</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Skrytá",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "Bajonet (★) | Slaughter",
-  "description": "Ačkoli se jeho design od dob 2. světové války nijak zásadně nezměnil, zůstává bajonet i nadále ve standardní vojenské výbavě. Jeho užitečnost se ukázala například ve druhé válce v Perském zálivu a ve válce v Afghánistánu. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Ačkoli se jeho design od dob 2. světové války nijak zásadně nezměnil, zůstává bajonet i nadále ve standardní vojenské výbavě. Jeho užitečnost se ukázala například ve druhé válce v Perském zálivu a ve válce v Afghánistánu. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "Samopal Bizon je sice slabý, ale zato nabízí unikátně navržený, vysokokapacitní bubnový zásobník, který lze velmi rychle přebíjet. Na zbraň byl nanesen vzor v bronzových a zlatých barvách.\\n\\n<i>Bronzové náboje...</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "Tato plně automatická varianta české pistole CZ75 je vhodná jako dočasná zbraň pro zvrácení průběhu boje a získání protivníkovy zbraně. Má však velmi malý zásobník, takže je třeba pečlivě zvážit každý výstřel. Zásobník zbraně byl nabarven tak, aby vypadal jako vyrobený z průhledného polymeru. Nad spoušť byl nanesen nápis „HYDRA“.\\n\\n<i>Jsi snad Herakles?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "Tato plně automatická varianta české pistole CZ75 je vhodná jako dočasná zbraň pro zvrácení průběhu boje a získání protivníkovy zbraně. Má však velmi malý zásobník, takže je třeba pečlivě zvážit každý výstřel. Zbraň byla ručně nabarvena růžovou a fialovou barvou a dozdobena samolepkami kočičích tlapek.\\n\\n<i>24 kulek, 9 životů</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "Ikonická pistole Desert Eagle je drahá a zpočátku těžko ovladatelná zbraň. Avšak těm, kteří si ji osvojí, nabídne překvapivě přesnou a silnou střelbu na velkou vzdálenost. Na zbraň byl nanesen vzor složený z metalicky stříbrné, černé a modré barvy.\\n\\n<i>Hlavně neztratit nit</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Tajná",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "Ikonická pistole Desert Eagle je drahá a zpočátku těžko ovladatelná zbraň. Avšak těm, kteří si ji osvojí, nabídne překvapivě přesnou a silnou střelbu na velkou vzdálenost. Na zbraň byly perleťovými barvami naneseny fialové a modré plameny.\\n\\n<i>Horká na pohled, chladná na dotek</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "Střelba ze dvou pistolí značky Beretta s velkými zásobníky sníží tvoji přesnost a prodlouží dobu přebíjení. Na druhou stranu budeš střílet ze dvou pistolí s velkými zásobníky. Na obě zbraně byly naneseny zlatavé linky, které při překrytí vytvoří oko pouště.\\n\\n<i>Sdílená vize</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "FAMAS je zbraň vhodná pro hráče, kteří mají hlouběji do kapsy, a efektivně vyplňuje mezeru mezi dražšími puškami a horšími samopaly. Zbraň byla nabarvena černou a červenou barvou.\\n\\n<i>Oblek a sluneční brýle nejsou součástí balení</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "FAMAS je zbraň vhodná pro hráče, kteří mají hlouběji do kapsy, a efektivně vyplňuje mezeru mezi dražšími puškami a horšími samopaly. Na matně zlatý základ zbraně byl nabarven zelený had s pronikavě zlatými konturami.\\n\\n<i>Záblesk naděje</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "Five-Seven je dražší, avšak vysoce přesná pistole, která pomalé přebíjení kompenzuje zásobníkem s 20 průraznými střelami a shovívavým zpětným rázem. Na zbraň byl stříbrnými a fialovými barvami nanesen vzor pouštní pečetě.\\n\\n<i>Osud volá</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "Glock 18 je pistole vhodná pro první kolo. Nejúčinnější je proti neobrněným protivníkům a je schopná střílet v dávkách po třech. Zbraň byla nabarvena červenou barvou různých stupňů lesklosti.\\n\\n<i>Utajení především</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Skrytá",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "Glock 18 je pistole vhodná pro první kolo. Nejúčinnější je proti neobrněným protivníkům a je schopná střílet v dávkách po třech. Na zbraň byl nanesen vzor složený z bronzových a černých barev.\\n\\n<i>Zastaralé informace jsou pořád lepší než žádné informace...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "Glock 18 je pistole vhodná pro první kolo. Nejúčinnější je proti neobrněným protivníkům a je schopná střílet v dávkách po třech. Na zbraň byl neonovými a metalickými třpytivými barvami nanesen výrazný obrázek.\\n\\n<i>Pro jednoho kýč, pro druhého umění</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "Motýlek (★) | Slaughter",
-  "description": "Toto je speciálně navržený skládací nůž, běžně známý jako „motýlek“. Jeho charakteristickým znakem je to, že se otevírá podobně jako vějíře, avšak na rozdíl od nich v sobě neskrývá látku, ale otočnou čepel, kterou lze díky zmíněnému otevíracímu mechanismu rychle připravit k akci nebo naopak rychle ukrýt. Důsledkem toho je zakázaný v mnoha zemích světa. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Toto je speciálně navržený skládací nůž, běžně známý jako „motýlek“. Jeho charakteristickým znakem je to, že se otevírá podobně jako vějíře, avšak na rozdíl od nich v sobě neskrývá látku, ale otočnou čepel, kterou lze díky zmíněnému otevíracímu mechanismu rychle připravit k akci nebo naopak rychle ukrýt. Důsledkem toho je zakázaný v mnoha zemích světa. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "Záchranářský nůž (★) | Slaughter",
-  "description": "Víceúčelový vojenský nůž s vroubkovaným ostřím, které nezastaví ani kosti nebo pevná vlákna. Využití jistě najde také ostrý párák. Kompozitní rukojeť je k čepeli přišroubovaná šestihrannými maticemi. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Víceúčelový vojenský nůž s vroubkovaným ostřím, které nezastaví ani kosti nebo pevná vlákna. Využití jistě najde také ostrý párák. Kompozitní rukojeť je k čepeli přišroubovaná šestihrannými maticemi. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "Výsadkářský nůž (★) | Slaughter",
-  "description": "Nůž s pevnou čepelí použitelný nejen jako zbraň, ale také jako nástroj při kladení pastí, lovení zvěře nebo prosekávání se porostem. Rukojeť je navíc omotána nylonovým lanem ještě navyšujícím všestrannost nože. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Nůž s pevnou čepelí použitelný nejen jako zbraň, ale také jako nástroj při kladení pastí, lovení zvěře nebo prosekávání se porostem. Rukojeť je navíc omotána nylonovým lanem ještě navyšujícím všestrannost nože. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "Klasický nůž (★) | Slaughter",
-  "description": "Ostří tohoto klasického nože ze série her Counter-Strike tvoří lisovaný stellit upevněný v čepeli z titanu. Rukojeť byla vyrobena ze zkamenělé slonoviny mastodonta a potažena karbonovými vlákny. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Ostří tohoto klasického nože ze série her Counter-Strike tvoří lisovaný stellit upevněný v čepeli z titanu. Rukojeť byla vyrobena ze zkamenělé slonoviny mastodonta a potažena karbonovými vlákny. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "Falchion (★) | Slaughter",
-  "description": "Zakřivená čepel tohoto nože dává najevo, že se jedná o moderní poctu osvědčeným šavlím. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Zakřivená čepel tohoto nože dává najevo, že se jedná o moderní poctu osvědčeným šavlím. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "Skládací nůž (★) | Slaughter",
-  "description": "Skládací nůž disponuje mírně zakroucenou čepelí v perském stylu. Ačkoli je jeho špička křehká, zbytek je překvapivě odolný. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Skládací nůž disponuje mírně zakroucenou čepelí v perském stylu. Ačkoli je jeho špička křehká, zbytek je překvapivě odolný. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "Rozparovací nůž (★) | Slaughter",
-  "description": "Nejvýraznější částí rozparovacího nože je jeho párák na páteři čepele. Ačkoli byl původně používán převážné ke stahování zvířat z kůže, lze jej využít i při přeřezávání různých vláknitých materiálů, jakými jsou například lana, popruhy a bezpečnostní pásy. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Nejvýraznější částí rozparovacího nože je jeho párák na páteři čepele. Ačkoli byl původně používán převážné ke stahování zvířat z kůže, lze jej využít i při přeřezávání různých vláknitých materiálů, jakými jsou například lana, popruhy a bezpečnostní pásy. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "Nůž Navaja (★) | Slaughter",
-  "description": "Skládací nůž s mramorovou rukojetí a malou, nicméně velmi ostrou čepelí. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Skládací nůž s mramorovou rukojetí a malou, nicméně velmi ostrou čepelí. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "Karambit (★) | Slaughter",
-  "description": "Karambit, nůž se zahnutou čepelí připomínající tygří dráp, byl původně vyroben pro jihovýchodní asijské bojové umění silat. Tento nůž je obvykle používán s reverzní rukojetí a s prstenním kroužkem nasazeným na ukazováčku. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Karambit, nůž se zahnutou čepelí připomínající tygří dráp, byl původně vyroben pro jihovýchodní asijské bojové umění silat. Tento nůž je obvykle používán s reverzní rukojetí a s prstenním kroužkem nasazeným na ukazováčku. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "Nůž Kukri (★) | Slaughter",
-  "description": "Legendární zbraň používaná při tradičních rituálech jako jsou svatby nebo popravy. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Legendární zbraň používaná při tradičních rituálech jako jsou svatby nebo popravy. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "Bajonet M9 (★) | Slaughter",
-  "description": "Toto je bajonet M-9. Původně byl určený k tomu, aby byl přimontovaný k pušce, avšak ukázal se být vhodný i jako samostatná zbraň pro kontaktní boj. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Toto je bajonet M-9. Původně byl určený k tomu, aby byl přimontovaný k pušce, avšak ukázal se být vhodný i jako samostatná zbraň pro kontaktní boj. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "Outdoorový nůž (★) | Slaughter",
-  "description": "Ergonomický skládací nůž pyšnící se kompozitní rukojetí a širokou čepelí, kterou ocení každý zálesák. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Ergonomický skládací nůž pyšnící se kompozitní rukojetí a širokou čepelí, kterou ocení každý zálesák. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "Pěstní dýky (★) | Slaughter",
-  "description": "Pěstní dýky vypadají složitě, ale ve skutečnosti je jejich použití nesmírně jednoduché. Představ si údery pěstí, ale účinnější. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Pěstní dýky vypadají složitě, ale ve skutečnosti je jejich použití nesmírně jednoduché. Představ si údery pěstí, ale účinnější. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "Skeletový nůž (★) | Slaughter",
-  "description": "Vysoce stylový skeletonizovaný nůž s rukojetí omotanou lepicí páskou zajišťující lepší úchyt. Dírou v čepeli lze prostrčit prst a výrazně tak snížit riziko vyklouznutí nože z ruky. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Vysoce stylový skeletonizovaný nůž s rukojetí omotanou lepicí páskou zajišťující lepší úchyt. Dírou v čepeli lze prostrčit prst a výrazně tak snížit riziko vyklouznutí nože z ruky. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "Vystřelovací nůž (★) | Slaughter",
-  "description": "Dlouhodobě velmi oblíbený vystřelovací nůž italského typu „Stiletto“, který lze díky pružinovému mechanismu vytáhnout takřka okamžitě, stačí stisknout uvolňovací západku. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Dlouhodobě velmi oblíbený vystřelovací nůž italského typu „Stiletto“, který lze díky pružinovému mechanismu vytáhnout takřka okamžitě, stačí stisknout uvolňovací západku. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "Nůž Bowie (★) | Slaughter",
-  "description": "Špičkový nůž typu Bowie disponující pilovou horní čepelí, se kterým se v klidu můžeš postavit celé armádě. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Špičkový nůž typu Bowie disponující pilovou horní čepelí, se kterým se v klidu můžeš postavit celé armádě. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "Lovecký nůž (★) | Slaughter",
-  "description": "Moderní nůž s čepelí vhodnou jak pro boj zblízka, tak pro všestranné využití. Díky speciální špičce „Tantó“ se nezalekne ani nejpevnějšího materiálu. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Moderní nůž s čepelí vhodnou jak pro boj zblízka, tak pro všestranné využití. Díky speciální špičce „Tantó“ se nezalekne ani nejpevnějšího materiálu. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "Nůž Ursus (★) | Slaughter",
-  "description": "Všestranný nůž se zbroušenou pevnou čepelí a nárazuvzdornou rukojetí. Žádné pohyblivé části ani jiné zbytečnosti, prostě spolehlivý nůž vždy připravený do akce. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Všestranný nůž se zbroušenou pevnou čepelí a nárazuvzdornou rukojetí. Žádné pohyblivé části ani jiné zbytečnosti, prostě spolehlivý nůž vždy připravený do akce. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "Talon (★) | Slaughter",
-  "description": "Karambit se slonovinovou rukojetí, mosaznými nýty a pilovým hřbetem, který pronikne dovnitř a cestu ven si rozpáře. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!<i>",
+  "description": "Karambit se slonovinovou rukojetí, mosaznými nýty a pilovým hřbetem, který pronikne dovnitř a cestu ven si rozpáře. Na zbraň byl hliníkovými a chromovými barvami s různými vlastnostmi odrazu nanesen zebrovaný vzor, který byl následně překryt rajčatově červenou barvou.\\n\\n<i>Nůž, který umí předpovídat budoucnost!</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "M4A4, přesnější, avšak slabší protějšek AK-47, je plně automatická útočná puška exkluzivní pro CT. Zbraň byla nabarvena matně černou a stříbrnou barvou a dozdobena bílými detaily.\\n\\n<i>Funkce před stylem</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "M4A4, přesnější, avšak slabší protějšek AK-47, je plně automatická útočná puška exkluzivní pro CT. Na žlutohnědý základ zbraně byl nanesen obrázek červeného hada.\\n\\n<i>Moc, kterou disponuješ, vyžaduje zdrženlivost</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Tajná",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "M4A4, přesnější, avšak slabší protějšek AK-47, je plně automatická útočná puška exkluzivní pro CT. Na zbraň byl nanesen vzor s vínovým základem.\\n\\n<i>VAROVÁNÍ: Déletrvající střelba může způsobit přehřátí</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "Tato varianta útočné pušky M4A1 s tlumičem umožňuje tišší střelbu a díky menšímu zpětnému rázu dosahuje vyšší přesnosti než její hlasitější verze, ovšem za cenu menšího zásobníku. Zbraň byla nabarvena zářivě zelenou perleťovou barvou.\\n\\n<i>Když nenápadnost nepřipadá v úvahu</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Tajná",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Na zbraň byla nanesena pohyblivá scenérie inspirovaná Blízkým východem.\\n\\n<i>A písky se mění dál...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Zbraň byla nabarvena tak, aby to vypadalo, že do ní lze zezadu nahlédnout.\\n\\n<i>Větší uvnitř</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Zbraň byla nabarvena tak, aby připomínala videokameru.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "Samopal MP7 německé výroby je univerzální, ale drahý pomocník pro boj na kratší vzdálenost. Na zbraň byly zelenými a černými barvami nakresleny jedničky a nuly.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "Samopal MP7 německé výroby je univerzální, ale drahý pomocník pro boj na kratší vzdálenost. Na tyrkysovo-fialový základ zbraně byl nakreslen smajlík a žlutě vyvedený nápis „Just Smile“.\\n\\n<i>Řekni sýýýr!</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "Špičkový samopal MP9 švýcarské výroby je ergonomická, polymerová zbraň oblíbená zejména mezi soukromými bezpečnostními firmami. Na žlutohnědý základ zbraně byl bílým kaligrafickým štětcem nanesen obrázek hada.\\n\\n<i>Nezvyklý artefakt z pustého světa</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "Špičkový samopal MP9 švýcarské výroby je ergonomická, polymerová zbraň oblíbená zejména mezi soukromými bezpečnostními firmami. Zbraň byla vyložena stříbrnou barvou a následně na ni byl nanesen moderní motiv vyvedený ve stříbrné, černé a modré barvě.\\n\\n<i>Osobitý, přesto však nenápadný dotek</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "Špičkový samopal MP9 švýcarské výroby je ergonomická, polymerová zbraň oblíbená zejména mezi soukromými bezpečnostními firmami. Zbraň byla nabarvena saténově bílou základní barvou a dozdobena modrými částmi.\\n\\n<i>Výsledky se mohou různit</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Samopaly"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Na zbraň byl pískově žlutou barvou nanesen složitý vzor.\\n\\n<i>Síle předchází osvícení</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Těžké"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Na zbraň byly nabarveny jednoduché geometrické tvary a realistické detaily inspirované abstraktním surrealismem a díly umělců z 20. století.\\n\\n<i>Oči pozorovatelů</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Pod hledí byl nanesen obrázek mozku, který má vypadat jako vložený ve zbrani. Zbytek zbraně byl pak vyveden ve stříbrné metalické barvě.\\n\\n<i>Spojení technologie a organiky</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Těžké"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "P250 je relativně levná pistole s malým zpětným rázem a vysokou rychlostí střelby, která se hodí i proti obrněným protivníkům. Na zbraň byl nanesen vzor vyvedený ve třpytivých zlatých a modrých barvách.\\n\\n<i>Lotos v ruce má cenu dvou ve feedu zabití</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Zakázaná",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "Revolver R8 | Monarch",
+  "description": "Střelba z revolveru R8 je velmi přesná a účinná, ovšem promáčknutí spouště chvíli trvá. Na krátkou vzdálenost je proto lepší použít rychlejší, ale méně přesné fofrování. Zbraň byla nabarvena oranžovými a šedými barvami a následně byla dozdobena mosaznými částmi.\\n\\n<i>Symbol statusu a autority</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "Revolver R8"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "Revolver R8 | Tango",
   "description": "Střelba z revolveru R8 je velmi přesná a účinná, ovšem promáčknutí spouště chvíli trvá. Na krátkou vzdálenost je proto lepší použít rychlejší, ale méně přesné fofrování. Na zbraň byly nabarveny růže a její rukojeť vypadá jako ze dřeva.\\n\\n<i>Smím prosit?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Upilovaná brokovnice | Lunar Wyrm",
+  "description": "Klasická upilovaná brokovnice uděluje velké poškození na krátkou vzdálenost, avšak její malá přesnost, velký rozptyl a pomalá rychlost střelby z ní činí zbraň vhodnou převážně pro ty, kteří jí dokáží využít k zabití jednou ranou. Na karmínově zbarvený základ zbraně byl nakreslen obrázek hada.\\n\\n<i>Stočen v hlubinách světa</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Upilovaná brokovnice"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Těžké"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Upilovaná brokovnice | Irradiated Alert",
   "description": "Klasická upilovaná brokovnice uděluje velké poškození na krátkou vzdálenost, avšak její malá přesnost, velký rozptyl a pomalá rychlost střelby z ní činí zbraň vhodnou převážně pro ty, kteří jí dokáží využít k zabití jednou ranou. Zbraň byla nasprejována vzorem se znaky varujícími proti radioaktivitě.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "SCAR-20 je polo-automatická odstřelovací puška, která svému majiteli za vysokou cenu a sníženou rychlost pohybu nabídne vysokou rychlost střelby a možnost udělit poškození i z velké vzdálenosti. Na zbraň byl nanesen zeleno-šedý maskovací vzor.\\n\\n<i>Arktická armáda hlásí návrat!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "SCAR-20 je polo-automatická odstřelovací puška, která svému majiteli za vysokou cenu a sníženou rychlost pohybu nabídne vysokou rychlost střelby a možnost udělit poškození i z velké vzdálenosti. Na zbraň byl nanesen gradientní modrofialový vzor.\\n\\n<i>Ta nezůstane uvězněná dlouho...</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "SCAR-20 je polo-automatická odstřelovací puška, která svému majiteli za vysokou cenu a sníženou rychlost pohybu nabídne vysokou rychlost střelby a možnost udělit poškození i z velké vzdálenosti. Na zbraň byl nanesen dekorativní vzor složený z pseudokaligrafie a arabeskové geometrie.\\n\\n<i>Vytvořen horkem, prachem a suchými větry...</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Pušky"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "Tec-9 je ideální pistolí pro Teroristu, který neposedí. Je smrtící na blízko a má vysoký počet nábojů v zásobníku. Na zbraň byl nanesen vícebarevný vzor složený z křížků, čtverečků a teček.\\n\\n<i>Srdečné pozdravy zpoza nepřátelské linie</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "Tec-9 je ideální pistolí pro Teroristu, který neposedí. Je smrtící na blízko a má vysoký počet nábojů v zásobníku. Na zbraň byla nanesena mozaika inspirovaná arabeskovými vzory.\\n\\n<i>Klid zbraní dosažený neklidem zbraní</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Armádní",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Kolekce Arabesque",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "UMP45, nepochopené prostřední dítě z rodiny samopalů, je univerzální automatická zbraň, jejíž jedinou nevýhodou je malý zásobník. Na zbrani byl eloxováním vytvořen vzor vyobrazující části motoru.\\n\\n<i>Prasklá hlava? Jasně, opravíme... tak moment, je řeč o autě?</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "Pistole USP, oblíbená zbraň hráčů hry Counter-Strike: Source, disponuje odnímatelným tlumičem, který zmírňuje zpětný ráz a tlumí výstřely. Pod perleťovou vrchní vrstvu nátěru zbraně byly naneseny digitální maskovací vzory.\\n\\n<i>Nebudou mít tušení, co je zasáhlo</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistole"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Tajná",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Teroristé"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "XM1014 je silná, plně automatická brokovnice, která svoji vyšší cenu kompenzuje schopností rychle vymalovat pokoj horkým olovem. Na zbraň byl nanesen vzor se starobylými dlaždicemi ve světlezelených, béžových a rudých barvách.\\n\\n<i>„Naděje neumírá ani pro ty, kdož svoji cestu zahájili špatným směrem.“</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "XM1014 je silná, plně automatická brokovnice, která svoji vyšší cenu kompenzuje schopností rychle vymalovat pokoj horkým olovem. Zbraň byla nabarvena matně černými, šedými a bronzovými barvami.\\n\\n<i>Tohle ztropí scénu...</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Těžké"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Prověřená",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Zbrusu nový"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lehce opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Silně opotřebený"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Poničený bojem"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Kolekce Spy Tech",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "CT i T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

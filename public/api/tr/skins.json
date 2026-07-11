@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. Parlak mavi ve pembe gradyan renklerle birlikte çeşitli grafik desenler ile özel olarak boyanmıştır.\\n\\n<i>Konsola \\\"Kill\\\" yaz.</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Çok Gizli",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Uçan Turna",
   "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. Siyah beyaz bir taban üzerinde bir turna resmedilmiş ve altın detaylarla süslenmiştir.\\n\\n<i>Kanlı Ay öncesi.</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Cinin Alâmetleri",
+  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. Yoğun turuncu bir taban üzerine parlak altın renkli ateşlerle özel olarak boyanmıştır ve şarjörün üzerinde bir cin resmedilmiştir.\\n\\n<i>Dikkatli dilek dile...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Cinin Alâmetleri"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Çok Gizli",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Sinyal Tarayıcı",
+  "description": "Güçlü ve isabetli olan dürbünlü AUG silahının şarjörünü doldurmak uzun sürer, ama mermileri fazla dağıtmaması ve yüksek bir atış hızına sahip olması bunu telafi eder. Mat siyah bir taban üzerine çok renkli desenlerle özel olarak boyanmıştır.\\n\\n<i>> Yeniden bağlanmaya çalışılıyor ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Sinyal Tarayıcı"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lacivert Taş",
+  "description": "Güçlü ve isabetli olan dürbünlü AUG silahının şarjörünü doldurmak uzun sürer, ama mermileri fazla dağıtmaması ve yüksek bir atış hızına sahip olması bunu telafi eder. Lacivert taşına benzemesi için beyaz, mavi ve altın renkleriyle özel olarak boyanmıştır.\\n\\n<i>Hem güçlü hem de kırılgan, enfes bir parça.</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lacivert Taş"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Lüks Kıyafet",
   "description": "Güçlü ve isabetli olan dürbünlü AUG silahının şarjörünü doldurmak uzun sürer, ama mermileri fazla dağıtmaması ve yüksek bir atış hızına sahip olması bunu telafi eder. Şişme mont görünümünü ve hissini taklit etmek için özel olarak boyanmış ve bronz vurgularla tamamlanmıştır.\\n\\n<i>Premium paket</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Kara Kutu",
+  "description": "Büyük risk ve büyük ödül. Ünlü AWP silahı, bir atışta bir leş sözü ile de hatırlanabilir. Mat siyah ile özel olarak boyanmış ve turuncu bir çizgi ile tamamlanmıştır.\\n\\n<i>\\\"Gösterişe gerek yok, tamam mı?\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Kara Kutu"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Buz Kaplamalı",
   "description": "Büyük risk ve büyük ödül. Ünlü AWP silahı, bir atışta bir leş sözü ile de hatırlanabilir. Canlı bir yeşil ve mavi gradyan renkler ile özel olarak boyanmıştır.\\n\\n<i>Soğuk</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Hükûmran Ateş",
+  "description": "Büyük risk ve büyük ödül. Ünlü AWP silahı, bir atışta bir leş sözü ile de hatırlanabilir. Altın renkli bir dürbün ve silah boyunca uzayan ateşlerle özel olarak boyanmıştır.\\n\\n<i>Haşmetli kişi kazandı.</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Hükûmran Ateş"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Çok Gizli",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "★ Bayonet | Katliam",
-  "description": "İkinci Dünya Savaşı'ndan bu yana tasarımı çok fazla değişmeyen Bayonet'in modern askeri stratejide hâlâ yeri bulunmaktadır. Bayonet hücumları, son dönemlerdeki Afganistan Savaşı ve İkinci Körfez Savaşı'nda görüldüğü üzere etkili olmaya devam etmektedir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "İkinci Dünya Savaşı'ndan bu yana tasarımı çok fazla değişmeyen Bayonet'in modern askeri stratejide hâlâ yeri bulunmaktadır. Bayonet hücumları, son dönemlerdeki Afganistan Savaşı ve İkinci Körfez Savaşı'nda görüldüğü üzere etkili olmaya devam etmektedir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Hain",
+  "description": "Bizon hafif makinelisi düşük hasar verir, ama seri değiştirilebilmesi için özel tasarlanmış yüksek kapasiteli bir şarjör sunar. Bronz ve altın bir tasarımla özel olarak boyanmıştır.\\n\\n<i>Bronz ve mermiler.</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Hain"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Otomatik | Hidrolik",
+  "description": "CZ75'in tam otomatik bir türü olan CZ75-Otomatik, rakibinin silahını alarak durumu kendi lehine çevirmek için kısa vadeli ideal bir seçenektir. Fakat çok az bir cephaneye sahip olduğu için, güçlü bir tetik disiplini gerektirir. Şarjör, polimer malzemeye benzeyecek şekilde boyanmış ve tetik mekanizmasının üzerine \\\"HYDRA\\\" yazısı işlenmiştir.\\n\\n<i>Sen Herkül müsün?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Otomatik"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hidrolik"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Otomatik | Tacticat",
   "description": "CZ75'in tam otomatik bir türü olan CZ75-Otomatik, rakibinin silahını alarak durumu kendi lehine çevirmek için kısa vadeli ideal bir seçenektir. Fakat çok az bir cephaneye sahip olduğu için, güçlü bir tetik disiplini gerektirir. Pembe ve morla elde boyanmıştır, ayrıca kedi çıkartmalarına sahiptir.\\n\\n<i>24 mermi, 9 can</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Doğu Muamması",
+  "description": "Güçlü olduğu kadar pahalı ve artık ikonlaşmış bir tabanca olan Desert Eagle ustalaşması zor bir silahtır. Ayrıca şaşırtıcı bir şekilde uzak mesafelerde de isabetlidir. Özel olarak metalik gümüş, siyah ve mavi bir tasarımla boyanmıştır.\\n\\n<i>İpin ucunu kaçırma.</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Doğu Muamması"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Gizli",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Alev Soluk",
   "description": "Güçlü olduğu kadar pahalı ve artık ikonlaşmış bir tabanca olan Desert Eagle ustalaşması zor bir silahtır. Ayrıca şaşırtıcı bir şekilde uzak mesafelerde de isabetlidir. Sedefli boya kullanılarak özel mor ve mavi alevlerle boyanmıştır.\\n\\n<i>Üstün kalite ve yetenek içerir.</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Çift Beretta | Mistik Bağlanma",
+  "description": "İki büyük şarjöre sahip olan Çift Beretta ile ateş ettiğinizde isabet oranınız azalacak ve şarjörü doldurmanız uzun sürecektir. Ama işin iyi tarafına bakacak olursak, iki tane büyük şarjörü olan Çift Beretta ile ateş etmiş olacaksınız. Altın renkli akan çizgilerin üst üste geldiğinde bir çöl gözüne dönüştüğü bir tasarımla özel olarak boyanmıştır.\\n\\n<i>Ortak bir görüş.</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Çift Beretta"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mistik Bağlanma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Şirket Savunması",
+  "description": "Nakitte sıkıntı çeken oyuncular için ucuz bir seçenek olan FAMAS, daha pahalı tüfekler ve daha az etkili hafif makineliler arasındaki boşluğu etkin biçimde dolduruyor. Siyah ve kırmızı renkte özel olarak boyanmıştır.\\n\\n<i>Takım elbise ve güneş gözlüğü ayrı satılır.</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Şirket Savunması"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Yılan Şarkısı",
+  "description": "Nakitte sıkıntı çeken oyuncular için ucuz bir seçenek olan FAMAS, daha pahalı tüfekler ve daha az etkili hafif makineliler arasındaki boşluğu etkin biçimde dolduruyor. Mat altın rengi bir taban üzerine parlak altın çizgilerle vurgulanmış yeşil bir yılan tasarımıyla özel olarak boyanmıştır.\\n\\n<i>Bir umut parıltısı.</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Yılan Şarkısı"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Çöl Mührü",
+  "description": "Yüksek isabet oranı ve zırh delme kabiliyetine sahip pahalı bir tabanca olan Five-SeveN şarjörü yavaş doldurur, ama 20 mermilik cömert şarjörü ve geri tepme oranı bunu telafi eder. Gümüş ve mor renkli bir çöl mührü deseniyle özel olarak boyanmıştır.\\n\\n<i>Kader çağırıyor.</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Çöl Mührü"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Hayalet Protokol",
+  "description": "Glock-18 zırhsız düşmanlara karşı kullanışlı bir ilk raunt tabancasıdır ve üçlü atış yapabilir. Çeşitli kırmızı tonlarıyla özel olarak boyanmıştır.\\n\\n<i>Takip edilip edilmediğin umurumda değil, artık buradasın. - Valeria Jenner, Devrimci</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Hayalet Protokol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Çok Gizli",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | İfrit Kafesi",
+  "description": "Glock-18 zırhsız düşmanlara karşı kullanışlı bir ilk raunt tabancasıdır ve üçlü atış yapabilir. Çöl ve siyah renkli bir tasarımla özel olarak boyanmıştır.\\n\\n<i>İstihbarat eski de olsa istihbarattır, değil mi...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "İfrit Kafesi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Tam Ayarlı",
   "description": "Glock-18 zırhsız düşmanlara karşı kullanışlı bir ilk raunt tabancasıdır ve üçlü atış yapabilir. Neon renkler ve simli metalik boyayla özel olarak boyanmıştır.\\n\\n<i>Benim için biraz fazla şaşaalı ama zaten hedef kitlede değilim... - Booth, Silah Taciri</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "★ Kelebek Bıçak | Katliam",
-  "description": "Bu özel dizayn edilmiş bir balisong bıçağı, halk arasında kelebek olarak da bilinir. Daha çok elde çevrilmesiyle tanınır. Hızlıca gizlenebilmesi ve çıkarılabilmesi artı yönlerindendir. Çoğu ülkede kelebek bıçaklar yasaklanmıştır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu özel dizayn edilmiş bir balisong bıçağı, halk arasında kelebek olarak da bilinir. Daha çok elde çevrilmesiyle tanınır. Hızlıca gizlenebilmesi ve çıkarılabilmesi artı yönlerindendir. Çoğu ülkede kelebek bıçaklar yasaklanmıştır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "★ Hayatta Kalma Bıçağı | Katliam",
-  "description": "Bu çok amaçlı taktisel bıçakta kemik ya da lif gibi kalın malzemelerin içinden doğrudan geçmesine olanak tanıyan testere dişli bir bıçak ve bu bıçağın ucunda da deşme kancası yer alıyor. Kompozit bir malzemeden imal edilen sapı, bıçağa altıgen somunlar kullanılarak cıvatalarla tutturulmuştur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu çok amaçlı taktisel bıçakta kemik ya da lif gibi kalın malzemelerin içinden doğrudan geçmesine olanak tanıyan testere dişli bir bıçak ve bu bıçağın ucunda da deşme kancası yer alıyor. Kompozit bir malzemeden imal edilen sapı, bıçağa altıgen somunlar kullanılarak cıvatalarla tutturulmuştur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "★ Paraşüt Kordonu Saplı Bıçak | Katliam",
-  "description": "Bu sabit hayatta kalma bıçağı tuzak kurulumu, hayvan avı ya da ot kesme gibi durumlar ortaya çıktığında hem silah hem de bir araç olarak kullanılması için tasarlanmıştır. Bıçağın sapı boydan boya çok amaçlı paraşüt kordonuyla sarılıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu sabit hayatta kalma bıçağı tuzak kurulumu, hayvan avı ya da ot kesme gibi durumlar ortaya çıktığında hem silah hem de bir araç olarak kullanılması için tasarlanmıştır. Bıçağın sapı boydan boya çok amaçlı paraşüt kordonuyla sarılıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "★ Klasik Bıçak | Katliam",
-  "description": "Counter-Strike serisinin bir klasiği olan bu bıçağın köşeleri, bıçağın yanaklarında ve sırtında bulunan titanyum sayesinde keskin ve kusursuz bir şekilde yerine oturtulmuştur. Kabzası, fosilleşmiş mastadon dişi ve karbon fiber ile birlikte tutturulmuştur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Counter-Strike serisinin bir klasiği olan bu bıçağın köşeleri, bıçağın yanaklarında ve sırtında bulunan titanyum sayesinde keskin ve kusursuz bir şekilde yerine oturtulmuştur. Kabzası, fosilleşmiş mastadon dişi ve karbon fiber ile birlikte tutturulmuştur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "★ Pala Bıçağı | Katliam",
-  "description": "Palaya modern bir saygı gösterisi olan bu ucu eğik bıçağın kenarları da kavislidir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Palaya modern bir saygı gösterisi olan bu ucu eğik bıçağın kenarları da kavislidir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "★ Sustalı Bıçak | Katliam",
-  "description": "Sustalı Bıçak; Pers tarzı arka tarafı kavisli, sivri bir ucu olan gösterişli bir bıçaktır. Sivri noktanın kendisi kırılgan durumda iken, bıçağın genel tasarımı şaşırtıcı derecede dayanıklıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Sustalı Bıçak; Pers tarzı arka tarafı kavisli, sivri bir ucu olan gösterişli bir bıçaktır. Sivri noktanın kendisi kırılgan durumda iken, bıçağın genel tasarımı şaşırtıcı derecede dayanıklıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "★ Kancalı Bıçak | Katliam",
-  "description": "Kancalı Bıçağın en göze çarpan özelliği arka kısmındaki kancadır. Orijinal olarak, savaş alanlarında yapılan pansumanlarda kullanılan bir alet olarak popülerleşmiştir. Bıçaktaki kanca ayrıca ip, kayış ya da emniyet kemeri gibi lifli materyalleri de kolayca kesebilir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Kancalı Bıçağın en göze çarpan özelliği arka kısmındaki kancadır. Orijinal olarak, savaş alanlarında yapılan pansumanlarda kullanılan bir alet olarak popülerleşmiştir. Bıçaktaki kanca ayrıca ip, kayış ya da emniyet kemeri gibi lifli materyalleri de kolayca kesebilir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "★ Navaja Bıçağı | Katliam",
-  "description": "Mermer emayeli kabzaya sahip bu açılır bıçakta küçük ama vahşi şekilde efektif konik uçlu bir bıçak saklıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Mermer emayeli kabzaya sahip bu açılır bıçakta küçük ama vahşi şekilde efektif konik uçlu bir bıçak saklıdır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "★ Karambit | Katliam",
-  "description": "Kıvrık bıçağıyla bir kaplanın pençesini andıran Karambit, güneydoğu Asya silat dövüş disiplininin bir parçası olarak geliştirilmiştir. Bıçak genelde, üzerindeki halkadan işaret parmağı geçirilerek ters bir kavrayış ile kullanılır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Kıvrık bıçağıyla bir kaplanın pençesini andıran Karambit, güneydoğu Asya silat dövüş disiplininin bir parçası olarak geliştirilmiştir. Bıçak genelde, üzerindeki halkadan işaret parmağı geçirilerek ters bir kavrayış ile kullanılır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "★ Kukri Bıçağı | Katliam",
-  "description": "Düğünler ve bıçaklama gibi geleneksel ritüellerde kullanılır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Düğünler ve bıçaklama gibi geleneksel ritüellerde kullanılır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "★ M9 Bayonet | Katliam",
-  "description": "Bu, M9 Bayonet. Asıl olarak bir tüfeğe takılmak için tasarlanmıştır, ayrıca yakın mesafeli çatışmalar için de çok uygundur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu, M9 Bayonet. Asıl olarak bir tüfeğe takılmak için tasarlanmıştır, ayrıca yakın mesafeli çatışmalar için de çok uygundur. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "★ Göçebe Bıçağı | Katliam",
-  "description": "Açılır ve kilit mekanizmasına sahip olan bu ergonomik taktiksel avcı bıçağı, ayrıca kompozit saplara ve bir şeyleri kesmek ya da kanırtmak için kullanılabilecek güçlü bir bıçağa sahiptir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Açılır ve kilit mekanizmasına sahip olan bu ergonomik taktiksel avcı bıçağı, ayrıca kompozit saplara ve bir şeyleri kesmek ya da kanırtmak için kullanılabilecek güçlü bir bıçağa sahiptir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "★ Gölge Hançerler | Katliam",
-  "description": "Etkili darbeler için tasarlanan bu hançerleri kullanmak, bir iki yumruk atmak kadar kolaydır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Etkili darbeler için tasarlanan bu hançerleri kullanmak, bir iki yumruk atmak kadar kolaydır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "★ İskelet Bıçak | Katliam",
-  "description": "Bu iskelete benzetilen bıçağın kabzası daha iyi bir kavrama için bantla kaplanmış. Kabzasındaki deliğe parmak sokularak daha güvenilir ve kararlı bir kullanım tecrübesi sağlıyor. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu iskelete benzetilen bıçağın kabzası daha iyi bir kavrama için bantla kaplanmış. Kabzasındaki deliğe parmak sokularak daha güvenilir ve kararlı bir kullanım tecrübesi sağlıyor. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "★ Stiletto Bıçak | Katliam",
-  "description": "Geçmişten bu yana tartışmalara, hatta düzenlemelere konu olmuş İtalyan tarzı bu stiletto bıçağın normalde gizli duran bıçak kısmı yaylı mekanizması sayesinde tek bir dokunuşla anında ortaya çıkartılabilir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Geçmişten bu yana tartışmalara, hatta düzenlemelere konu olmuş İtalyan tarzı bu stiletto bıçağın normalde gizli duran bıçak kısmı yaylı mekanizması sayesinde tek bir dokunuşla anında ortaya çıkartılabilir. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "★ Bowie Bıçağı | Katliam",
-  "description": "Arkası testereli bu Eğri Av Bıçağı, ciddi hayatta kalma mücadelelerinde kullanmak üzere tasarlanmıştır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Arkası testereli bu Eğri Av Bıçağı, ciddi hayatta kalma mücadelelerinde kullanmak üzere tasarlanmıştır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "★ Avcı Bıçağı | Katliam",
-  "description": "Modern taktiksel kullanımlar için dizayn edilmiş bu bıçak, yakın mücadele ve faydalı kullanım gibi alanların her ikisi için de uygundur. Eşsiz Tanto noktası en sert yüzeylerde bile maksimum delmeyi sağlar. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Modern taktiksel kullanımlar için dizayn edilmiş bu bıçak, yakın mücadele ve faydalı kullanım gibi alanların her ikisi için de uygundur. Eşsiz Tanto noktası en sert yüzeylerde bile maksimum delmeyi sağlar. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "★ Ursus Bıçağı | Katliam",
-  "description": "Bu tanto tipi hayatta kalma bıçağında çok boyutlu bir bıçak ağzına, hafif eğimli bir baş kısmına ve darbe emici kabzaya sahiptir. Hareket eden parçası yoktur. Tam anlamıyla işe koyulabileceğin dört dörtlük güvenilir bir bıçaktır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Bu tanto tipi hayatta kalma bıçağında çok boyutlu bir bıçak ağzına, hafif eğimli bir baş kısmına ve darbe emici kabzaya sahiptir. Hareket eden parçası yoktur. Tam anlamıyla işe koyulabileceğin dört dörtlük güvenilir bir bıçaktır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "★ Talon Bıçağı | Katliam",
-  "description": "Fildişi kabzalı bu karambitte pirinç cıvatalar kullanılmıştır, saplarken rahat bir şekilde girebilmesi ve çıkarken de parçalayabilmesi için testere ağzına sahip bir kısmı vardır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor<i>",
+  "description": "Fildişi kabzalı bu karambitte pirinç cıvatalar kullanılmıştır, saplarken rahat bir şekilde girebilmesi ve çıkarken de parçalayabilmesi için testere ağzına sahip bir kısmı vardır. Bu silah çeşitli alüminyum ve krom boyalarla zebra deseni şeklinde boyandı ve ardından domates kırmızısı renkli kaplama ile kaplandı.\\n\\n<i>Valeria Javier'e soru sormak için para ödemiyor... ondan cevapları bulup çıkarmak için ödüyor</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Karanlık Ajan",
+  "description": "Muadili AK-47'den daha isabetli fakat daha az zarar veren bir silah olan olan M4A4, AT'ler için tam otomatik taarruz tüfeği seçeneğidir. Mat siyah ve gümüş ile özel olarak boyanmış ve beyaz grafik tasarımlarla tamamlanmıştır.\\n\\n<i>Önemli olan tasarımı değil işlevi.</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Karanlık Ajan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "Muadili AK-47'den daha isabetli fakat daha az zarar veren bir silah olan olan M4A4, AT'ler için tam otomatik taarruz tüfeği seçeneğidir. Çöl renkli taban üzerine kırmızı renkli bir yılanla özel olarak boyanmıştır.\\n\\n<i>Elinde tuttuğun güç kontrollü olmayı gerektirir.</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Gizli",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Türbin",
   "description": "Muadili AK-47'den daha isabetli fakat daha az zarar veren bir silah olan olan M4A4, AT'ler için tam otomatik taarruz tüfeği seçeneğidir. Şarap renkli bir taban ile özel olarak boyanmıştır.\\n\\n<i>UYARI: Uzun süreli ateşleme aşırı ısınmaya neden olabilir</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Ölümcül Bozulma",
+  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Parlak yeşil sedefli boya kullanılarak özel olarak boyanmıştır.\\n\\n<i>Fark edilmemenin mümkün olmadığı zamanlar için.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Ölümcül Bozulma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Gizli",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesk Mozaik",
+  "description": "Basitçe içinden mermiler çıkan bir kutu olan MAC-10 hafif makinelisi, yüksek bir atış hızına sahiptir ancak fazla geri teper ve isabet oranı düşüktür. Orta Doğu temalı hareketli bir desenle özel olarak boyanmıştır.\\n\\n<i>Sürekli değişen kumlar.</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesk Mozaik"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Işık Kutusu",
   "description": "Basitçe içinden mermiler çıkan bir kutu olan MAC-10 hafif makinelisi, yüksek bir atış hızına sahiptir ancak fazla geri teper ve isabet oranı düşüktür. Bir MAC-10'un arkasına bakıyormuş gibi görünmesi için özel olarak boyanmıştır.\\n\\n<i>Özel yapım</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Kamera",
+  "description": "Basitçe içinden mermiler çıkan bir kutu olan MAC-10 hafif makinelisi, yüksek bir atış hızına sahiptir ancak fazla geri teper ve isabet oranı düşüktür. El kamerasına benzeyecek şekilde özel olarak boyanmıştır.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Kamera"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | İkili",
+  "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. Yeşil ve siyah renklerle 1 ve 0 desenleriyle özel olarak boyanmıştır.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "İkili"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Sadece Gülümse",
   "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. Mavi ve mor temel katmanı, bir gülen yüz ve sarı renkte \\\"Just Smile\\\" yazısı ile tamamlanmıştır.\\n\\n<i>\\\"Peyniiiir de\\\"</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Çöl Engereği",
+  "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. Çöl renkli bir taban üzerine beyaz kaligrafi tarzında çizgilerden meydana gelen bir yılan deseniyle özel olarak boyanmıştır.\\n\\n<i>Çorak bir dünyadan sıra dışı bir yadigâr.</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Çöl Engereği"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. Gümüş, siyah ve mavi renkle özel olarak boyanmış ve gümüş boyaya modern tasarımlar işlenmiştir.\\n\\n<i>Kişisel ve ölçülü bir dokunuş.</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Casus Prototipi",
+  "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. Beyaz saten bir taban ile özel olarak boyanmış ve mavi tasarımlarla tamamlanmıştır.\\n\\n<i>Sonuçlar farklılık gösterebilir.</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Hafif Makineliler"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Casus Prototipi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Çiçekli Dal",
-  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Kiraz çiçeği motifine göre el ile boyanmış, daha sonra parlak bir kaplama verilmiştir.",
+  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Kiraz çiçeği motifiyle el ile boyanmış, daha sonra parlak bir kaplama verilmiştir.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Gündüz Güneşi",
+  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Kum renkli bir boya kullanılarak karmaşık bir tasarım uygulanmıştır.\\n\\n<i>Güç, aydınlıktan doğar.</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ağır Silahlar"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Gündüz Güneşi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Oküler",
   "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Bu özel boya tasarımı, soyut sürrealizmden ve 20. yüzyıl sanatçılarının eserlerinden esinlenen basit geometrik şekiller ve gerçekçi detaylar içerir.\\n\\n<i>Göz boyama.</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Akıllı Silah",
+  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Gezin yakınındaki silahın içindeymiş gibi görünen beyin tasarımıyla özel olarak boyanmış ve metalik gümüş ile tamamlanmıştır.\\n\\n<i>Teknoloji ile organik yapının birleşimi.</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ağır Silahlar"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Akıllı Silah"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Bulaşıcı Atık",
-  "description": "Düşük bir geri tepme oranına sahip ve seri ateş edebilme kabiliyeti olan P250 tabancası, zırhlı rakiplerinize karşı diğer silahlara göre biraz daha ucuz bir seçimdir. Kestane rengindeki üst kaplaması aşınmış, çürümekte olan ve ömrü az kalmış bir silah.\\n\\n<i>Sadece göründüğü kadar kötü</i>",
+  "description": "Düşük bir geri tepme oranına sahip ve seri ateş edebilme kabiliyeti olan P250 tabancası, zırhlı rakiplerinize karşı diğer silahlara göre biraz daha ucuz bir seçimdir. Kestane rengindeki üst kaplaması aşınmış, çürümekte olan ve ömrü az kalmış bir silah.\\n\\n<i>Sadece göründüğü kadar kötü.</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Nilüfer Çiçeği Desenli",
+  "description": "Düşük bir geri tepme oranına sahip ve seri ateş edebilme kabiliyeti olan P250 tabancası, zırhlı rakiplerinize karşı diğer silahlara göre biraz daha ucuz bir seçimdir. Altın ve mavi metalik boya ile özel olarak boyanmıştır.\\n\\n<i>Eldeki bir nilüfer çiçeği, skor tablosunda iki leşe bedeldir.</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Nilüfer Çiçeği Desenli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Sınırlı",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 Revolver | Hükûmdar",
+  "description": "R8 Revolver, uzun bir tetik çekişi pahasına oldukça isabetli ve güçlü bir mermi sağlar. Çok kısa mesafeden durdurucu güç gerektiğinde belki de en iyi seçenek, horozu hızlıca ateşlemektir. Turuncu ve gri ile özel olarak boyanmış ve pirinç kaplama detaylara sahiptir.\\n\\n<i>Saygınlığın ve gücün simgesi.</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 Revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Hükûmdar"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8 Revolver | Tango",
   "description": "R8 Revolver, uzun bir tetik çekişi pahasına oldukça isabetli ve güçlü bir mermi sağlar. Çok kısa mesafeden durdurucu güç gerektiğinde belki de en iyi seçenek, horozu hızlıca ateşlemektir. Ahşap bir kabza ve güllerle özel olarak boyanmıştır.\\n\\n<i>Kabul edecek misin?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Ay Yılanı",
+  "description": "Klasik bir silah olan Sawed-Off yakın mesafelerde çok ağır hasar verir. Ama düşük isabet oranı, mermileri fazla dağıtması ve düşük atış hızından dolayı vurduğunuzu öldürseniz iyi olur. Koyu kırmızı bir taban üzerine bir yılan deseniyle özel olarak boyanmıştır.\\n\\n<i>Dünyanın derinliklerinde sürünüyor.</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ağır Silahlar"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Ay Yılanı"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-Off | Radyasyon Uyarısı",
   "description": "Klasik bir silah olan Sawed-Off yakın mesafelerde çok ağır hasar verir. Ama düşük isabet oranı, mermileri fazla dağıtması ve düşük atış hızından dolayı vurduğunuzu öldürseniz iyi olur. Radyolojik tehlike uyarısı desenleri ile boyanmıştır.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arktik Kamuflajlı Paneller",
+  "description": "SCAR-20, yüksek atış hızı ve güçlü uzun mesafe hasarı için, ağır hareket hızı ve büyük fiyat etiketine katlanılan yarı otomatik bir keskin nişancı tüfeğidir. Yeşil ve gri kamuflaj deseniyle boyanmıştır.\\n\\n<i>Arktik İntikamcılar'a sesleniyoruz!</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arktik Kamuflajlı Paneller"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Kafes",
   "description": "SCAR-20, yüksek atış hızı ve güçlü uzun mesafe hasarı için, ağır hareket hızı ve büyük fiyat etiketine katlanılan yarı otomatik bir keskin nişancı tüfeğidir. Mavi ve mor gradyan bir desen uygulanmıştır.\\n\\n<i>\\\"Bu küçük bir kafes için büyük bir silah...\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Yazısı",
+  "description": "SCAR-20, yüksek atış hızı ve güçlü uzun mesafe hasarı için, ağır hareket hızı ve büyük fiyat etiketine katlanılan yarı otomatik bir keskin nişancı tüfeğidir. Kaligrafi benzeri yazılar ve arabesk motifler içeren dekoratif bir desen uygulanmıştır.\\n\\n<i>Isı, toz ve kuru rüzgârlarla şekillendi.</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Yazısı"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Çeper",
+  "description": "Hareket halindeki Teröristler için ideal bir tabanca olan Tec-9, yakın mesafeli çatışmalarda ölümcüldür ve yüksek kapasiteli bir şarjör sunar. Çok renkli çarpılar, kareler ve noktalardan oluşan bir tasarım uygulanmıştır.\\n\\n<i>Taktik tahtasının başında.</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Çeper"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "Hareket halindeki Teröristler için ideal bir tabanca olan Tec-9, yakın mesafeli çatışmalarda ölümcüldür ve yüksek kapasiteli bir şarjör sunar. Arabeskten ilham almış bir mozaik desenle özel olarak boyanmıştır.\\n\\n<i>Daha fazla ateş gücüyle sağlanan ateşkes.</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Askeri Sınıf",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesk Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mekanizma",
   "description": "Hafif makineli ailesinin değeri anlaşılamamış ortanca çocuğu. Yakın mesafede oldukça etkili ve tam otomatik bir silah olan UMP-45'in tek dezavantajı küçük şarjör kapasitesidir. Motor bileşenlerini içeren anotlanmış bir desenle boyanmıştır.\\n\\n<i>\\\"Hiç iyi görünmüyor...\\\"</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Bozulma",
+  "description": "Counter-Strike: Source hayranlarının favorilerinden biri olan USP-S tabancası, silahın geri tepme oranını azaltırken aynı zamanda sesini de bastıran ve takıp çıkarılabilen bir susturucuya sahiptir. Göz alıcı tasarımlar ile özel olarak boyanmış ve üzeri sedefle kaplanmıştır.\\n\\n<i>Neye uğradıklarını şaşıracaklar.</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Tabancalar"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Bozulma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Gizli",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Kadim Hikâye",
   "description": "XM1014, pahalı fiyat etiketini bir odayı anında kurşunla doldurabilme kabiliyetiyle telafi eden güçlü ve tam otomatik bir pompalı tüfektir. Soluk yeşil, bej ve kırmızı renklerden oluşan kadim çinilerin yer aldığı bir desen uygulanmıştır.\\n\\n<i>\\\"Umut, yolculuklarına yanlış yoldan başlayanlar için bile yeşil kalmaya devam eder\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Gizli Üs",
+  "description": "XM1014, pahalı fiyat etiketini bir odayı anında kurşunla doldurabilme kabiliyetiyle telafi eden güçlü ve tam otomatik bir pompalı tüfektir. Mat siyah, gri ve bronz ile özel olarak boyanmıştır.\\n\\n<i>Ortalığı dağıt.</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Ağır Silahlar"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Gizli Üs"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Endüstri Sınıfı",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Casusluk/Teknoloji Koleksiyonu",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Her İki Takım"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

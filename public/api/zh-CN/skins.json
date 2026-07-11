@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 它采用定制的高光泽蓝粉渐变涂装，并配以多种图形设计。\\n\\n<i>在控制台输入\\\"Kill\\\" </i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘级",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | 翔鹤",
   "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 黑白底色上手绘仙鹤与金色装饰。\\n\\n<i>血月将至之兆</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | 精灵之噬",
+  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 它采用醒目的橙色基底进行定制涂装，并绘有高光泽金色火焰，弹匣及其上方还画有精灵图案。\\n\\n<i>明智地许愿……</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "精灵之噬"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘级",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | 侦测仪",
+  "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 这款定制涂装在哑光黑基底上采用了多色设计。\\n\\n<i>> 正在尝试重新连接... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "侦测仪"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | 星点天青",
+  "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 它采用白色、蓝色和金色图案进行了定制涂装，类似于青金石。\\n\\n<i>一件精美之作，既强大又脆弱</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "星点天青"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | 豪华装饰",
   "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 它经过定制涂装仿制了羽绒服的外观和质感，并以青铜细节作点缀。\\n\\n<i>高级套餐</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | 黑匣子",
+  "description": "高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和一枪一个的准则而为人熟知。 它采用哑光黑漆定制涂装，并以橙色条纹点缀。\\n\\n<i>“没什么花哨的，听见没？”</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "黑匣子"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | 可燃冰",
   "description": "高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和一枪一个的准则而为人熟知。 这把武器采用醒目的绿色和蓝色渐变进行了自定义涂装。\\n\\n<i>触感冰冷</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | 无上之焰",
+  "description": "高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和一枪一个的准则而为人熟知。 它采用了定制涂装，火焰纹饰贯穿整把武器，并配有金色瞄准镜。\\n\\n<i>崇高者胜</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "无上之焰"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘级",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "刺刀（★） | 屠夫",
-  "description": "其设计相对于第二次世界大战以来基本没有变化，刺刀在现代军事战略中仍占有一席之地。在最近的第二次海湾战争和阿富汗战争中也榜上有名。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "其设计相对于第二次世界大战以来基本没有变化，刺刀在现代军事战略中仍占有一席之地。在最近的第二次海湾战争和阿富汗战争中也榜上有名。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-野牛 | 叛徒",
+  "description": "野牛微型冲锋枪造成的伤害虽然较低，但它具有设计独特的高容量弹鼓，可以快速换弹。 它采用青铜与金色的设计进行定制涂装。\\n\\n<i>青铜与子弹</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-野牛"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "叛徒"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75自动型 | 液压",
+  "description": "一把全自动的 CZ75 手枪变种，在扭转局势以及获取敌人武器时，CZ75 自动手枪是一个短期的理想选择。但弹夹中的弹药极少，你需要节约每一发子弹。 弹匣被涂装成类似聚合物材质的质感。扳机上方喷涂有\\\"HYDRA\\\"字样。\\n\\n<i>你是赫拉克勒斯吗？</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75自动型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "液压"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75自动型 | 战术高手",
   "description": "一把全自动的 CZ75 手枪变种，在扭转局势以及获取敌人武器时，CZ75 自动手枪是一个短期的理想选择。但弹夹中的弹药极少，你需要节约每一发子弹。 这把武器采用了粉色与紫色的手绘，并有小型猫科动物的贴花。\\n\\n<i>索命 24 颗子弹</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "沙漠之鹰 | 东方之谜",
+  "description": "杀伤力和它的卖价一样高，沙漠之鹰是一把很难驾驭，而在远距离又出乎意料精准的经典手枪。 它采用了金属银、黑、蓝三色设计进行定制涂装。\\n\\n<i>别丢了线头</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "沙漠之鹰"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "东方之谜"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密级",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "沙漠之鹰 | 霜寒之焰",
   "description": "杀伤力和它的卖价一样高，沙漠之鹰是一把很难驾驭，而在远距离又出乎意料精准的经典手枪。 使用珠光漆定制涂装了紫色和蓝色的火焰。\\n\\n<i>蕴含超凡品质与威能</i>",
@@ -31473,6 +32076,73 @@
   }
  },
  {
+  "id": "skin-5fdbc79e9391",
+  "name": "双持贝瑞塔 | 流金契目",
+  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 它采用定制涂装，金色流动线条在双枪拼起时汇聚成沙漠之眼。\\n\\n<i>共享的视野</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "双持贝瑞塔"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "流金契目"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-54963e630d31",
   "name": "双持贝瑞塔 | 皇室伴侣",
   "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 有着绿色染色珍珠处理的握把、狮鹫图案的侧板和激光蚀刻的滑套做装饰，这副双枪重新定义了优雅。\\n\\n<i>开始放飞鸽子吧</i>",
@@ -32844,7 +33514,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "双持贝瑞塔 | 精琢孔雀石",
-  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 这把双持贝瑞塔进行了翠绿镀银涂装，握把则是陶瓷镀层。\\n\\n<i>它们值得敬畏，至于你嘛……——军火商步兹</i>",
+  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 这对双持贝瑞塔采用了醒目的绿色与银色涂装，握把部分覆有陶瓷面漆。\\n\\n<i>他们值得尊重，不过对你我可不敢这么说……——布斯，军火商</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "法玛斯 | 精英护卫",
+  "description": "给手头紧的玩家的一个廉价选择，法玛斯有效地填补了昂贵的步枪和杀伤力较低的微型冲锋枪之间的空缺。 它采用黑色与红色进行定制涂装。\\n\\n<i>西装和墨镜单独出售</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "法玛斯"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "精英护卫"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "法玛斯 | 蛇吟",
+  "description": "给手头紧的玩家的一个廉价选择，法玛斯有效地填补了昂贵的步枪和杀伤力较低的微型冲锋枪之间的空缺。 它采用哑光金色为底的定制涂装，绘有一条绿蛇，并以亮金色勾勒轮廓。\\n\\n<i>一丝希望</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "法玛斯"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "蛇吟"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "FN57 | 沙漠封印",
+  "description": "拥有极高的精准度，能穿透护甲，价格昂贵的 FN57 换弹时间较慢，作为补偿，它具有设计巧妙的 20 发子弹和较低的后坐力。 它采用定制涂装，以银紫色呈现沙漠封印。\\n\\n<i>天命召唤</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "FN57"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "沙漠封印"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "格洛克18型 | 幽灵协议",
+  "description": "格洛克18型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 它采用了多种光泽的红色油漆定制涂装。\\n\\n<i>我不在乎你是否被跟踪，你现在已经在这里了——瓦莱里娅·詹纳，革命者</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "格洛克18型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "幽灵协议"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘级",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "格洛克18型 | 火灵纹阵",
+  "description": "格洛克18型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 它采用棕褐与黑色的设计进行定制涂装。\\n\\n<i>过时的情报也是情报，你懂的……</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "格洛克18型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "火灵纹阵"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "格洛克18型 | 巅峰状态",
   "description": "格洛克18型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 采用霓虹色与金属闪光漆手工涂装。\\n\\n<i>对我来说有点太花哨了，但我又不是目标客户……- 军火商布兹</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "蝴蝶刀（★） | 屠夫",
-  "description": "这是一把特别设计的甩刀，也就是人们常说的蝴蝶刀。这把武器的最典型特征它那像扇子一样自由甩动的刀片，可以杀人于无形之中。也正因如此，蝴蝶刀被许多国家所禁止。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这是一把特别设计的甩刀，也就是人们常说的蝴蝶刀。这把武器的最典型特征它那像扇子一样自由甩动的刀片，可以杀人于无形之中。也正因如此，蝴蝶刀被许多国家所禁止。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "求生匕首（★） | 屠夫",
-  "description": "这把多功能战术匕首，采用骨头或纤维等粗糙材料打造成锯齿刀刃及一个锋利的穿肠钩。复合材料握把上还拴了带有六角螺母的刀片。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把多功能战术匕首，采用骨头或纤维等粗糙材料打造成锯齿刀刃及一个锋利的穿肠钩。复合材料握把上还拴了带有六角螺母的刀片。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "系绳匕首（★） | 屠夫",
-  "description": "这把拥有固定刀片的求生刀具为多功能用刀，即可充当武器也可用作工具。比如：可用来布置陷阱，狩猎野兽或砍断树枝。刀具握把用多功能伞绳裹住。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把拥有固定刀片的求生刀具为多功能用刀，即可充当武器也可用作工具。比如：可用来布置陷阱，狩猎野兽或砍断树枝。刀具握把用多功能伞绳裹住。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "海豹短刀（★） | 屠夫",
-  "description": "作为反恐精英系列的经典物品，这把刀的刀锋由钴基合金压制，与钛制刀片、龙骨精准结合。整把刀浑然一体。握柄采用了碳纤维包裹的石化乳齿象牙。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "作为反恐精英系列的经典物品，这把刀的刀锋由钴基合金压制，与钛制刀片、龙骨精准结合。整把刀浑然一体。握柄采用了碳纤维包裹的石化乳齿象牙。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "弯刀（★） | 屠夫",
-  "description": "一把向弯剑致以现代敬意的匕首，它的刀刃是弯曲的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "一把向弯剑致以现代敬意的匕首，它的刀刃是弯曲的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "折叠刀（★） | 屠夫",
-  "description": "具有波斯风格的折叠刀有着锋利的后弯刀片。虽然刀的尖端较易破碎，但从折叠刀的整体设计来看，它出奇的耐用。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "具有波斯风格的折叠刀有着锋利的后弯刀片。虽然刀的尖端较易破碎，但从折叠刀的整体设计来看，它出奇的耐用。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "穿肠刀（★） | 屠夫",
-  "description": "穿肠刀最显著的特征就是刀脊上穿肠钩。最初作为一种荒野求生游戏的辅助手段普及开来，穿肠钩还能毫不费力地切割一些纤维材料，如绳子、带子或是安全带。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "穿肠刀最显著的特征就是刀脊上穿肠钩。最初作为一种荒野求生游戏的辅助手段普及开来，穿肠钩还能毫不费力地切割一些纤维材料，如绳子、带子或是安全带。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "折刀（★） | 屠夫",
-  "description": "这把折叠刀的大理石纹珐琅刀柄中藏着小巧而致命的锥形刀刃。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把折叠刀的大理石纹珐琅刀柄中藏着小巧而致命的锥形刀刃。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "爪子刀（★） | 屠夫",
-  "description": "其弯曲的刀片如同猛虎的利爪一般，爪子刀是作为东南亚马来武术的一部分被研制出来的。这把匕首通常是用食指和无名指反握使用的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "其弯曲的刀片如同猛虎的利爪一般，爪子刀是作为东南亚马来武术的一部分被研制出来的。这把匕首通常是用食指和无名指反握使用的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "廓尔喀刀（★） | 屠夫",
-  "description": "被用于传统仪式中，例如婚礼或祭祀等。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "被用于传统仪式中，例如婚礼或祭祀等。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "M9 刺刀（★） | 屠夫",
-  "description": "这是 M-9 刺刀。起初是装在步枪上面的，其同时还非常适合近距离作战。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这是 M-9 刺刀。起初是装在步枪上面的，其同时还非常适合近距离作战。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "流浪者匕首（★） | 屠夫",
-  "description": "这把符合人体工程学的战术狩猎匕首，内嵌复合握把以及坚固宽刃，可用于切割或撬开材料。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把符合人体工程学的战术狩猎匕首，内嵌复合握把以及坚固宽刃，可用于切割或撬开材料。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "暗影双匕（★） | 屠夫",
-  "description": "专为高效行凶设计，手推短匕用起来就和挥一两记重拳一样简单。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "专为高效行凶设计，手推短匕用起来就和挥一两记重拳一样简单。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "骷髅匕首（★） | 屠夫",
-  "description": "这把镂空的匕首被绑在握把上以提升握感。刀身上的空洞允许手指伸过以提升稳定性与安全性。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把镂空的匕首被绑在握把上以提升握感。刀身上的空洞允许手指伸过以提升稳定性与安全性。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "短剑（★） | 屠夫",
-  "description": "作为历史上舆论乃至法规的讨论焦点，这把配备着弹簧加压刀刃的意大利短剑可以在按下开关的瞬间弹出到位。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "作为历史上舆论乃至法规的讨论焦点，这把配备着弹簧加压刀刃的意大利短剑可以在按下开关的瞬间弹出到位。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "鲍伊猎刀（★） | 屠夫",
-  "description": "这把全龙骨锯齿的鲍伊猎刀是专为在残酷的生存环境中大量使用而设计的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把全龙骨锯齿的鲍伊猎刀是专为在残酷的生存环境中大量使用而设计的。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "猎杀者匕首（★） | 屠夫",
-  "description": "一把专门用于现代战术的特制匕首，精细设计的刀刃无论是用在战斗上还是满足实用需求上都很合适。匕首独特的尖头能够造成最大的穿透伤害，即使是最坚韧的表层也能刺破。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "一把专门用于现代战术的特制匕首，精细设计的刀刃无论是用在战斗上还是满足实用需求上都很合适。匕首独特的尖头能够造成最大的穿透伤害，即使是最坚韧的表层也能刺破。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "熊刀（★） | 屠夫",
-  "description": "这把日式短刀风格的求生刀具拥有多面刀刃和带握点的全刀柄。没有任何多余的部分 - 一把时刻准备战斗的可靠武器。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把日式短刀风格的求生刀具拥有多面刀刃和带握点的全刀柄。没有任何多余的部分 - 一把时刻准备战斗的可靠武器。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "锯齿爪刀（★） | 屠夫",
-  "description": "这把象牙把手的爪子刀搭配了铜钉和锯齿刀背，以达到进刀切割、出刀撕裂的效果。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的<i>",
+  "description": "这把象牙把手的爪子刀搭配了铜钉和锯齿刀背，以达到进刀切割、出刀撕裂的效果。 这把武器配上斑纹图案，使用铝和拥有不同反射率的铬涂料进行了涂装，然后覆上了番茄红色的糖衣。\\n\\n<i>瓦莱里娅不是雇哈维来提出问题的… 而是雇他来探出答案的</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | 暗影特工",
+  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 它采用哑光黑和银色定制涂装，并配以白色图形设计。\\n\\n<i>功能优先于风格</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "暗影特工"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | 吞天巨蛇",
+  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 它采用沙色基底进行定制涂装，绘有一条红色的蛇。\\n\\n<i>你掌握的力量需加以克制</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "吞天巨蛇"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密级",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | 涡轮",
   "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 这款定制涂装采用了酒红色底漆。\\n\\n<i>警告：持续射击可能导致过热</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1消音版 | 致命故障",
+  "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 它采用亮绿色珠光漆进行了定制涂装。\\n\\n<i>当低调不再是一种选择</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1消音版"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "致命故障"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密级",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | 阿拉伯式马赛克",
+  "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 它采用定制涂装，绘有变幻的中东风景图案。\\n\\n<i>流沙不止</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "阿拉伯式马赛克"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | 灯箱",
   "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 这把武器的定制涂装让你觉得好像正在看MAC-10的背面一样。\\n\\n<i>自定义</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | 射向头",
+  "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 它经定制涂装为手持摄像机的模样。\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "射向头"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | 二进制",
+  "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 它采用绿色和黑色并以 1 和 0 组成的图案进行了定制涂装。\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "二进制"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | 笑一个",
   "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 蓝色和紫色的底漆上装饰有一个笑脸和黄色的“Just Smile”字样。\\n\\n<i>\\\"说 茄——子\\\"</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | 沙蝰",
+  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 它以棕褐色为基底，用白色书法风格笔触绘制了一条蛇。\\n\\n<i>来自荒芜世界的奇异文物</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "沙蝰"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | 中枢",
   "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 它采用了银黑蓝现代主义涂装。\\n\\n<i>低调的私人印记</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | 特工原型",
+  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 它采用白色缎面基底进行定制涂装，并饰以蓝色图案。\\n\\n<i>结果可能会有所不同</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "特工原型"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "新星 | 樱花之绚烂",
-  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 这把武器使用盛开樱花的图案进行了手工喷刷，然后附上了光彩夺目的外表。",
+  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 它采用手工喷涂樱花图案，再覆以高光面漆。",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "新星 | 晨谕",
+  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 它采用沙色涂装绘制出精美图案。\\n\\n<i>力量始于光明\\n</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "新星"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "晨谕"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "新星 | 目镜",
   "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 这款定制涂装包含简洁的几何形状与写实细节，其灵感来源于抽象超现实主义及20世纪艺术家的作品。\\n\\n<i>眼见为实</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "新星 | 枪工智能",
+  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 照门附近绘制了一个大脑图案，看起来像是嵌入到武器之中，并覆以金属银色漆面。\\n\\n<i>科技与有机物的结合</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "新星"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "枪工智能"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | 污染物",
-  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 这把枪的栗色表层已经被侵蚀殆尽，沦为一件腐烂的玩意儿，没多大用处了。\\n\\n<i>看起来很糟，用起来更糟。</i>",
+  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 其栗色面漆已被侵蚀殆尽，留下了一把腐朽的武器，仅剩有限的可用次数。\\n\\n<i>它就和看起来一样糟糕</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | 莲花印",
+  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 它采用金色与蓝色金属漆进行定制涂装。\\n\\n<i>掌中一莲胜过击杀并蒂</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "莲花印"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限级",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8左轮手枪 | 帝王蝶",
+  "description": "R8左轮手枪有着高度精准且极具杀伤力的子弹，但代价是扳机拉动时间较长。在需要近距离火力压制的情况下，用手扳动击锤快速射击或许是最佳选择。 它采用橙色和灰色进行定制涂装，并配有黄铜色饰面处理的控件。\\n\\n<i>地位与权势的象征</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8左轮手枪"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "帝王蝶"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8左轮手枪 | 探戈",
   "description": "R8左轮手枪有着高度精准且极具杀伤力的子弹，但代价是扳机拉动时间较长。在需要近距离火力压制的情况下，用手扳动击锤快速射击或许是最佳选择。 这款定制涂装为木质握把，并点缀了玫瑰图案。\\n\\n<i>你愿意接受吗？</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "截短霰弹枪 | 月虬",
+  "description": "经典的截短霰弹枪拥有强大的近距离杀伤力，但同时也有着低精准，高散布和低射速的特点，你最好能迅速解决掉你击中的“地方”。 它在深红色基底上定制绘出了一条巨蛇。\\n\\n<i>盘踞于世界深处</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "截短霰弹枪"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "月虬"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "截短霰弹枪 | 辐照警报",
   "description": "经典的截短霰弹枪拥有强大的近距离杀伤力，但同时也有着低精准，高散布和低射速的特点，你最好能迅速解决掉你击中的“地方”。 这把武器以辐射危险警告图案进行了喷漆。",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | 冰原迷彩",
+  "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 涂装采用了绿色与灰色迷彩图案。\\n\\n<i>召集所有北极复仇者！</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "冰原迷彩"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | 牢笼",
   "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 这把武器采用了蓝紫渐变色进行了自定义涂装。\\n\\n<i>“笼子这么小，武器却这么大……”</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | 风蚀铭沙",
+  "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 装饰图案由伪书法和阿拉伯式几何花纹构成。\\n\\n<i>经高温、沙尘与干风塑就</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "风蚀铭沙"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | 边界",
+  "description": "一把T进行机动作战的理想手枪，Tec-9 可以在近距离造成致命伤害，且弹匣容量较高。 它采用了由 X 形、方形和圆点组成的多彩设计。\\n\\n<i>绘制着 X 与 O</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "边界"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | 苏丹",
+  "description": "一把T进行机动作战的理想手枪，Tec-9 可以在近距离造成致命伤害，且弹匣容量较高。 它采用阿拉伯风格的镶嵌图案进行定制涂装。\\n\\n<i>以战止战</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "苏丹"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "蔓藤纹收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | 机械装置",
   "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 这把武器绘有阳极氧化的发动机部件图案。\\n\\n<i>“看上去不太妙……”</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP消音版 | 眩流",
+  "description": "从《反恐精英：起源》中穿越而来，是玩家们的最爱，消音版 USP 手枪装有一个可拆卸的消音器，降低后坐力的同时还能抑制住容易引起注意的枪声。 定制涂装将颠覆性的设计覆于珠光漆面之下。\\n\\n<i>他们根本不知道是什么击中了他们</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP消音版"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "眩流"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密级",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | 太古传说",
   "description": "XM1014 是一把强大的全自动霰弹枪，其高昂的价格赋予了它高射速和室内清剿的能力。 这把武器使用了浅绿、米色与红色相搭配的花纹。\\n\\n<i>\\\"我们必须对生活先有信心，然后才能使生活永远延续下去，而所谓信心，就是希望。\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | 暗域",
+  "description": "XM1014 是一把强大的全自动霰弹枪，其高昂的价格赋予了它高射速和室内清剿的能力。 它采用哑光黑、灰色和青铜色进行定制涂装。\\n\\n<i>整点动静</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "暗域"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "工业级",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "谍影收藏品",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }

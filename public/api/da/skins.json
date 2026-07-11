@@ -6646,6 +6646,73 @@
   }
  },
  {
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "description": "AK-47, kraftfuld og pålidelig, er en af de mest populære kamprifler i verden. Den er mest dødelig i korte, kontrollerede salver af skud. Den er blevet specialmalet med en blå og pink graduering i højglans og en række grafiske mønstre.\\n\\n<i>\\\"Kill\\\" i konsollen</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "ak47_autoexec_camo",
+   "name": "AUTOEXEC"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1449",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
   "description": "AK-47, kraftfuld og pålidelig, er en af de mest populære kamprifler i verden. Den er mest dødelig i korte, kontrollerede salver af skud. En trane og gulddetaljer er håndmalet på en sort og hvid base.\\n\\n<i>Forud for blodmånen</i>",
@@ -6787,6 +6854,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-651edfe9a99a",
+  "name": "AK-47 | Consequence of the Jinn",
+  "description": "AK-47, kraftfuld og pålidelig, er en af de mest populære kamprifler i verden. Den er mest dødelig i korte, kontrollerede salver af skud. Den er blevet specialmalet med en skarp orange base, højglanspolerede gyldne flammer og en djinn malet på og over magasinet.\\n\\n<i>Ønsk med omhu...</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "ak47_jinn_consequence",
+   "name": "Consequence of the Jinn"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1466",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -11867,6 +12001,140 @@
   }
  },
  {
+  "id": "skin-898c79236bd1",
+  "name": "AUG | Signal Scanner",
+  "description": "Den kraftfulde og nøjagtige AUG-kampriffel med kikkertsigte kompenserer for dens lange genladningstider med en lille spredning og en høj skudhastighed. Specialmalet med flerfarvede mønstre over en mat sort base.\\n\\n<i>> Prøver at få forbindelse igen ... ... ...</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "aug_ghost_signal",
+   "name": "Signal Scanner"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1452",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "description": "Den kraftfulde og nøjagtige AUG-kampriffel med kikkertsigte kompenserer for dens lange genladningstider med en lille spredning og en høj skudhastighed. Den er blevet specialmalet med et hvidt, blåt og gyldent mønster for at ligne lasursten.\\n\\n<i>Et udsøgt værk, både kraftfuldt og skrøbeligt</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "aug_lapis_lazuli",
+   "name": "Lapis Lazuli"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1464",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
   "id": "skin-f0c2d895b50d",
   "name": "AUG | Luxe Trim",
   "description": "Den kraftfulde og nøjagtige AUG-kampriffel med kikkertsigte kompenserer for dens lange genladningstider med en lille spredning og en høj skudhastighed. Den er blevet specialmalet til at ligne og give følelsen af en dunjakke og lakeret med bronzefarvede toner.\\n\\n<i>Premiumpakken</i>",
@@ -14927,6 +15195,73 @@
   }
  },
  {
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "description": "Den berygtede AWP, med stor risiko og stor gevinst, er genkendelig med dens signaturrapport og ét skud, ét drab-politik. Den er blevet specialmalet med mat sort maling og afsluttet med en orange stribe.\\n\\n<i>Nu ikke noget fancy, hører du?</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "awp_black_box",
+   "name": "Black Box"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1467",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-a5be0877a3d7",
   "name": "AWP | Ice Coaled",
   "description": "Den berygtede AWP, med stor risiko og stor gevinst, er genkendelig med dens signaturrapport og ét skud, ét drab-politik. Den er blevet specialmalet med en prangende grøn og blå graduering.\\n\\n<i>Kold at røre ved</i>",
@@ -15219,6 +15554,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "description": "Den berygtede AWP, med stor risiko og stor gevinst, er genkendelig med dens signaturrapport og ét skud, ét drab-politik. Den er blevet specialmalet med et gyldent sigte og flammer, som løber langs våbnet.\\n\\n<i>Den ophøjede vandt</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "awp_sovereign_flame",
+   "name": "Sovereign Flame"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1465",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -19213,7 +19615,7 @@
  {
   "id": "skin-8084beee1235",
   "name": "Bajonet (★) | Slaughter",
-  "description": "Bajonetten, der er relativt uændret i sit design siden Anden Verdenskrig, har stadig sin plads i moderne militærstrategier. Bajonetangreb har fortsat været effektive så nyligt som i den anden Golfkrig og krigen i Afghanistan. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Bajonetten, der er relativt uændret i sit design siden Anden Verdenskrig, har stadig sin plads i moderne militærstrategier. Bajonetangreb har fortsat været effektive så nyligt som i den anden Golfkrig og krigen i Afghanistan. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21554,6 +21956,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-597120dcc9dc",
+  "name": "PP-Bizon | Traitor",
+  "description": "Bizon-maskinpistolen gør lav skade men tilbyder et unikt designet højkapacitet-tromlemagasin, der genlader hurtigt. Den er blevet specialmalet i et bronze- og gulddesign.\\n\\n<i>Bronze og kugler</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "bizon_traitor",
+   "name": "Traitor"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1472",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -25507,6 +25976,73 @@
   }
  },
  {
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "description": "Som en fuld-automatisk variant til CZ75'eren er CZ75-Auto'en endnu et ideelt, kortsigtet valg for at vende situationen og få fat i din fjendes våben. Men med meget lidt ammunition i magasinet, kræves en stærk aftrækkerdisciplin. Magasinet er malet, så det ligner polymermateriale. \\\"HYDRA\\\" er malet over aftrækkeren.\\n\\n<i>Er du Herakles?</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "cz75_hydraulics",
+   "name": "Hydraulics"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1443",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Tacticat",
   "description": "Som en fuld-automatisk variant til CZ75'eren er CZ75-Auto'en endnu et ideelt, kortsigtet valg for at vende situationen og få fat i din fjendes våben. Men med meget lidt ammunition i magasinet, kræves en stærk aftrækkerdisciplin. Den er blevet håndmalet med pink og lilla og er pyntet med små katteklistermærker.\\n\\n<i>24 kugler, 9 liv</i>",
@@ -28871,6 +29407,73 @@
   }
  },
  {
+  "id": "skin-febc497c7cf2",
+  "name": "Desert Eagle | Eastern Enigma",
+  "description": "Desert Eagle, så dyr som den er kraftfuld, er en ikonisk pistol, der er svær at mestre men overraskende præcis på lang afstand. Den er blevet specialmalet med et metallisk sølv, sort og blåt design.\\n\\n<i>Mist ikke tråden</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "deagle_eastern_enigma_blue",
+   "name": "Eastern Enigma"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1458",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
   "description": "Desert Eagle, så dyr som den er kraftfuld, er en ikonisk pistol, der er svær at mestre men overraskende præcis på lang afstand. Den er specialmalet med lilla og blå flammer med skinnende lak.\\n\\n<i>Har exceptionelle egenskaber og evner</i>",
@@ -31468,6 +32071,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "description": "At affyre to stormagasin-Berettaer på samme tid gør præcisionen mindre og forøger ladetider. På den lyse side får du lov til at affyre to stormagasin-Berettaer på samme tid. Den er blevet specialmalet med bølgende linjer i guld, som smelter sammen til et ørkenøje, når de lægges ovenpå hinanden.\\n\\n<i>En fælles vision</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "dualies_mystic_conjunction_v3",
+   "name": "Mystic Conjunction"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1459",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png",
   "original": {
    "name": "weapon_elite"
   }
@@ -34653,6 +35323,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "description": "Som en billig mulighed for pengemanglende spillere fylder FAMAS effektivt nichen mellem dyrere rifler og de mindre effektive maskinpistoler. Den er blevet specialmalet i sort og rød.\\n\\n<i>Jakkesæt og solbriller sælges separat</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "famas_corp_defense",
+   "name": "Corp Defense"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1477",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "description": "Som en billig mulighed for pengemanglende spillere fylder FAMAS effektivt nichen mellem dyrere rifler og de mindre effektive maskinpistoler. Den er blevet specialmalet med en grøn slange, som fremhæves med et lyst guldomrids over en mat guldfarvet base.\\n\\n<i>Et glimmer af håb</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "famas_snake_song",
+   "name": "Snake Song"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1461",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -37875,6 +38679,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-4390d95df013",
+  "name": "Five-SeveN | Desert Seal",
+  "description": "Den meget præcise og panserbrydende, men dyre, Five-Seven er en langsom lader, der kompenserer med et gavmildt 20-skudsmagasin og tilgivende rekyl. Den er blevet specialmalet med et Desert Seal-design i sølv og lilla.\\n\\n<i>Skæbnen kalder</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "fiveseven_desert_seal",
+   "name": "Desert Seal"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1457",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -47857,6 +48728,140 @@
   }
  },
  {
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "description": "Glock 18 er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere og er i stand til at affyre tre-skudssalver. Den er specialmalet med en rød maling i forskellige glansgrader.\\n\\n<i>Jeg er ligeglad med, om du blev forfulgt, du er her nu – Valeria Jenner, revolutionær</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "glock_ghost_protocol_red",
+   "name": "Ghost Protocol"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1450",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "description": "Glock 18 er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere og er i stand til at affyre tre-skudssalver. Den er blevet specialmalet med et gyldenbrunt og sort design.\\n\\n<i>Forældet information er stadig information, ved du...</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "glock_ifrit_lattice",
+   "name": "Ifrit Lattice"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1460",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
   "description": "Glock 18 er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere og er i stand til at affyre tre-skudssalver. Den er specialmalet med neonfarver og metallisk glittermaling.\\n\\n<i>Det er lige i overkanten til mig, men det er ikke mig, der er målgruppen... – Booth, våbenhandler</i>",
@@ -53415,7 +54420,7 @@
  {
   "id": "skin-eae7c10fa54f",
   "name": "Butterfly-kniv (★) | Slaughter",
-  "description": "Dette er en specialdesignet balisong, almindeligvis kendt som en butterfly-kniv. De definerende karakteristikker af dette våben er den blæser-lignende åbning af den fritdrejende klinge, hvilket tillader hurtig udfoldning eller skjulning. Som et resultat er butterfly-knive ulovlige i mange lande. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Dette er en specialdesignet balisong, almindeligvis kendt som en butterfly-kniv. De definerende karakteristikker af dette våben er den blæser-lignende åbning af den fritdrejende klinge, hvilket tillader hurtig udfoldning eller skjulning. Som et resultat er butterfly-knive ulovlige i mange lande. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -55203,7 +56208,7 @@
  {
   "id": "skin-239162799f41",
   "name": "Overlevelseskniv (★) | Slaughter",
-  "description": "Denne taktiske universalkniv har en savtakket æg, som kan skære igennem hårdt materiale som knogler eller fiber samt en skarp krog. Skaftet er lavet af kompositmateriale og er skruet fast med sekskantede skruer. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne taktiske universalkniv har en savtakket æg, som kan skære igennem hårdt materiale som knogler eller fiber samt en skarp krog. Skaftet er lavet af kompositmateriale og er skruet fast med sekskantede skruer. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -56738,7 +57743,7 @@
  {
   "id": "skin-f04f7388bd8b",
   "name": "Paracordkniv (★) | Slaughter",
-  "description": "Denne overlevelseskniv har et fikseret knivblad og er designet til at kunne tåle brug som både et våben og værktøj til at opsætte fælder, jagte dyr eller klippe buske. Skaftet er pakket ind i universel faldskærmssnor. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne overlevelseskniv har et fikseret knivblad og er designet til at kunne tåle brug som både et våben og værktøj til at opsætte fælder, jagte dyr eller klippe buske. Skaftet er pakket ind i universel faldskærmssnor. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -57821,7 +58826,7 @@
  {
   "id": "skin-04079b605b66",
   "name": "Klassisk kniv (★) | Slaughter",
-  "description": "Denne kniv er en klassiker i Counter-Strike-serien. Bladet er af stellit, som holdes perfekt på plads med prespasningen med titanen på knivbladets ryg og side. Håndtaget er lavet af fossileret mastodontelfenben, som sidder i en kulfiberlomme. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne kniv er en klassiker i Counter-Strike-serien. Bladet er af stellit, som holdes perfekt på plads med prespasningen med titanen på knivbladets ryg og side. Håndtaget er lavet af fossileret mastodontelfenben, som sidder i en kulfiberlomme. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -59469,7 +60474,7 @@
  {
   "id": "skin-a0e461882742",
   "name": "Falchion-kniv (★) | Slaughter",
-  "description": "Denne slagpunktsklinge, der er en moderne hyldest til et falchion-sværd, har en kurvet kant. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne slagpunktsklinge, der er en moderne hyldest til et falchion-sværd, har en kurvet kant. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -61759,7 +62764,7 @@
  {
   "id": "skin-66d8b7a8bda6",
   "name": "Foldekniv (★) | Slaughter",
-  "description": "Foldeknive er prydet med en persiskstilet tilbagefejende klinge med en skarp spids. Mens spidsen i sig selv måske er skrøbeligt, er foldeknivens overordnede design overraskende holdbart. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Foldeknive er prydet med en persiskstilet tilbagefejende klinge med en skarp spids. Mens spidsen i sig selv måske er skrøbeligt, er foldeknivens overordnede design overraskende holdbart. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -64619,7 +65624,7 @@
  {
   "id": "skin-9505695d72d4",
   "name": "Jagtkniv (★) | Slaughter",
-  "description": "Den mest fremtrædende af jagtknivens funktioner er tarmkrogen på klingens ryg. Selvom den originalt blev populariseret til at hjælpe med at fjerne dyreindvolde under jagt, er tarmkrogen også effektiv til at skære gennem fiberholdigt materiale som reb, stropper eller sikkerhedsbælter med lethed. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Den mest fremtrædende af jagtknivens funktioner er tarmkrogen på klingens ryg. Selvom den originalt blev populariseret til at hjælpe med at fjerne dyreindvolde under jagt, er tarmkrogen også effektiv til at skære gennem fiberholdigt materiale som reb, stropper eller sikkerhedsbælter med lethed. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -67017,7 +68022,7 @@
  {
   "id": "skin-4facadf19ddb",
   "name": "Navaja-kniv (★) | Slaughter",
-  "description": "Denne springkniv med et greb i marmoremalje skjuler en lille, men ondt tilspidset klinge. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne springkniv med et greb i marmoremalje skjuler en lille, men ondt tilspidset klinge. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -69074,7 +70079,7 @@
  {
   "id": "skin-818be290cd5b",
   "name": "Karambit (★) | Slaughter",
-  "description": "Med dens kurvede klinge, der efterligner en tigers klo, blev karambitten udviklet som del af den sydøstasiatiske kampsport silat. Kniven bruges typisk med et omvendt greb med fingerringen på pegefingeren. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Med dens kurvede klinge, der efterligner en tigers klo, blev karambitten udviklet som del af den sydøstasiatiske kampsport silat. Kniven bruges typisk med et omvendt greb med fingerringen på pegefingeren. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -70985,7 +71990,7 @@
  {
   "id": "skin-0808024a639a",
   "name": "Kukrikniv (★) | Slaughter",
-  "description": "Bruges i traditionelle ceremonier, såsom bryllupper og knivoverfald. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Bruges i traditionelle ceremonier, såsom bryllupper og knivoverfald. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -72778,7 +73783,7 @@
  {
   "id": "skin-07fea33b6a5f",
   "name": "M9-bajonet (★) | Slaughter",
-  "description": "Dette er M9-bajonetten. Originalt beregnet til at montere på en riffel, men den er også velegnet til nærkamp. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Dette er M9-bajonetten. Originalt beregnet til at montere på en riffel, men den er også velegnet til nærkamp. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -75136,7 +76141,7 @@
  {
   "id": "skin-74f72ddc6769",
   "name": "Nomadekniv (★) | Slaughter",
-  "description": "Denne ergonomiske, taktiske jagtkniv har et bredt og solidt knivblad, som kan låses. Den er god til at skære og lirke materiale fra hinanden. Skaftet er lavet af kompositmateriale. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne ergonomiske, taktiske jagtkniv har et bredt og solidt knivblad, som kan låses. Den er god til at skære og lirke materiale fra hinanden. Skaftet er lavet af kompositmateriale. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -77083,7 +78088,7 @@
  {
   "id": "skin-7741632caeaf",
   "name": "Shadow-daggerter (★) | Slaughter",
-  "description": "Designet til effektiv brutalitet, at bruge en skubbedaggert er så simpelt som at slå en gang eller to. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Designet til effektiv brutalitet, at bruge en skubbedaggert er så simpelt som at slå en gang eller to. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -78871,7 +79876,7 @@
  {
   "id": "skin-6b5516a41499",
   "name": "Skeletkniv (★) | Slaughter",
-  "description": "Denne skelettangkniv er blevet tapet ved håndtaget for at forbedre grebet. Hullet gør det muligt at føre en finger igennem for at sikre stabilitet og sikkerhed. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne skelettangkniv er blevet tapet ved håndtaget for at forbedre grebet. Hullet gør det muligt at føre en finger igennem for at sikre stabilitet og sikkerhed. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -80446,7 +81451,7 @@
  {
   "id": "skin-05341f90a3cf",
   "name": "Stiletto-kniv (★) | Slaughter",
-  "description": "Denne italienske stiletto-springkniv har historisk set været omdrejningspunkt for kontrovers og lovgivning. Den har en fjedermekanisme, der kan skubbe kniven ud på et øjeblik. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne italienske stiletto-springkniv har historisk set været omdrejningspunkt for kontrovers og lovgivning. Den har en fjedermekanisme, der kan skubbe kniven ud på et øjeblik. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -82413,7 +83418,7 @@
  {
   "id": "skin-5f746d4751f8",
   "name": "Bowie-kniv (★) | Slaughter",
-  "description": "Denne savtakkede, fuld-angel Bowie-kniv er designet til hård brug i brutale overlevelsessituationer. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne savtakkede, fuld-angel Bowie-kniv er designet til hård brug i brutale overlevelsessituationer. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -84613,7 +85618,7 @@
  {
   "id": "skin-2cab831d314a",
   "name": "Huntsman-kniv (★) | Slaughter",
-  "description": "En kniv designet til moderne taktisk brug, hvor klingen er velegnet til et sortiment af både kamp- og nyttebehov. Det unikke Tanto-punkt tillader maksimal penetration gennem selv de stærkeste overflader. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "En kniv designet til moderne taktisk brug, hvor klingen er velegnet til et sortiment af både kamp- og nyttebehov. Det unikke Tanto-punkt tillader maksimal penetration gennem selv de stærkeste overflader. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -86441,7 +87446,7 @@
  {
   "id": "skin-3bdc5f369061",
   "name": "Ursus-kniv (★) | Slaughter",
-  "description": "Denne overlevelseskniv i tanto-stil har en facetteret, fuldtangs knivklinge, fuldført med sværknop. Ingen problemer, ingen bevægelige dele – bare et pålideligt blad, der er klar til brug. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne overlevelseskniv i tanto-stil har en facetteret, fuldtangs knivklinge, fuldført med sværknop. Ingen problemer, ingen bevægelige dele – bare et pålideligt blad, der er klar til brug. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -88036,7 +89041,7 @@
  {
   "id": "skin-39fd4dd08be3",
   "name": "Talon-kniv (★) | Slaughter",
-  "description": "Denne karambitformede kniv med elfenbensgreb har messingnitter og savkanter, så den skærer på vejen ind og river, når den trækkes ud. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem<i>",
+  "description": "Denne karambitformede kniv med elfenbensgreb har messingnitter og savkanter, så den skærer på vejen ind og river, når den trækkes ud. Den er blevet malet i et zebrastribe-mønster med aluminium- og kromfarver med forskellige refleksionsevner, og den er derefter blevet dækket med en tomatrød slik-lak.\\n\\n<i>Valeria betaler ikke Javier for at stille spørgsmål... Hun betaler ham for at lirke svar frem</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -93973,6 +94978,140 @@
   }
  },
  {
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "description": "M4A4, mere præcis men mindre skadende end sit AK-47-modstykke, er den mest populære fuldautomatiske riffel for CT'ere. Den er blevet specialmalet i mat sort og sølvfarve og afsluttet med hvide grafiske mønstre.\\n\\n<i>Funktion før stil</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "m4a4_black_side_matte",
+   "name": "Dark Operative"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1446",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "description": "M4A4, mere præcis men mindre skadende end sit AK-47-modstykke, er den mest populære fuldautomatiske riffel for CT'ere. Den er blevet specialmalet med en rød slange på en gyldenbrun base.\\n\\n<i>Den magt, du har, kræver, at du behersker den</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "m4a4_falak",
+   "name": "Falak"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1463",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-6bdcfb1366c6",
   "name": "M4A4 | Turbine",
   "description": "M4A4, mere præcis men mindre skadende end sit AK-47-modstykke, er den mest populære fuldautomatiske riffel for CT'ere. Den er blevet specialmalet med en vinfarvet base.\\n\\n<i>ADVARSEL: Langvarig affyring kan forårsage overophedning</i>",
@@ -97286,6 +98425,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-1372e31792c1",
+  "name": "M4A1-S | Fatal Glitch",
+  "description": "Med et mindre magasin end sit udæmpede modstykke, giver den lydløse M4A1 støjsvage skud med mindre rekyl og bedre præcision. Den er blevet specialmalet med en skinnende lysegrøn maling.\\n\\n<i>Når det ikke duer at holde lav profil</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "hye_spyglitch_green_m4a1s",
+   "name": "Fatal Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1476",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -101600,6 +102806,73 @@
   }
  },
  {
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "description": "MAC-10-maskinpistolen, der egentlig bare er en kasse, som kugler kommer ud af, har en hurtig skudhastighed men med dårlig præcision og høj rekyl til afvejning. Den er blevet specialmalet med et skiftende mønster af landskaber inspireret af Mellemøsten.\\n\\n<i>Konstant foranderlige sanddyner</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mac10_arabesque_gold",
+   "name": "Arabesque Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1454",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
   "id": "skin-543d85d8ca60",
   "name": "MAC-10 | Light Box",
   "description": "MAC-10-maskinpistolen, der egentlig bare er en kasse, som kugler kommer ud af, har en hurtig skudhastighed men med dårlig præcision og høj rekyl til afvejning. Den er blevet specialmalet, så det ser ud, som om man kan se ind i selve våbnet.\\n\\n<i>Specialbygget</i>",
@@ -101892,6 +103165,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-9cfeaf972aa7",
+  "name": "MAC-10 | Video Cam",
+  "description": "MAC-10-maskinpistolen, der egentlig bare er en kasse, som kugler kommer ud af, har en hurtig skudhastighed men med dårlig præcision og høj rekyl til afvejning. Den er blevet specialmalet, så den ligner et håndholdt kamera.\\n\\n<i>REC...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mac10_video_cam",
+   "name": "Video Cam"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1448",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -109655,6 +110995,73 @@
   }
  },
  {
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "description": "Den tysklavede MP7-maskinpistol, fleksibel men dyr, er det perfekte valg til kamp på korte afstande med stor virkning. Den er blevet specialmalet med ettaller og nuller i grøn og sort.\\n\\n<i>01001101 01010000 00110111</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp7_binary_green",
+   "name": "Base-2"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1468",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "Den tysklavede MP7-maskinpistol, fleksibel men dyr, er det perfekte valg til kamp på korte afstande med stor virkning. Den blå og lilla underlak er belagt med et gult smilende ansigt og teksten \\\"Just Smile\\\".\\n\\n<i>\\\"Appelsiiin\\\"</i>",
@@ -113213,6 +114620,73 @@
   }
  },
  {
+  "id": "skin-ba6bf5572bb9",
+  "name": "MP9 | Dune Asp",
+  "description": "Den banebrydende MP9-maskinpistol, der fremstilles i Schweiz, er et våben af ergonomisk polymer, som mange private sikkerhedsfirmaer foretrækker. En slange er blevet specialmalet med hvide kalligrafiske strøg over en lysebrun base.\\n\\n<i>Et usædvanligt artefakt fra en øde verden</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp9_dune_asp",
+   "name": "Dune Asp"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1473",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
   "id": "skin-038541568496",
   "name": "MP9 | Nexus",
   "description": "Den banebrydende MP9-maskinpistol, der fremstilles i Schweiz, er et våben af ergonomisk polymer, som mange private sikkerhedsfirmaer foretrækker. Den er blevet specialmalet i sølv, sort og blå med moderne design indlagt i sølvmalingen.\\n\\n<i>Et personligt, men alligevel diskret præg</i>",
@@ -113281,6 +114755,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-d79f18bbf38c",
+  "name": "MP9 | Spy Prototype",
+  "description": "Den banebrydende MP9-maskinpistol, der fremstilles i Schweiz, er et våben af ergonomisk polymer, som mange private sikkerhedsfirmaer foretrækker. Den er blevet specialmalet med en hvid satinbase og afsluttet med blå mønstre.\\n\\n<i>Resultaterne kan variere</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp9_prototype_extended",
+   "name": "Spy Prototype"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1469",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -117361,7 +118902,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Bloomstick",
-  "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Den er blevet airbrushet i hånden med et kirsebærblomst-motiv og derefter givet et højglansdæklag.",
+  "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Den er blevet airbrushet i hånden med et kirsebærblomstmotiv og derefter givet et højglansdæklag.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -118571,6 +120112,73 @@
   }
  },
  {
+  "id": "skin-4ab74eebe0c0",
+  "name": "Nova | Morning Sun",
+  "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Der er påført et kompliceret design med sandfarvet lak.\\n\\n<i>Styrke begynder med lys</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "nova_morning_sun",
+   "name": "Morning Sun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1474",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
   "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Specialmalet med enkle geometriske former og realistiske detaljer inspireret af abstrakt surrealisme og værker fra kunstnere fra det 20. århundrede.\\n\\n<i>Øjnene, der ser</i>",
@@ -118712,6 +120320,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Den er blevet specialmalet med en hjerne ved bagsigtet, som er designet, så den virker indbygget i våbnet, og afsluttet med metallisk sølvmaling.\\n\\n<i>Forening af teknik og organisk materiale</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "nova_smart",
+   "name": "Smart Gun"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1442",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png",
   "original": {
    "name": "weapon_nova"
   }
@@ -120913,7 +122588,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Contaminant",
-  "description": "P250, et lavrekyl-skydevåben med høj skudhastighed, er et relativt billigt valg mod pansrede fjender. Dens rødbrune toplag er ætset væk og har efterladt et forfaldende våben med begrænset levetid.\\n\\n<i>Det er lige så slemt, som det ser ud</i>",
+  "description": "P250, et lavrekyl-skydevåben med høj skudhastighed, er et relativt billigt valg mod pansrede fjender. Dens rødbrune toplag er ætset væk og har efterladt et våben i forfald med begrænset levetid.\\n\\n<i>Det er lige så slemt, som det ser ud</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123255,6 +124930,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-9f80f7a57fce",
+  "name": "P250 | Lotus Imprint",
+  "description": "P250, et lavrekyl-skydevåben med høj skudhastighed, er et relativt billigt valg mod pansrede fjender. Den er blevet specialmalet med guldfarvet og blå metallisk flagemaling.\\n\\n<i>En lotus i hånden er bedre end to i drabsfeedet</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "p250_lotus_imprint_glitter_purple",
+   "name": "Lotus Imprint"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1455",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -129778,6 +131520,73 @@
   }
  },
  {
+  "id": "skin-68f3c97df6fb",
+  "name": "R8-revolver | Monarch",
+  "description": "R8-revolveren leverer en meget nøjagtig og kraftfuld kugle men er længe om at udføre trykket på aftrækkeren. At skyde hurtigt, ved at slå på slagstiften, kan være den bedste mulighed, når stoppende kraft på klos hold er krævet. Den er blevet specialmalet i orange og grå med messingfarvede detaljer.\\n\\n<i>Et symbol på status og autoritet</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8-revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "r8_monarch_extended",
+   "name": "Monarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1445",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-3604c7754aa6",
   "name": "R8-revolver | Tango",
   "description": "R8-revolveren leverer en meget nøjagtig og kraftfuld kugle men er længe om at udføre trykket på aftrækkeren. At skyde hurtigt, ved at slå på slagstiften, kan være den bedste mulighed, når stoppende kraft på klos hold er krævet. Den er blevet specialmalet med trægreb og roser.\\n\\n<i>Vil du tage imod den?</i>",
@@ -132792,6 +134601,73 @@
   }
  },
  {
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-off | Lunar Wyrm",
+  "description": "Den klassiske Sawed-off gør meget kraftig skade på korte afstande, men med dens lave præcision, store spredning og langsomme skudhastighed må du hellere dræbe, hvad du rammer. En slange er blevet specialmalet over en højrød base.\\n\\n<i>Sammenrullet i verdens dyb</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "sawedoff_lunar_wyrm",
+   "name": "Lunar Wyrm"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1475",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-279d95d3dd65",
   "name": "Sawed-off | Irradiated Alert",
   "description": "Den klassiske Sawed-off gør meget kraftig skade på korte afstande, men med dens lave præcision, store spredning og langsomme skudhastighed må du hellere dræbe, hvad du rammer. Den er blevet spraymalet med strålingsfare-advarselsmønstre.",
@@ -134908,6 +136784,73 @@
   }
  },
  {
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "description": "SCAR-20 er en halvautomatisk snigskytteriffel, der med en høj skudhastighed og kraftig lang-afstandsskade dog har langsom bevægelseshastighed og høj pris. Den har fået påført et grønt og gråt camouflagemønster.\\n\\n<i>Kalder alle arktiske hævnere</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "scar_arctic_camo_panels",
+   "name": "Arctic Camo Panels"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1470",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
   "description": "SCAR-20 er en halvautomatisk snigskytteriffel, der med en høj skudhastighed og kraftig lang-afstandsskade dog har langsom bevægelseshastighed og høj pris. Den er påført et blåt og lilla gradientdesign.\\n\\n<i>\\\"Det er et stort våben til så lille et bur...\\\"</i>",
@@ -134976,6 +136919,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-c624b6694da0",
+  "name": "SCAR-20 | Sirocco Script",
+  "description": "SCAR-20 er en halvautomatisk snigskytteriffel, der med en høj skudhastighed og kraftig lang-afstandsskade dog har langsom bevægelseshastighed og høj pris. Der er påført et dekorativt mønster af pseudokalligrafi og arabesk geometri.\\n\\n<i>Formet af varme, støv og tørre vinde</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "scar_sirocco",
+   "name": "Sirocco Script"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1453",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -146025,6 +148035,140 @@
   }
  },
  {
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "description": "Tec-9, en ideel pistol for terroristen på farten, er dødelig i nærkamp og har en høj magasinkapacitet. Der er påført et flerfarvet mønster af krydser, firkanter og prikker.\\n\\n<i>Sæt prik på kryds og tværs</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "tec9_perimeter_urban",
+   "name": "Perimeter"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1447",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "description": "Tec-9, en ideel pistol for terroristen på farten, er dødelig i nærkamp og har en høj magasinkapacitet. Den er blevet specialmalet med arabeskinspirerede mosaikmønstre.\\n\\n<i>Våbenhvile gennem øget våbenbrug</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "tec9_sultan",
+   "name": "Sultan"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1462",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-arabesque",
+    "name": "Arabesque-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_arabesque.3d2ee80f107ddabe862843e7b8097b1fdc98a917.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
   "id": "skin-50ccad9f2ecc",
   "name": "UMP-45 | Mechanism",
   "description": "UMP45, maskinpistol-familiens misforståede mellembarn, har én ulempe som er dens lille magasin, men den er derudover et fleksibelt automatvåben til nærkamp. Den har fået påført et anodiseret mønster med motorkomponenter.\\n\\n<i>\\\"Det ser ikke godt ud...\\\"</i>",
@@ -153017,6 +155161,73 @@
   }
  },
  {
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "description": "En af fanfavoritterne fra Counter-Strike: Source – den lyddæmpede USP-pistol har en aftagelig lyddæmper, der giver skud mindre rekyl, mens den dæmper opmærksomhedstiltrækkende støj. Forstyrrende mønstre er blevet specialmalet under et toplag af skinnende maling.\\n\\n<i>De vil ikke ane, hvad der ramte dem</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "usps_spiral_glitch_iridescent",
+   "name": "Spiral Glitch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1451",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-e95b5ddb7a37",
   "name": "XM1014 | Ancient Lore",
   "description": "XM1014 er et kraftfuldt, fuldautomatisk haglgevær, som retfærdiggør sin heftige pris med evnen til hurtigt at fylde et rum med bly. Der er blevet påført et afdæmpet grønt, beige og rødt flisemønster.\\n\\n<i>\\\"Håbet er tilbage, selv for dem, som begyndte deres rejse på den forkerte vej i livet\\\"</i>",
@@ -156216,6 +158427,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-6a9f594a5d3c",
+  "name": "XM1014 | Black Site",
+  "description": "XM1014 er et kraftfuldt, fuldautomatisk haglgevær, som retfærdiggør sin heftige pris med evnen til hurtigt at fylde et rum med bly. Den er blevet specialmalet i mat sort, grå og bronze.\\n\\n<i>Lav en scene</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "xm1014_black_site",
+   "name": "Black Site"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrikvalitet",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1471",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-spy-tech",
+    "name": "Spy Tech-samlingen",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_spy_tech.441f3fa962400c425c38ece97953d4322afe1706.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }
