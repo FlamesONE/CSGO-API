@@ -22,8 +22,8 @@ const getMarketHashName = item => {
 
 const parseItem = item => {
     const { collectionsBySkins, cdnImages } = state;
-    const image =
-        cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
+    const imageInventory = item.image_inventory?.toLowerCase();
+    const image = cdnImages[imageInventory] ?? getImageUrl(imageInventory);
 
     return {
         id: `keychain-${item.object_id}`,
@@ -46,7 +46,7 @@ const parseItem = item => {
         // Return original attributes from item_game.json
         original: {
             loc_name: item.loc_name,
-            image_inventory: item.image_inventory.toLowerCase(),
+            image_inventory: imageInventory,
         },
     };
 };

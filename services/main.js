@@ -658,13 +658,12 @@ const getItemFromKey = key => {
 
     if (key.includes("Commodity Pin")) {
         const pin = items[key];
+        const imageInventory = pin.image_inventory?.toLowerCase();
         return {
             id: `collectible-${pin.object_id}`,
             name: pin.item_name,
             rarity: `rarity_${pin.item_rarity}`,
-            image:
-                state.cdnImages[pin.image_inventory.toLowerCase()] ??
-                getImageUrl(pin.image_inventory.toLowerCase()),
+            image: state.cdnImages[imageInventory] ?? getImageUrl(imageInventory),
         };
     }
 
@@ -745,25 +744,23 @@ const getItemFromKey = key => {
     if (type === "musickit") {
         const kit = musicDefinitionsObj[name];
         const exclusive = isExclusive(kit.name);
+        const imageInventory = kit.image_inventory?.toLowerCase();
         return {
             id: `music_kit-${kit.object_id}`,
             name: exclusive ? kit.loc_name : kit.coupon_name,
             rarity: "rarity_rare",
-            image:
-                state.cdnImages[kit.image_inventory.toLowerCase()] ??
-                getImageUrl(kit.image_inventory.toLowerCase()),
+            image: state.cdnImages[imageInventory] ?? getImageUrl(imageInventory),
         };
     }
 
     if (type === "keychain") {
         const keychain = keychainDefinitionsObj[name];
+        const imageInventory = keychain?.image_inventory?.toLowerCase();
         return {
-            id: `keychain-${keychain.object_id}`,
-            name: keychain.loc_name,
-            rarity: `rarity_${keychain.item_rarity}`,
-            image:
-                state.cdnImages[keychain.image_inventory.toLowerCase()] ??
-                getImageUrl(keychain.image_inventory.toLowerCase()),
+            id: `keychain-${keychain?.object_id}`,
+            name: keychain?.loc_name,
+            rarity: `rarity_${keychain?.item_rarity}`,
+            image: state.cdnImages[imageInventory] ?? getImageUrl(imageInventory),
         };
     }
 
