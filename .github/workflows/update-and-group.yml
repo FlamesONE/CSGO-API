@@ -59,8 +59,10 @@ jobs:
         with:
           path: ./manifestIdGroup.txt
       
-      # Commit all changes
-      - name: Commit & push changes
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "[bot::update-group] manifest ${{ steps.manifestIdUpdate.outputs.content }}"
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git diff --cached --quiet || git commit -m "[bot::update-group] manifest ${{ steps.manifestIdUpdate.outputs.content }}"
+          git push

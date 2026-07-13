@@ -4,17 +4,15 @@ Welcome to the unofficial JSON API for Counter-Strike 2. This API provides acces
 
 ## Usage
 
-The hosted API currently ships **2 languages** (out of **28 available**). Replace `{language}` in the URL with one of the folder codes below:
+The hosted API ships all **28 available languages**. Replace `{language}` in the URL with one of the folder codes below:
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/{language}
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/{language}
 ```
 
 ## Currently Supported Languages (hosted)
 
-`en`, `zh-CN`
-
-Need other languages? See [Adding More Languages](#adding-more-languages).
+`en`, `zh-CN`, `pt-BR`, `ru`, `es-ES`, `bg`, `cs`, `da`, `nl`, `fi`, `fr`, `de`, `el`, `hu`, `it`, `ja`, `ko`, `es-MX`, `no`, `pl`, `pt-PT`, `ro`, `sv`, `zh-TW`, `th`, `tr`, `uk`, `vi`
 
 ## Adding More Languages
 
@@ -43,7 +41,7 @@ Full list with display names in [`constants.js`](constants.js).
 ### All items
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/all.json
 ```
 
 Object with all items accessible by their id.
@@ -51,7 +49,7 @@ Object with all items accessible by their id.
 ### List skins
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/skins.json
 ```
 
 Example response:
@@ -125,7 +123,7 @@ Example response:
 ### List skins not grouped
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins_not_grouped.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/skins_not_grouped.json
 ```
 
 Similar to the previous but in this case is not grouped by wear (Factory New, Field-Tested, etc) and state (normal, stattrak, souvenir).
@@ -188,7 +186,7 @@ Example response:
 ### List stickers
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/stickers.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/stickers.json
 ```
 
 Example response:
@@ -228,7 +226,7 @@ Example response:
 ### List sticker slabs
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/sticker_slabs.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/sticker_slabs.json
 ```
 
 Example response:
@@ -279,7 +277,7 @@ Example response:
 ### List keychains (charms)
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keychains.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/keychains.json
 ```
 
 Example response:
@@ -315,7 +313,7 @@ Example response:
 ### List collections
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collections.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/collections.json
 ```
 
 Example response:
@@ -360,7 +358,7 @@ Example response:
 This list includes cases, capsules, graffiti boxes, music kit boxes and souvenir packages.
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/crates.json
 ```
 
 Example response:
@@ -422,7 +420,7 @@ Example response:
 ### List keys
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keys.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/keys.json
 ```
 
 Example response:
@@ -454,7 +452,7 @@ Example response:
 ### List collectibles
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collectibles.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/collectibles.json
 ```
 
 Example response:
@@ -484,7 +482,7 @@ Example response:
 ### List agents
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/agents.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/agents.json
 ```
 
 Example response:
@@ -524,7 +522,7 @@ Example response:
 ### List patches
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/patches.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/patches.json
 ```
 
 Example response:
@@ -552,7 +550,7 @@ Example response:
 ### List graffiti
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/graffiti.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/graffiti.json
 ```
 
 Example response:
@@ -588,7 +586,7 @@ Example response:
 ### List music kits
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/music_kits.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/music_kits.json
 ```
 
 Example response:
@@ -617,7 +615,7 @@ Example response:
 ### List base weapons
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/base_weapons.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/base_weapons.json
 ```
 
 Example response:
@@ -637,7 +635,7 @@ Example response:
 ### List highlights
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highlights.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/highlights.json
 ```
 
 ```js
@@ -661,7 +659,7 @@ GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highli
 ### Inventory
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/inventory.json
+GET https://raw.githubusercontent.com/FlamesONE/CSGO-API/main/public/api/en/inventory.json
 ```
 
 Object with all items organized by category (skins, crates, collectibles, stickers, graffiti, music_kits, keychains, highlights, agents, patches, keys, sticker_slabs, tools). Skins are keyed by weapon_id and paint_index. Other items are keyed by def_index.
